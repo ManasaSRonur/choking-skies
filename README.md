@@ -197,7 +197,8 @@ This notebook is used to analyse the data generated so far through visuals. It g
 
 - The Listed_fire_Dates includes all individual dates from merged datasets that overlap in the same area and year. This can provide more details but also adds variation and possible duplication, especially when multiple sources are involved making it unreliable.
 - The tool used to measure fire distances works only with ring-shaped fire boundaries, so 36 fires with curve ring shapes failed while calculating distance and not included in analysis.
-- AQI was missing for many records, which were recalculated using the available pollutants data. This adds some level of uncertainity to the calculated value.
+- An actual smoke impact would be based on wind direction over a course of several days, the intensity of the fire, and its duration and many other factor. However, the fire polygon data only (reliably) provide a year for each fire - it does not (reliably) provide specific start and end dates for the fire or the wind details.
+- AQI value was missing for many records fetched through APIs, which were recalculated using the available pollutants data. This adds some level of uncertainity to the calculated value.
 - AQI data is very sparse for years 2001 to 2009 leading poor qualirt average. This makes it difficult to compare and asses out calculation of smoke estimates for this period.
 - The predictive model has R^2 value of only 0.71 which means the model explains about 71% of the variation in the data, there is still a lot of room for improvement in the model. Additionally the predicted values could be off by atleast 2 units which is significantly high for our scale of smoke estimates. While this is a fairly good model considering the data availability limitaion, this is not the best model to forecast the smoke estimate.
 
