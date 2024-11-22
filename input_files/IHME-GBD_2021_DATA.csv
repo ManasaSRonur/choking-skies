@@ -1,0 +1,253 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1980,35.26686896,38.25476439,32.04899333
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1980,0.000873863,0.000944712,0.000795877
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1980,1054.947563,1124.271566,972.0316087
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1980,0.026140019,0.027664515,0.024101932
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1980,57.46053408,61.71851046,53.30534688
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1980,0.001423779,0.001516926,0.001320449
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1981,59.62254989,63.25187693,55.16402523
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1981,0.001467631,0.001553255,0.001358527
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1981,33.51286132,36.51740798,30.43676701
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1981,0.000824922,0.000893624,0.000751751
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1982,64.53468719,68.78563347,60.0306578
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1982,0.001597885,0.001696365,0.001484324
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1982,32.03654556,34.69219651,29.32565684
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1982,0.000793233,0.000857251,0.000727034
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1984,71.90733169,76.68152125,66.41920151
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1984,0.001743823,0.001856196,0.00161161
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1981,1078.169378,1145.30146,994.2114676
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1981,0.026539811,0.028124447,0.024493629
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1983,68.299677,72.7731648,63.07508932
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1983,0.001682976,0.001785774,0.001563595
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1983,31.01433726,33.61430157,28.43772064
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1983,0.000764218,0.000826375,0.000700278
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1984,29.69989165,32.05293602,27.30880808
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1984,0.000720272,0.000776529,0.000663843
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1985,29.59083287,31.97757303,27.13137917
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1985,0.000721592,0.000778663,0.000659894
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1982,1131.218451,1199.186081,1048.662161
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1982,0.028009076,0.029581879,0.025934219
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1985,71.81084792,76.9179537,66.0313632
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1985,0.001751122,0.001871157,0.001617123
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1986,29.32369381,31.56041925,26.85172052
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1986,0.00069614,0.000751022,0.000638092
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1983,1239.013198,1314.852846,1142.356942
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1983,0.030531016,0.032312598,0.028214026
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1987,29.14687187,31.32364375,26.61491845
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1987,0.000691661,0.000745048,0.000634023
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1984,1316.450817,1391.594544,1213.389708
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1984,0.031925848,0.033709052,0.029453234
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1985,1341.358499,1422.061053,1230.998825
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1985,0.032709924,0.034461784,0.030030637
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1986,79.28980151,85.06502267,72.59698385
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1986,0.001882314,0.002017111,0.00172794
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1986,1423.130862,1506.712527,1304.772155
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1986,0.033785049,0.035688678,0.030962082
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1989,30.36509057,32.69987311,27.54388455
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1989,0.000720955,0.000774284,0.000652975
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1991,26.579527,28.69031652,24.21755616
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1991,0.000625873,0.00067312,0.000569052
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1988,30.51759083,32.90419574,27.74138803
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1988,0.000716048,0.000772131,0.000651828
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1987,1516.552046,1600.468723,1388.422214
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1987,0.03598855,0.038046637,0.032928299
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1992,24.93896427,26.78279111,22.60567444
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1992,0.000587993,0.000630684,0.000535235
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1990,27.9742877,30.16764353,25.29653583
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1990,0.000649769,0.000696589,0.000589874
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1987,83.11075398,89.14201057,76.26201454
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1987,0.001972227,0.002112844,0.001807955
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1995,20.99644903,22.83860808,19.02101778
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1995,0.000468728,0.000506702,0.00042605
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1997,18.38913723,19.98626938,16.69170235
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1997,0.000411486,0.000444998,0.000371766
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1991,1762.437047,1872.779377,1591.607931
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1991,0.041500787,0.044067516,0.037525862
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1994,22.66050988,24.52471479,20.51365002
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1994,0.000510149,0.000551271,0.00046384
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1998,18.31432512,19.85491665,16.51675392
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1998,0.000401489,0.000433019,0.000362299
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1992,1771.967046,1893.044544,1590.444191
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1992,0.041777753,0.044335247,0.037613852
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1988,1579.611293,1682.349177,1437.471428
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1988,0.037062956,0.039307305,0.033926285
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2000,14.68643487,15.89681661,13.16455596
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2000,0.00031606,0.000340822,0.000282506
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1989,1577.247647,1673.276805,1436.620891
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1989,0.037448945,0.039677935,0.034155509
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1988,86.9119604,93.05729036,79.79955596
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1988,0.002039247,0.002175752,0.001866266
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1990,1684.636365,1791.166242,1526.103165
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1990,0.039130859,0.041531135,0.035568298
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2003,12.06899558,13.07139215,10.73993602
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2003,0.00026118,0.000282627,0.000233209
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1997,2127.875589,2266.211977,1903.27388
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1997,0.047614362,0.050553299,0.04252199
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1995,2014.816441,2146.900501,1811.96127
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1995,0.044979124,0.04781695,0.04035818
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1999,17.84945209,19.33817232,16.09646486
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1999,0.000387636,0.000419004,0.000347614
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2000,2529.10868,2689.437683,2259.570347
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2000,0.054428163,0.057735522,0.048581965
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1998,2226.792843,2371.42289,1998.037069
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1998,0.048816123,0.05188569,0.043688311
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2004,11.22789807,12.1692631,9.999478652
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2004,0.000247769,0.00026836,0.000221411
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1994,1983.800456,2112.944254,1803.356115
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1994,0.044660663,0.047498839,0.040171715
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2001,14.03852772,15.28141137,12.57438325
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2001,0.000302484,0.000328203,0.000269552
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1989,91.32394777,98.03476103,83.38614898
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1989,0.002168281,0.002317122,0.001985533
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2006,10.15169233,11.00195157,9.032977069
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2006,0.000221862,0.000240693,0.000197865
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2003,2619.730943,2800.617865,2337.879533
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2003,0.056693356,0.06022943,0.050443883
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2001,2598.823268,2757.37,2324.062911
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2001,0.055996509,0.059411626,0.049807696
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2005,10.88160513,11.83569109,9.744743564
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2005,0.000233621,0.000252863,0.000208769
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1999,2411.864346,2567.095346,2155.745623
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1999,0.052379372,0.05561444,0.046833398
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2004,2612.186768,2790.44216,2316.834613
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2004,0.057642746,0.061323185,0.051181841
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2006,2708.354525,2885.697715,2390.848056
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2006,0.059190678,0.063006607,0.052240565
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2007,9.436149796,10.18263435,8.424174634
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2007,0.000202768,0.000218891,0.000181093
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2005,2741.985367,2930.489682,2435.980706
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2005,0.058868986,0.062511958,0.052383451
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1990,95.22483406,102.3251252,87.17373374
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1990,0.002211863,0.002365507,0.002037559
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2007,2801.175344,2999.253082,2471.970461
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2007,0.06019266,0.06412236,0.052814668
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1994,102.1745855,110.3995191,94.09904495
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1994,0.002300179,0.002477387,0.002117475
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1991,94.08591707,100.8908442,86.32924507
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1991,0.002215418,0.00237527,0.002033966
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1992,91.27118269,98.35424154,83.68282671
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1992,0.00215186,0.002316201,0.001976194
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1995,101.599102,108.8185915,93.93350669
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1995,0.002268091,0.002423884,0.002093782
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1997,99.057918,106.3011191,90.87506074
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1997,0.002216532,0.002370857,0.002044125
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1998,96.23688763,103.2182041,88.31232275
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1998,0.00210971,0.0022501,0.001946899
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1999,86.53411994,92.3203251,79.9194493
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1999,0.001879283,0.002005597,0.00172619
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2000,83.251947,88.60750207,76.51446381
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2000,0.001791644,0.001902251,0.00164256
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2001,77.64522297,82.87802883,70.87186532
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2001,0.001672974,0.001782015,0.001522823
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2003,74.42712553,79.54551915,67.83587033
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2003,0.001610638,0.001716353,0.001464158
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2008,9.331958757,10.06913659,8.286497387
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2008,0.000202673,0.000219009,0.000180316
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2008,2850.658339,3055.880694,2489.489788
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2008,0.061910202,0.066172828,0.053922267
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2004,72.26994575,77.62790628,65.41504532
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2004,0.00159476,0.001702015,0.001444247
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2009,8.804064973,9.519536119,7.847899645
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2009,0.000192376,0.000207575,0.000170761
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2009,2848.753135,3052.664236,2456.281606
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2009,0.062247611,0.066589355,0.05384875
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2005,73.60193309,78.92835756,66.92005981
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2005,0.001580178,0.001685068,0.001435608
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2006,69.56402286,74.72237287,62.93292999
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2006,0.001520291,0.001629905,0.001372038
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2007,68.47424362,73.75034726,61.83837878
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2007,0.001471394,0.001579571,0.001331095
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2010,9.043401733,9.772402082,7.96572463
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2010,0.000192237,0.000207027,0.000170356
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2008,64.19259335,68.94853157,57.71132364
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2008,0.001394124,0.001494394,0.001252491
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2011,8.671925428,9.352765235,7.677366885
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2011,0.000179893,0.000193107,0.000159245
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2012,8.10243479,8.716352894,7.173146462
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2012,0.000167577,0.000179904,0.000148342
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2009,61.94242398,66.71201319,55.71104872
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2009,0.001353508,0.001454124,0.001214547
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2010,2926.94398,3143.312785,2521.47867
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2010,0.062218535,0.066579808,0.053631328
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2012,3035.502021,3255.701226,2649.168287
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2012,0.062782534,0.067256967,0.053914091
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2011,3033.454757,3254.984386,2641.378678
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2011,0.062926504,0.067277995,0.054360239
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2010,64.71656743,69.64737093,58.18279383
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2010,0.001375699,0.001475332,0.001238729
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2013,8.475758394,9.133267146,7.465870756
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2013,0.000170734,0.000183704,0.000150394
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2011,66.98655466,72.16320048,60.06753774
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2011,0.001389566,0.001490556,0.00124712
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2012,70.42164038,75.92472855,63.33801955
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2012,0.001456492,0.001560139,0.001307682
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2013,3191.232979,3425.380244,2723.7896
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2013,0.064284615,0.068672121,0.055296766
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2013,72.36311029,77.88185402,64.86838603
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2013,0.001457678,0.001568633,0.001310766
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2014,72.55195613,77.85530339,65.41507296
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2014,0.001447257,0.00155159,0.001304256
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2016,69.32748899,74.22545019,62.65458149
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2016,0.001325365,0.001418211,0.001203248
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2015,69.49351211,74.64302777,62.46345352
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2015,0.001374475,0.001477578,0.001239138
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2018,67.86516474,72.63914879,61.53048067
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2018,0.001276809,0.001365543,0.001153673
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2019,71.14060782,76.37887078,64.0502852
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2019,0.00131329,0.001405029,0.001181185
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2017,67.89262352,73.05726974,61.10591655
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2017,0.001294859,0.001390787,0.001164264
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2021,70.7426952,82.85650613,59.80623244
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2021,0.001155441,0.001259436,0.001040399
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2002,77.9037062,83.06992337,71.05685077
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2002,0.001665485,0.001770182,0.001520988
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1996,104.84661,112.6140318,96.40726778
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1996,0.002317277,0.002484152,0.002140803
+Deaths,Wisconsin,Both,All ages,Asthma,Number,1993,97.75338188,104.7510858,89.50967136
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,1993,0.002209584,0.002373723,0.002026496
+Deaths,Wisconsin,Both,All ages,Asthma,Number,2020,70.81352438,77.10648712,63.18043024
+Deaths,Wisconsin,Both,All ages,Asthma,Percent,2020,0.001137764,0.001244882,0.001017691
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2021,9.426883339,11.07365007,7.866757373
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2021,0.000153953,0.000167869,0.00013577
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2015,7.925627204,8.567482424,6.995033793
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2015,0.000156759,0.000168725,0.000137917
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2014,7.973776438,8.583026559,7.017558673
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2014,0.000159064,0.000171122,0.000139732
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2016,8.338509279,8.983895265,7.382257597
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2016,0.000159415,0.000171572,0.000140845
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2021,3504.502303,4123.505043,2901.978644
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2021,0.057254706,0.061565255,0.049829746
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2018,9.074571028,9.793381741,7.987179034
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2018,0.000170729,0.000184249,0.000151082
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2017,8.594068315,9.284045193,7.543536407
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2017,0.000163909,0.000176173,0.000144511
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2019,9.527549037,10.36216951,8.395346215
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2019,0.000175883,0.00019019,0.000155421
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2015,3288.746876,3526.516305,2823.162523
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2015,0.065047099,0.069651234,0.05584326
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1996,20.01355907,21.74282496,18.0359232
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1996,0.000442334,0.00047768,0.000400611
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2014,3226.070029,3458.897143,2765.776458
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2014,0.064354395,0.068923496,0.055186243
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,1993,24.29971203,26.20287915,22.16060682
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,1993,0.000549258,0.000591277,0.000499327
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2018,3378.667515,3631.301891,2902.153614
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2018,0.063565816,0.068273174,0.054827202
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2002,13.43310421,14.53252981,11.98043094
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2002,0.000287184,0.000310136,0.000255913
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2016,3334.383191,3572.398183,2861.631318
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2016,0.063745668,0.068088757,0.054941019
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2017,3361.881917,3616.219061,2908.413256
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2017,0.064118915,0.068683356,0.055238099
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2019,3407.532309,3654.068481,2928.341046
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2019,0.062905125,0.067556277,0.054426568
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Number,2020,9.244262525,10.17669888,8.049753341
+Deaths,Wisconsin,Both,All ages,Tuberculosis,Percent,2020,0.000148527,0.000163221,0.000130067
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1996,2088.867652,2233.256636,1877.194438
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1996,0.046167396,0.049110208,0.041317107
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,1993,1928.587872,2050.988889,1734.177551
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,1993,0.043593288,0.046310036,0.039169612
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2002,2619.574315,2790.422664,2334.698895
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2002,0.056003603,0.059482314,0.049746053
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Number,2020,3456.480003,3798.989963,2969.13037
+Deaths,Wisconsin,Both,All ages,Chronic obstructive pulmonary disease,Percent,2020,0.055535227,0.060803895,0.047726804

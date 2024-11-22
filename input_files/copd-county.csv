@@ -1,0 +1,3169 @@
+FIPS,COUNTY,TOPIC,YEAR,COUNT,CRUDERATE,ST_COUNT,ST_CRUDERATE
+55001,Adams,Emergency Department Visits,2002,139,90.53,16086,45.51
+55001,Adams,Emergency Department Visits,2003,93,60.32,16118,45.23
+55001,Adams,Emergency Department Visits,2004,63,40.5,15446,42.95
+55001,Adams,Emergency Department Visits,2005,118,73.7,17393,47.9
+55001,Adams,Emergency Department Visits,2006,102,63.37,16394,44.74
+55001,Adams,Emergency Department Visits,2007,96,59.61,17891,48.31
+55001,Adams,Emergency Department Visits,2008,100,61.92,20578,55.03
+55001,Adams,Emergency Department Visits,2009,101,62.53,19761,52.37
+55001,Adams,Emergency Department Visits,2010,112,68.88,20144,52.96
+55001,Adams,Emergency Department Visits,2011,114,70.16,21217,55.46
+55001,Adams,Emergency Department Visits,2012,113,70.3,20725,53.9
+55001,Adams,Emergency Department Visits,2013,114,70.8,20150,52.13
+55001,Adams,Emergency Department Visits,2014,147,92.2,21484,55.3
+55001,Adams,Emergency Department Visits,2015,185,116.34,23367,59.88
+55001,Adams,Emergency Department Visits,2016,135,84.99,26449,67.4
+55001,Adams,Emergency Department Visits,2017,160,100.17,29448,74.49
+55001,Adams,Emergency Department Visits,2018,194,118.78,26936,67.65
+55001,Adams,Emergency Department Visits,2019,234,143.46,26987,67.31
+55001,Adams,Emergency Department Visits,2020,179,107.44,17203,42.44
+55001,Adams,Emergency Department Visits,2021,169,100.43,17867,43.95
+55001,Adams,Emergency Department Visits,2022,181,104.84,19464,47.69
+55003,Ashland,Emergency Department Visits,2002,50,46.94,16086,45.51
+55003,Ashland,Emergency Department Visits,2003,50,46.81,16118,45.23
+55003,Ashland,Emergency Department Visits,2004,54,50.4,15446,42.95
+55003,Ashland,Emergency Department Visits,2005,57,53.18,17393,47.9
+55003,Ashland,Emergency Department Visits,2006,47,43.77,16394,44.74
+55003,Ashland,Emergency Department Visits,2007,40,37.44,17891,48.31
+55003,Ashland,Emergency Department Visits,2008,61,56.84,20578,55.03
+55003,Ashland,Emergency Department Visits,2009,39,36.23,19761,52.37
+55003,Ashland,Emergency Department Visits,2010,54,50.04,20144,52.96
+55003,Ashland,Emergency Department Visits,2011,60,55.73,21217,55.46
+55003,Ashland,Emergency Department Visits,2012,63,58.74,20725,53.9
+55003,Ashland,Emergency Department Visits,2013,60,55.8,20150,52.13
+55003,Ashland,Emergency Department Visits,2014,74,68.69,21484,55.3
+55003,Ashland,Emergency Department Visits,2015,94,87.35,23367,59.88
+55003,Ashland,Emergency Department Visits,2016,122,114.04,26449,67.4
+55003,Ashland,Emergency Department Visits,2017,122,114.59,29448,74.49
+55003,Ashland,Emergency Department Visits,2018,122,114.39,26936,67.65
+55003,Ashland,Emergency Department Visits,2019,127,118.7,26987,67.31
+55003,Ashland,Emergency Department Visits,2020,85,76.89,17203,42.44
+55003,Ashland,Emergency Department Visits,2021,122,109.85,17867,43.95
+55003,Ashland,Emergency Department Visits,2022,146,130.39,19464,47.69
+55005,Barron,Emergency Department Visits,2002,114,37.3,16086,45.51
+55005,Barron,Emergency Department Visits,2003,144,46.89,16118,45.23
+55005,Barron,Emergency Department Visits,2004,154,49.77,15446,42.95
+55005,Barron,Emergency Department Visits,2005,181,57.87,17393,47.9
+55005,Barron,Emergency Department Visits,2006,204,64.73,16394,44.74
+55005,Barron,Emergency Department Visits,2007,235,74.03,17891,48.31
+55005,Barron,Emergency Department Visits,2008,264,82.58,20578,55.03
+55005,Barron,Emergency Department Visits,2009,269,83.78,19761,52.37
+55005,Barron,Emergency Department Visits,2010,280,86.66,20144,52.96
+55005,Barron,Emergency Department Visits,2011,278,85.75,21217,55.46
+55005,Barron,Emergency Department Visits,2012,318,98.09,20725,53.9
+55005,Barron,Emergency Department Visits,2013,267,82.55,20150,52.13
+55005,Barron,Emergency Department Visits,2014,287,89.32,21484,55.3
+55005,Barron,Emergency Department Visits,2015,340,105.78,23367,59.88
+55005,Barron,Emergency Department Visits,2016,328,102.26,26449,67.4
+55005,Barron,Emergency Department Visits,2017,363,112.86,29448,74.49
+55005,Barron,Emergency Department Visits,2018,352,109.41,26936,67.65
+55005,Barron,Emergency Department Visits,2019,353,109.09,26987,67.31
+55005,Barron,Emergency Department Visits,2020,258,77.06,17203,42.44
+55005,Barron,Emergency Department Visits,2021,277,82.51,17867,43.95
+55005,Barron,Emergency Department Visits,2022,325,96.12,19464,47.69
+55007,Bayfield,Emergency Department Visits,2002,42,38.88,16086,45.51
+55007,Bayfield,Emergency Department Visits,2003,46,42.19,16118,45.23
+55007,Bayfield,Emergency Department Visits,2004,29,26.33,15446,42.95
+55007,Bayfield,Emergency Department Visits,2005,46,41.56,17393,47.9
+55007,Bayfield,Emergency Department Visits,2006,41,36.68,16394,44.74
+55007,Bayfield,Emergency Department Visits,2007,36,31.73,17891,48.31
+55007,Bayfield,Emergency Department Visits,2008,53,46.45,20578,55.03
+55007,Bayfield,Emergency Department Visits,2009,65,57.14,19761,52.37
+55007,Bayfield,Emergency Department Visits,2010,45,39.49,20144,52.96
+55007,Bayfield,Emergency Department Visits,2011,51,44.63,21217,55.46
+55007,Bayfield,Emergency Department Visits,2012,41,35.9,20725,53.9
+55007,Bayfield,Emergency Department Visits,2013,25,21.82,20150,52.13
+55007,Bayfield,Emergency Department Visits,2014,60,52.64,21484,55.3
+55007,Bayfield,Emergency Department Visits,2015,61,53.58,23367,59.88
+55007,Bayfield,Emergency Department Visits,2016,92,80.8,26449,67.4
+55007,Bayfield,Emergency Department Visits,2017,71,61.85,29448,74.49
+55007,Bayfield,Emergency Department Visits,2018,88,75.93,26936,67.65
+55007,Bayfield,Emergency Department Visits,2019,79,67.5,26987,67.31
+55007,Bayfield,Emergency Department Visits,2020,61,48.86,17203,42.44
+55007,Bayfield,Emergency Department Visits,2021,68,53.79,17867,43.95
+55007,Bayfield,Emergency Department Visits,2022,89,68.86,19464,47.69
+55009,Brown,Emergency Department Visits,2002,954,64.7,16086,45.51
+55009,Brown,Emergency Department Visits,2003,1009,67.71,16118,45.23
+55009,Brown,Emergency Department Visits,2004,896,59.36,15446,42.95
+55009,Brown,Emergency Department Visits,2005,726,47.51,17393,47.9
+55009,Brown,Emergency Department Visits,2006,704,45.62,16394,44.74
+55009,Brown,Emergency Department Visits,2007,802,51.3,17891,48.31
+55009,Brown,Emergency Department Visits,2008,851,53.84,20578,55.03
+55009,Brown,Emergency Department Visits,2009,912,57.01,19761,52.37
+55009,Brown,Emergency Department Visits,2010,1130,69.66,20144,52.96
+55009,Brown,Emergency Department Visits,2011,1216,74.12,21217,55.46
+55009,Brown,Emergency Department Visits,2012,1160,69.84,20725,53.9
+55009,Brown,Emergency Department Visits,2013,1032,61.55,20150,52.13
+55009,Brown,Emergency Department Visits,2014,1120,66.04,21484,55.3
+55009,Brown,Emergency Department Visits,2015,1092,63.82,23367,59.88
+55009,Brown,Emergency Department Visits,2016,1132,65.52,26449,67.4
+55009,Brown,Emergency Department Visits,2017,1199,68.65,29448,74.49
+55009,Brown,Emergency Department Visits,2018,991,56.21,26936,67.65
+55009,Brown,Emergency Department Visits,2019,943,53.09,26987,67.31
+55009,Brown,Emergency Department Visits,2020,643,35.59,17203,42.44
+55009,Brown,Emergency Department Visits,2021,642,35.33,17867,43.95
+55009,Brown,Emergency Department Visits,2022,792,43.27,19464,47.69
+55011,Buffalo,Emergency Department Visits,2002,27,28.67,16086,45.51
+55011,Buffalo,Emergency Department Visits,2003,27,28.55,16118,45.23
+55011,Buffalo,Emergency Department Visits,2004,26,27.48,15446,42.95
+55011,Buffalo,Emergency Department Visits,2005,50,52.05,17393,47.9
+55011,Buffalo,Emergency Department Visits,2006,45,46.89,16394,44.74
+55011,Buffalo,Emergency Department Visits,2007,43,44.55,17891,48.31
+55011,Buffalo,Emergency Department Visits,2008,34,35.28,20578,55.03
+55011,Buffalo,Emergency Department Visits,2009,39,40.61,19761,52.37
+55011,Buffalo,Emergency Department Visits,2010,60,62.43,20144,52.96
+55011,Buffalo,Emergency Department Visits,2011,42,44.02,21217,55.46
+55011,Buffalo,Emergency Department Visits,2012,57,59.67,20725,53.9
+55011,Buffalo,Emergency Department Visits,2013,48,50.2,20150,52.13
+55011,Buffalo,Emergency Department Visits,2014,43,45.31,21484,55.3
+55011,Buffalo,Emergency Department Visits,2015,69,72.74,23367,59.88
+55011,Buffalo,Emergency Department Visits,2016,77,81.61,26449,67.4
+55011,Buffalo,Emergency Department Visits,2017,85,89.91,29448,74.49
+55011,Buffalo,Emergency Department Visits,2018,68,71.75,26936,67.65
+55011,Buffalo,Emergency Department Visits,2019,65,68.78,26987,67.31
+55011,Buffalo,Emergency Department Visits,2020,54,55.65,17203,42.44
+55011,Buffalo,Emergency Department Visits,2021,34,35.01,17867,43.95
+55011,Buffalo,Emergency Department Visits,2022,36,36.66,19464,47.69
+55013,Burnett,Emergency Department Visits,2002,81,70.65,16086,45.51
+55013,Burnett,Emergency Department Visits,2003,74,63.73,16118,45.23
+55013,Burnett,Emergency Department Visits,2004,64,54.68,15446,42.95
+55013,Burnett,Emergency Department Visits,2005,80,68.05,17393,47.9
+55013,Burnett,Emergency Department Visits,2006,74,62.86,16394,44.74
+55013,Burnett,Emergency Department Visits,2007,96,81.76,17891,48.31
+55013,Burnett,Emergency Department Visits,2008,155,133.26,20578,55.03
+55013,Burnett,Emergency Department Visits,2009,100,86.35,19761,52.37
+55013,Burnett,Emergency Department Visits,2010,103,89.26,20144,52.96
+55013,Burnett,Emergency Department Visits,2011,119,102.78,21217,55.46
+55013,Burnett,Emergency Department Visits,2012,125,108.38,20725,53.9
+55013,Burnett,Emergency Department Visits,2013,95,82.57,20150,52.13
+55013,Burnett,Emergency Department Visits,2014,101,87.57,21484,55.3
+55013,Burnett,Emergency Department Visits,2015,90,78.25,23367,59.88
+55013,Burnett,Emergency Department Visits,2016,109,94.1,26449,67.4
+55013,Burnett,Emergency Department Visits,2017,147,125.72,29448,74.49
+55013,Burnett,Emergency Department Visits,2018,151,128.47,26936,67.65
+55013,Burnett,Emergency Department Visits,2019,144,121.55,26987,67.31
+55013,Burnett,Emergency Department Visits,2020,94,73.16,17203,42.44
+55013,Burnett,Emergency Department Visits,2021,116,88.19,17867,43.95
+55013,Burnett,Emergency Department Visits,2022,151,112.53,19464,47.69
+55015,Calumet,Emergency Department Visits,2002,51,18.29,16086,45.51
+55015,Calumet,Emergency Department Visits,2003,56,19.44,16118,45.23
+55015,Calumet,Emergency Department Visits,2004,55,18.7,15446,42.95
+55015,Calumet,Emergency Department Visits,2005,71,23.61,17393,47.9
+55015,Calumet,Emergency Department Visits,2006,35,11.39,16394,44.74
+55015,Calumet,Emergency Department Visits,2007,52,16.67,17891,48.31
+55015,Calumet,Emergency Department Visits,2008,57,18.01,20578,55.03
+55015,Calumet,Emergency Department Visits,2009,82,25.48,19761,52.37
+55015,Calumet,Emergency Department Visits,2010,69,21.14,20144,52.96
+55015,Calumet,Emergency Department Visits,2011,87,26.37,21217,55.46
+55015,Calumet,Emergency Department Visits,2012,84,25.4,20725,53.9
+55015,Calumet,Emergency Department Visits,2013,70,21.1,20150,52.13
+55015,Calumet,Emergency Department Visits,2014,68,20.48,21484,55.3
+55015,Calumet,Emergency Department Visits,2015,66,19.73,23367,59.88
+55015,Calumet,Emergency Department Visits,2016,66,19.69,26449,67.4
+55015,Calumet,Emergency Department Visits,2017,103,30.22,29448,74.49
+55015,Calumet,Emergency Department Visits,2018,126,36.61,26936,67.65
+55015,Calumet,Emergency Department Visits,2019,136,39.18,26987,67.31
+55015,Calumet,Emergency Department Visits,2020,79,21.71,17203,42.44
+55015,Calumet,Emergency Department Visits,2021,70,19.08,17867,43.95
+55015,Calumet,Emergency Department Visits,2022,87,23.51,19464,47.69
+55017,Chippewa,Emergency Department Visits,2002,177,47.52,16086,45.51
+55017,Chippewa,Emergency Department Visits,2003,141,37.11,16118,45.23
+55017,Chippewa,Emergency Department Visits,2004,100,25.32,15446,42.95
+55017,Chippewa,Emergency Department Visits,2005,152,37.69,17393,47.9
+55017,Chippewa,Emergency Department Visits,2006,148,36.23,16394,44.74
+55017,Chippewa,Emergency Department Visits,2007,144,34.6,17891,48.31
+55017,Chippewa,Emergency Department Visits,2008,158,37.47,20578,55.03
+55017,Chippewa,Emergency Department Visits,2009,156,36.54,19761,52.37
+55017,Chippewa,Emergency Department Visits,2010,210,48.62,20144,52.96
+55017,Chippewa,Emergency Department Visits,2011,282,64.65,21217,55.46
+55017,Chippewa,Emergency Department Visits,2012,242,55.19,20725,53.9
+55017,Chippewa,Emergency Department Visits,2013,270,61.38,20150,52.13
+55017,Chippewa,Emergency Department Visits,2014,262,59.13,21484,55.3
+55017,Chippewa,Emergency Department Visits,2015,246,55.39,23367,59.88
+55017,Chippewa,Emergency Department Visits,2016,350,78.41,26449,67.4
+55017,Chippewa,Emergency Department Visits,2017,515,114.53,29448,74.49
+55017,Chippewa,Emergency Department Visits,2018,396,87.23,26936,67.65
+55017,Chippewa,Emergency Department Visits,2019,348,75.83,26987,67.31
+55017,Chippewa,Emergency Department Visits,2020,214,45.46,17203,42.44
+55017,Chippewa,Emergency Department Visits,2021,206,43.52,17867,43.95
+55017,Chippewa,Emergency Department Visits,2022,261,54.79,19464,47.69
+55019,Clark,Emergency Department Visits,2002,112,52.91,16086,45.51
+55019,Clark,Emergency Department Visits,2003,85,39.92,16118,45.23
+55019,Clark,Emergency Department Visits,2004,109,50.91,15446,42.95
+55019,Clark,Emergency Department Visits,2005,144,67.06,17393,47.9
+55019,Clark,Emergency Department Visits,2006,148,68.66,16394,44.74
+55019,Clark,Emergency Department Visits,2007,170,78.42,17891,48.31
+55019,Clark,Emergency Department Visits,2008,200,91.8,20578,55.03
+55019,Clark,Emergency Department Visits,2009,161,73.83,19761,52.37
+55019,Clark,Emergency Department Visits,2010,161,73.46,20144,52.96
+55019,Clark,Emergency Department Visits,2011,183,83.62,21217,55.46
+55019,Clark,Emergency Department Visits,2012,182,83.99,20725,53.9
+55019,Clark,Emergency Department Visits,2013,176,81.03,20150,52.13
+55019,Clark,Emergency Department Visits,2014,147,67.91,21484,55.3
+55019,Clark,Emergency Department Visits,2015,129,59.65,23367,59.88
+55019,Clark,Emergency Department Visits,2016,165,76.16,26449,67.4
+55019,Clark,Emergency Department Visits,2017,144,66.57,29448,74.49
+55019,Clark,Emergency Department Visits,2018,155,71.55,26936,67.65
+55019,Clark,Emergency Department Visits,2019,223,103.05,26987,67.31
+55019,Clark,Emergency Department Visits,2020,134,62.46,17203,42.44
+55019,Clark,Emergency Department Visits,2021,133,61.87,17867,43.95
+55019,Clark,Emergency Department Visits,2022,173,80.14,19464,47.69
+55021,Columbia,Emergency Department Visits,2002,141,38.71,16086,45.51
+55021,Columbia,Emergency Department Visits,2003,173,46.86,16118,45.23
+55021,Columbia,Emergency Department Visits,2004,209,55.71,15446,42.95
+55021,Columbia,Emergency Department Visits,2005,206,54.48,17393,47.9
+55021,Columbia,Emergency Department Visits,2006,212,55.38,16394,44.74
+55021,Columbia,Emergency Department Visits,2007,204,52.68,17891,48.31
+55021,Columbia,Emergency Department Visits,2008,243,62.39,20578,55.03
+55021,Columbia,Emergency Department Visits,2009,217,55.28,19761,52.37
+55021,Columbia,Emergency Department Visits,2010,233,58.63,20144,52.96
+55021,Columbia,Emergency Department Visits,2011,200,50.3,21217,55.46
+55021,Columbia,Emergency Department Visits,2012,180,45.41,20725,53.9
+55021,Columbia,Emergency Department Visits,2013,191,48.1,20150,52.13
+55021,Columbia,Emergency Department Visits,2014,235,58.98,21484,55.3
+55021,Columbia,Emergency Department Visits,2015,253,63.39,23367,59.88
+55021,Columbia,Emergency Department Visits,2016,288,71.68,26449,67.4
+55021,Columbia,Emergency Department Visits,2017,339,83.47,29448,74.49
+55021,Columbia,Emergency Department Visits,2018,247,60.51,26936,67.65
+55021,Columbia,Emergency Department Visits,2019,268,65.01,26987,67.31
+55021,Columbia,Emergency Department Visits,2020,188,44.93,17203,42.44
+55021,Columbia,Emergency Department Visits,2021,169,40.26,17867,43.95
+55021,Columbia,Emergency Department Visits,2022,213,50.72,19464,47.69
+55023,Crawford,Emergency Department Visits,2002,22,19.34,16086,45.51
+55023,Crawford,Emergency Department Visits,2003,30,26.36,16118,45.23
+55023,Crawford,Emergency Department Visits,2004,21,18.23,15446,42.95
+55023,Crawford,Emergency Department Visits,2005,33,28.58,17393,47.9
+55023,Crawford,Emergency Department Visits,2006,40,34.33,16394,44.74
+55023,Crawford,Emergency Department Visits,2007,48,40.76,17891,48.31
+55023,Crawford,Emergency Department Visits,2008,57,48.29,20578,55.03
+55023,Crawford,Emergency Department Visits,2009,50,42.26,19761,52.37
+55023,Crawford,Emergency Department Visits,2010,52,44.02,20144,52.96
+55023,Crawford,Emergency Department Visits,2011,62,52.18,21217,55.46
+55023,Crawford,Emergency Department Visits,2012,74,62.61,20725,53.9
+55023,Crawford,Emergency Department Visits,2013,68,58.15,20150,52.13
+55023,Crawford,Emergency Department Visits,2014,65,55.72,21484,55.3
+55023,Crawford,Emergency Department Visits,2015,103,88.17,23367,59.88
+55023,Crawford,Emergency Department Visits,2016,112,96.12,26449,67.4
+55023,Crawford,Emergency Department Visits,2017,126,108.07,29448,74.49
+55023,Crawford,Emergency Department Visits,2018,116,98.9,26936,67.65
+55023,Crawford,Emergency Department Visits,2019,91,77.65,26987,67.31
+55023,Crawford,Emergency Department Visits,2020,50,42.8,17203,42.44
+55023,Crawford,Emergency Department Visits,2021,63,53.8,17867,43.95
+55023,Crawford,Emergency Department Visits,2022,69,58.85,19464,47.69
+55025,Dane,Emergency Department Visits,2002,780,28.12,16086,45.51
+55025,Dane,Emergency Department Visits,2003,747,26.55,16118,45.23
+55025,Dane,Emergency Department Visits,2004,802,28.08,15446,42.95
+55025,Dane,Emergency Department Visits,2005,780,26.87,17393,47.9
+55025,Dane,Emergency Department Visits,2006,723,24.45,16394,44.74
+55025,Dane,Emergency Department Visits,2007,725,24.01,17891,48.31
+55025,Dane,Emergency Department Visits,2008,900,29.19,20578,55.03
+55025,Dane,Emergency Department Visits,2009,862,27.39,19761,52.37
+55025,Dane,Emergency Department Visits,2010,873,27.32,20144,52.96
+55025,Dane,Emergency Department Visits,2011,1087,33.58,21217,55.46
+55025,Dane,Emergency Department Visits,2012,926,28.24,20725,53.9
+55025,Dane,Emergency Department Visits,2013,938,28.25,20150,52.13
+55025,Dane,Emergency Department Visits,2014,972,28.9,21484,55.3
+55025,Dane,Emergency Department Visits,2015,1112,32.61,23367,59.88
+55025,Dane,Emergency Department Visits,2016,1240,35.73,26449,67.4
+55025,Dane,Emergency Department Visits,2017,1261,35.71,29448,74.49
+55025,Dane,Emergency Department Visits,2018,1047,29.15,26936,67.65
+55025,Dane,Emergency Department Visits,2019,1124,30.86,26987,67.31
+55025,Dane,Emergency Department Visits,2020,701,18.83,17203,42.44
+55025,Dane,Emergency Department Visits,2021,769,20.53,17867,43.95
+55025,Dane,Emergency Department Visits,2022,795,21.04,19464,47.69
+55027,Dodge,Emergency Department Visits,2002,251,42.87,16086,45.51
+55027,Dodge,Emergency Department Visits,2003,304,51.45,16118,45.23
+55027,Dodge,Emergency Department Visits,2004,386,64.66,15446,42.95
+55027,Dodge,Emergency Department Visits,2005,364,60.49,17393,47.9
+55027,Dodge,Emergency Department Visits,2006,240,39.4,16394,44.74
+55027,Dodge,Emergency Department Visits,2007,229,37.22,17891,48.31
+55027,Dodge,Emergency Department Visits,2008,389,62.77,20578,55.03
+55027,Dodge,Emergency Department Visits,2009,398,64.22,19761,52.37
+55027,Dodge,Emergency Department Visits,2010,371,59.49,20144,52.96
+55027,Dodge,Emergency Department Visits,2011,400,64.16,21217,55.46
+55027,Dodge,Emergency Department Visits,2012,385,61.62,20725,53.9
+55027,Dodge,Emergency Department Visits,2013,391,62.6,20150,52.13
+55027,Dodge,Emergency Department Visits,2014,430,68.71,21484,55.3
+55027,Dodge,Emergency Department Visits,2015,477,76.18,23367,59.88
+55027,Dodge,Emergency Department Visits,2016,587,93.66,26449,67.4
+55027,Dodge,Emergency Department Visits,2017,505,80.01,29448,74.49
+55027,Dodge,Emergency Department Visits,2018,478,75.22,26936,67.65
+55027,Dodge,Emergency Department Visits,2019,500,78.52,26987,67.31
+55027,Dodge,Emergency Department Visits,2020,348,53.7,17203,42.44
+55027,Dodge,Emergency Department Visits,2021,277,43.02,17867,43.95
+55027,Dodge,Emergency Department Visits,2022,367,56.97,19464,47.69
+55029,Door,Emergency Department Visits,2002,111,54.14,16086,45.51
+55029,Door,Emergency Department Visits,2003,120,58.19,16118,45.23
+55029,Door,Emergency Department Visits,2004,125,60.63,15446,42.95
+55029,Door,Emergency Department Visits,2005,149,71.98,17393,47.9
+55029,Door,Emergency Department Visits,2006,94,45.09,16394,44.74
+55029,Door,Emergency Department Visits,2007,118,56.45,17891,48.31
+55029,Door,Emergency Department Visits,2008,124,58.9,20578,55.03
+55029,Door,Emergency Department Visits,2009,98,46.46,19761,52.37
+55029,Door,Emergency Department Visits,2010,101,47.79,20144,52.96
+55029,Door,Emergency Department Visits,2011,88,41.58,21217,55.46
+55029,Door,Emergency Department Visits,2012,100,47.48,20725,53.9
+55029,Door,Emergency Department Visits,2013,101,47.8,20150,52.13
+55029,Door,Emergency Department Visits,2014,106,50.25,21484,55.3
+55029,Door,Emergency Department Visits,2015,122,57.97,23367,59.88
+55029,Door,Emergency Department Visits,2016,101,47.82,26449,67.4
+55029,Door,Emergency Department Visits,2017,101,47.49,29448,74.49
+55029,Door,Emergency Department Visits,2018,99,46.03,26936,67.65
+55029,Door,Emergency Department Visits,2019,112,51.63,26987,67.31
+55029,Door,Emergency Department Visits,2020,73,31.1,17203,42.44
+55029,Door,Emergency Department Visits,2021,113,47.53,17867,43.95
+55029,Door,Emergency Department Visits,2022,99,41.26,19464,47.69
+55031,Douglas,Emergency Department Visits,2002,161,55.64,16086,45.51
+55031,Douglas,Emergency Department Visits,2003,192,65.95,16118,45.23
+55031,Douglas,Emergency Department Visits,2004,166,56.7,15446,42.95
+55031,Douglas,Emergency Department Visits,2005,174,59.11,17393,47.9
+55031,Douglas,Emergency Department Visits,2006,174,58.78,16394,44.74
+55031,Douglas,Emergency Department Visits,2007,177,59.76,17891,48.31
+55031,Douglas,Emergency Department Visits,2008,358,120.22,20578,55.03
+55031,Douglas,Emergency Department Visits,2009,342,114.43,19761,52.37
+55031,Douglas,Emergency Department Visits,2010,324,107.48,20144,52.96
+55031,Douglas,Emergency Department Visits,2011,312,103.31,21217,55.46
+55031,Douglas,Emergency Department Visits,2012,322,106.34,20725,53.9
+55031,Douglas,Emergency Department Visits,2013,327,107.09,20150,52.13
+55031,Douglas,Emergency Department Visits,2014,356,116.07,21484,55.3
+55031,Douglas,Emergency Department Visits,2015,409,133.03,23367,59.88
+55031,Douglas,Emergency Department Visits,2016,352,113.97,26449,67.4
+55031,Douglas,Emergency Department Visits,2017,377,121.92,29448,74.49
+55031,Douglas,Emergency Department Visits,2018,355,114.45,26936,67.65
+55031,Douglas,Emergency Department Visits,2019,287,91.71,26987,67.31
+55031,Douglas,Emergency Department Visits,2020,191,59.9,17203,42.44
+55031,Douglas,Emergency Department Visits,2021,188,58.9,17867,43.95
+55031,Douglas,Emergency Department Visits,2022,210,65.47,19464,47.69
+55033,Dunn,Emergency Department Visits,2002,111,47.71,16086,45.51
+55033,Dunn,Emergency Department Visits,2003,97,41.36,16118,45.23
+55033,Dunn,Emergency Department Visits,2004,95,39.79,15446,42.95
+55033,Dunn,Emergency Department Visits,2005,122,50.32,17393,47.9
+55033,Dunn,Emergency Department Visits,2006,126,50.74,16394,44.74
+55033,Dunn,Emergency Department Visits,2007,126,49.92,17891,48.31
+55033,Dunn,Emergency Department Visits,2008,191,74.52,20578,55.03
+55033,Dunn,Emergency Department Visits,2009,156,60.07,19761,52.37
+55033,Dunn,Emergency Department Visits,2010,162,61.81,20144,52.96
+55033,Dunn,Emergency Department Visits,2011,174,66.1,21217,55.46
+55033,Dunn,Emergency Department Visits,2012,178,67.25,20725,53.9
+55033,Dunn,Emergency Department Visits,2013,156,58.58,20150,52.13
+55033,Dunn,Emergency Department Visits,2014,208,77.53,21484,55.3
+55033,Dunn,Emergency Department Visits,2015,223,82.68,23367,59.88
+55033,Dunn,Emergency Department Visits,2016,203,74.89,26449,67.4
+55033,Dunn,Emergency Department Visits,2017,249,90.53,29448,74.49
+55033,Dunn,Emergency Department Visits,2018,265,95.24,26936,67.65
+55033,Dunn,Emergency Department Visits,2019,243,86.42,26987,67.31
+55033,Dunn,Emergency Department Visits,2020,174,61.89,17203,42.44
+55033,Dunn,Emergency Department Visits,2021,177,62.52,17867,43.95
+55033,Dunn,Emergency Department Visits,2022,222,77.37,19464,47.69
+55035,Eau Claire,Emergency Department Visits,2002,279,50.2,16086,45.51
+55035,Eau Claire,Emergency Department Visits,2003,258,46.38,16118,45.23
+55035,Eau Claire,Emergency Department Visits,2004,224,40.08,15446,42.95
+55035,Eau Claire,Emergency Department Visits,2005,339,60.28,17393,47.9
+55035,Eau Claire,Emergency Department Visits,2006,288,50.55,16394,44.74
+55035,Eau Claire,Emergency Department Visits,2007,297,51.13,17891,48.31
+55035,Eau Claire,Emergency Department Visits,2008,354,60.08,20578,55.03
+55035,Eau Claire,Emergency Department Visits,2009,334,55.62,19761,52.37
+55035,Eau Claire,Emergency Department Visits,2010,337,55.14,20144,52.96
+55035,Eau Claire,Emergency Department Visits,2011,416,67.25,21217,55.46
+55035,Eau Claire,Emergency Department Visits,2012,403,64.44,20725,53.9
+55035,Eau Claire,Emergency Department Visits,2013,391,61.84,20150,52.13
+55035,Eau Claire,Emergency Department Visits,2014,413,65.04,21484,55.3
+55035,Eau Claire,Emergency Department Visits,2015,485,75.68,23367,59.88
+55035,Eau Claire,Emergency Department Visits,2016,630,97.41,26449,67.4
+55035,Eau Claire,Emergency Department Visits,2017,728,111.49,29448,74.49
+55035,Eau Claire,Emergency Department Visits,2018,632,95.56,26936,67.65
+55035,Eau Claire,Emergency Department Visits,2019,504,75.4,26987,67.31
+55035,Eau Claire,Emergency Department Visits,2020,308,45.52,17203,42.44
+55035,Eau Claire,Emergency Department Visits,2021,346,50.86,17867,43.95
+55035,Eau Claire,Emergency Department Visits,2022,393,57.24,19464,47.69
+55037,Florence,Emergency Department Visits,2002,1,2.72,16086,45.51
+55037,Florence,Emergency Department Visits,2003,2,5.52,16118,45.23
+55037,Florence,Emergency Department Visits,2004,2,5.54,15446,42.95
+55037,Florence,Emergency Department Visits,2005,4,11.16,17393,47.9
+55037,Florence,Emergency Department Visits,2006,0,0,16394,44.74
+55037,Florence,Emergency Department Visits,2007,0,0,17891,48.31
+55037,Florence,Emergency Department Visits,2008,0,0,20578,55.03
+55037,Florence,Emergency Department Visits,2009,0,0,19761,52.37
+55037,Florence,Emergency Department Visits,2010,1,2.95,20144,52.96
+55037,Florence,Emergency Department Visits,2011,1,2.96,21217,55.46
+55037,Florence,Emergency Department Visits,2012,0,0,20725,53.9
+55037,Florence,Emergency Department Visits,2013,0,0,20150,52.13
+55037,Florence,Emergency Department Visits,2014,1,2.93,21484,55.3
+55037,Florence,Emergency Department Visits,2015,0,0,23367,59.88
+55037,Florence,Emergency Department Visits,2016,0,0,26449,67.4
+55037,Florence,Emergency Department Visits,2017,0,0,29448,74.49
+55037,Florence,Emergency Department Visits,2018,1,2.91,26936,67.65
+55037,Florence,Emergency Department Visits,2019,2,5.76,26987,67.31
+55037,Florence,Emergency Department Visits,2020,0,0,17203,42.44
+55037,Florence,Emergency Department Visits,2021,0,0,17867,43.95
+55037,Florence,Emergency Department Visits,2022,1,2.62,19464,47.69
+55039,Fond du Lac,Emergency Department Visits,2002,188,29.13,16086,45.51
+55039,Fond du Lac,Emergency Department Visits,2003,198,30.45,16118,45.23
+55039,Fond du Lac,Emergency Department Visits,2004,166,25.34,15446,42.95
+55039,Fond du Lac,Emergency Department Visits,2005,171,25.88,17393,47.9
+55039,Fond du Lac,Emergency Department Visits,2006,220,32.98,16394,44.74
+55039,Fond du Lac,Emergency Department Visits,2007,322,47.69,17891,48.31
+55039,Fond du Lac,Emergency Department Visits,2008,341,49.94,20578,55.03
+55039,Fond du Lac,Emergency Department Visits,2009,393,57.06,19761,52.37
+55039,Fond du Lac,Emergency Department Visits,2010,330,47.54,20144,52.96
+55039,Fond du Lac,Emergency Department Visits,2011,329,47.08,21217,55.46
+55039,Fond du Lac,Emergency Department Visits,2012,366,52.21,20725,53.9
+55039,Fond du Lac,Emergency Department Visits,2013,292,41.51,20150,52.13
+55039,Fond du Lac,Emergency Department Visits,2014,334,47.42,21484,55.3
+55039,Fond du Lac,Emergency Department Visits,2015,424,59.96,23367,59.88
+55039,Fond du Lac,Emergency Department Visits,2016,415,58.31,26449,67.4
+55039,Fond du Lac,Emergency Department Visits,2017,486,67.86,29448,74.49
+55039,Fond du Lac,Emergency Department Visits,2018,553,76.62,26936,67.65
+55039,Fond du Lac,Emergency Department Visits,2019,496,68.44,26987,67.31
+55039,Fond du Lac,Emergency Department Visits,2020,310,42.46,17203,42.44
+55039,Fond du Lac,Emergency Department Visits,2021,312,42.56,17867,43.95
+55039,Fond du Lac,Emergency Department Visits,2022,241,32.93,19464,47.69
+55041,Forest,Emergency Department Visits,2002,37,55.14,16086,45.51
+55041,Forest,Emergency Department Visits,2003,31,46.58,16118,45.23
+55041,Forest,Emergency Department Visits,2004,46,68.56,15446,42.95
+55041,Forest,Emergency Department Visits,2005,46,68.82,17393,47.9
+55041,Forest,Emergency Department Visits,2006,32,47.98,16394,44.74
+55041,Forest,Emergency Department Visits,2007,38,57.09,17891,48.31
+55041,Forest,Emergency Department Visits,2008,51,76.97,20578,55.03
+55041,Forest,Emergency Department Visits,2009,42,64.64,19761,52.37
+55041,Forest,Emergency Department Visits,2010,45,69.8,20144,52.96
+55041,Forest,Emergency Department Visits,2011,45,69.86,21217,55.46
+55041,Forest,Emergency Department Visits,2012,42,65.58,20725,53.9
+55041,Forest,Emergency Department Visits,2013,50,78.38,20150,52.13
+55041,Forest,Emergency Department Visits,2014,40,62.53,21484,55.3
+55041,Forest,Emergency Department Visits,2015,43,67.45,23367,59.88
+55041,Forest,Emergency Department Visits,2016,46,71.85,26449,67.4
+55041,Forest,Emergency Department Visits,2017,36,56.1,29448,74.49
+55041,Forest,Emergency Department Visits,2018,41,63.16,26936,67.65
+55041,Forest,Emergency Department Visits,2019,59,90.59,26987,67.31
+55041,Forest,Emergency Department Visits,2020,29,42.74,17203,42.44
+55041,Forest,Emergency Department Visits,2021,32,46.51,17867,43.95
+55041,Forest,Emergency Department Visits,2022,33,47.31,19464,47.69
+55043,Grant,Emergency Department Visits,2002,108,35.65,16086,45.51
+55043,Grant,Emergency Department Visits,2003,75,24.77,16118,45.23
+55043,Grant,Emergency Department Visits,2004,109,35.82,15446,42.95
+55043,Grant,Emergency Department Visits,2005,124,40.63,17393,47.9
+55043,Grant,Emergency Department Visits,2006,153,50.1,16394,44.74
+55043,Grant,Emergency Department Visits,2007,163,52.79,17891,48.31
+55043,Grant,Emergency Department Visits,2008,172,55.2,20578,55.03
+55043,Grant,Emergency Department Visits,2009,197,62.74,19761,52.37
+55043,Grant,Emergency Department Visits,2010,253,80.03,20144,52.96
+55043,Grant,Emergency Department Visits,2011,218,68.98,21217,55.46
+55043,Grant,Emergency Department Visits,2012,229,72.74,20725,53.9
+55043,Grant,Emergency Department Visits,2013,247,78.18,20150,52.13
+55043,Grant,Emergency Department Visits,2014,299,94.4,21484,55.3
+55043,Grant,Emergency Department Visits,2015,293,92.21,23367,59.88
+55043,Grant,Emergency Department Visits,2016,238,74.87,26449,67.4
+55043,Grant,Emergency Department Visits,2017,279,87.48,29448,74.49
+55043,Grant,Emergency Department Visits,2018,225,70.63,26936,67.65
+55043,Grant,Emergency Department Visits,2019,273,85.55,26987,67.31
+55043,Grant,Emergency Department Visits,2020,180,55.72,17203,42.44
+55043,Grant,Emergency Department Visits,2021,230,71.19,17867,43.95
+55043,Grant,Emergency Department Visits,2022,219,67.7,19464,47.69
+55045,Green,Emergency Department Visits,2002,66,28.78,16086,45.51
+55045,Green,Emergency Department Visits,2003,81,35.08,16118,45.23
+55045,Green,Emergency Department Visits,2004,83,35.35,15446,42.95
+55045,Green,Emergency Department Visits,2005,77,32.23,17393,47.9
+55045,Green,Emergency Department Visits,2006,86,35.16,16394,44.74
+55045,Green,Emergency Department Visits,2007,78,31.48,17891,48.31
+55045,Green,Emergency Department Visits,2008,78,31.07,20578,55.03
+55045,Green,Emergency Department Visits,2009,78,30.82,19761,52.37
+55045,Green,Emergency Department Visits,2010,96,37.63,20144,52.96
+55045,Green,Emergency Department Visits,2011,126,49.34,21217,55.46
+55045,Green,Emergency Department Visits,2012,150,58.72,20725,53.9
+55045,Green,Emergency Department Visits,2013,155,60.41,20150,52.13
+55045,Green,Emergency Department Visits,2014,107,41.77,21484,55.3
+55045,Green,Emergency Department Visits,2015,147,57.03,23367,59.88
+55045,Green,Emergency Department Visits,2016,182,70.55,26449,67.4
+55045,Green,Emergency Department Visits,2017,150,57.64,29448,74.49
+55045,Green,Emergency Department Visits,2018,109,41.68,26936,67.65
+55045,Green,Emergency Department Visits,2019,118,44.95,26987,67.31
+55045,Green,Emergency Department Visits,2020,89,33.69,17203,42.44
+55045,Green,Emergency Department Visits,2021,105,39.65,17867,43.95
+55045,Green,Emergency Department Visits,2022,144,54.4,19464,47.69
+55047,Green Lake,Emergency Department Visits,2002,45,33.75,16086,45.51
+55047,Green Lake,Emergency Department Visits,2003,100,75.15,16118,45.23
+55047,Green Lake,Emergency Department Visits,2004,73,54.93,15446,42.95
+55047,Green Lake,Emergency Department Visits,2005,79,59.29,17393,47.9
+55047,Green Lake,Emergency Department Visits,2006,63,47.07,16394,44.74
+55047,Green Lake,Emergency Department Visits,2007,71,52.84,17891,48.31
+55047,Green Lake,Emergency Department Visits,2008,101,75.1,20578,55.03
+55047,Green Lake,Emergency Department Visits,2009,109,81.07,19761,52.37
+55047,Green Lake,Emergency Department Visits,2010,99,73.77,20144,52.96
+55047,Green Lake,Emergency Department Visits,2011,83,61.81,21217,55.46
+55047,Green Lake,Emergency Department Visits,2012,73,54.55,20725,53.9
+55047,Green Lake,Emergency Department Visits,2013,76,57.12,20150,52.13
+55047,Green Lake,Emergency Department Visits,2014,70,53.1,21484,55.3
+55047,Green Lake,Emergency Department Visits,2015,92,69.81,23367,59.88
+55047,Green Lake,Emergency Department Visits,2016,106,80.61,26449,67.4
+55047,Green Lake,Emergency Department Visits,2017,160,121.42,29448,74.49
+55047,Green Lake,Emergency Department Visits,2018,136,102.48,26936,67.65
+55047,Green Lake,Emergency Department Visits,2019,126,94.04,26987,67.31
+55047,Green Lake,Emergency Department Visits,2020,68,50.49,17203,42.44
+55047,Green Lake,Emergency Department Visits,2021,67,49.02,17867,43.95
+55047,Green Lake,Emergency Department Visits,2022,71,51.89,19464,47.69
+55049,Iowa,Emergency Department Visits,2002,50,32.65,16086,45.51
+55049,Iowa,Emergency Department Visits,2003,45,29.14,16118,45.23
+55049,Iowa,Emergency Department Visits,2004,37,23.87,15446,42.95
+55049,Iowa,Emergency Department Visits,2005,30,19.07,17393,47.9
+55049,Iowa,Emergency Department Visits,2006,47,29.54,16394,44.74
+55049,Iowa,Emergency Department Visits,2007,43,26.75,17891,48.31
+55049,Iowa,Emergency Department Visits,2008,50,30.82,20578,55.03
+55049,Iowa,Emergency Department Visits,2009,58,35.76,19761,52.37
+55049,Iowa,Emergency Department Visits,2010,46,28.19,20144,52.96
+55049,Iowa,Emergency Department Visits,2011,53,32.52,21217,55.46
+55049,Iowa,Emergency Department Visits,2012,43,26.35,20725,53.9
+55049,Iowa,Emergency Department Visits,2013,50,30.65,20150,52.13
+55049,Iowa,Emergency Department Visits,2014,72,43.97,21484,55.3
+55049,Iowa,Emergency Department Visits,2015,72,43.93,23367,59.88
+55049,Iowa,Emergency Department Visits,2016,83,50.71,26449,67.4
+55049,Iowa,Emergency Department Visits,2017,104,62.73,29448,74.49
+55049,Iowa,Emergency Department Visits,2018,89,53.35,26936,67.65
+55049,Iowa,Emergency Department Visits,2019,101,60.27,26987,67.31
+55049,Iowa,Emergency Department Visits,2020,73,43.42,17203,42.44
+55049,Iowa,Emergency Department Visits,2021,67,39.49,17867,43.95
+55049,Iowa,Emergency Department Visits,2022,97,56.82,19464,47.69
+55051,Iron,Emergency Department Visits,2002,7,13.9,16086,45.51
+55051,Iron,Emergency Department Visits,2003,10,20.16,16118,45.23
+55051,Iron,Emergency Department Visits,2004,3,6.12,15446,42.95
+55051,Iron,Emergency Department Visits,2005,5,10.27,17393,47.9
+55051,Iron,Emergency Department Visits,2006,7,14.76,16394,44.74
+55051,Iron,Emergency Department Visits,2007,9,18.97,17891,48.31
+55051,Iron,Emergency Department Visits,2008,14,29.78,20578,55.03
+55051,Iron,Emergency Department Visits,2009,7,15.07,19761,52.37
+55051,Iron,Emergency Department Visits,2010,12,25.8,20144,52.96
+55051,Iron,Emergency Department Visits,2011,11,23.56,21217,55.46
+55051,Iron,Emergency Department Visits,2012,7,15.17,20725,53.9
+55051,Iron,Emergency Department Visits,2013,7,15.29,20150,52.13
+55051,Iron,Emergency Department Visits,2014,2,4.35,21484,55.3
+55051,Iron,Emergency Department Visits,2015,5,11.05,23367,59.88
+55051,Iron,Emergency Department Visits,2016,8,17.83,26449,67.4
+55051,Iron,Emergency Department Visits,2017,10,22.11,29448,74.49
+55051,Iron,Emergency Department Visits,2018,11,24.37,26936,67.65
+55051,Iron,Emergency Department Visits,2019,13,28.63,26987,67.31
+55051,Iron,Emergency Department Visits,2020,11,22.58,17203,42.44
+55051,Iron,Emergency Department Visits,2021,19,38.6,17867,43.95
+55051,Iron,Emergency Department Visits,2022,14,28.19,19464,47.69
+55053,Jackson,Emergency Department Visits,2002,101,77.21,16086,45.51
+55053,Jackson,Emergency Department Visits,2003,105,79.14,16118,45.23
+55053,Jackson,Emergency Department Visits,2004,78,58.7,15446,42.95
+55053,Jackson,Emergency Department Visits,2005,87,64.4,17393,47.9
+55053,Jackson,Emergency Department Visits,2006,64,46.89,16394,44.74
+55053,Jackson,Emergency Department Visits,2007,54,38.8,17891,48.31
+55053,Jackson,Emergency Department Visits,2008,84,59.72,20578,55.03
+55053,Jackson,Emergency Department Visits,2009,77,54.37,19761,52.37
+55053,Jackson,Emergency Department Visits,2010,54,37.69,20144,52.96
+55053,Jackson,Emergency Department Visits,2011,76,53.07,21217,55.46
+55053,Jackson,Emergency Department Visits,2012,100,69.98,20725,53.9
+55053,Jackson,Emergency Department Visits,2013,97,67.61,20150,52.13
+55053,Jackson,Emergency Department Visits,2014,111,77.19,21484,55.3
+55053,Jackson,Emergency Department Visits,2015,127,88.31,23367,59.88
+55053,Jackson,Emergency Department Visits,2016,141,97.84,26449,67.4
+55053,Jackson,Emergency Department Visits,2017,153,106.09,29448,74.49
+55053,Jackson,Emergency Department Visits,2018,123,84.68,26936,67.65
+55053,Jackson,Emergency Department Visits,2019,155,105.73,26987,67.31
+55053,Jackson,Emergency Department Visits,2020,111,74.15,17203,42.44
+55053,Jackson,Emergency Department Visits,2021,104,69.83,17867,43.95
+55053,Jackson,Emergency Department Visits,2022,89,59.68,19464,47.69
+55055,Jefferson,Emergency Department Visits,2002,148,29.53,16086,45.51
+55055,Jefferson,Emergency Department Visits,2003,158,31.16,16118,45.23
+55055,Jefferson,Emergency Department Visits,2004,145,28.17,15446,42.95
+55055,Jefferson,Emergency Department Visits,2005,182,34.82,17393,47.9
+55055,Jefferson,Emergency Department Visits,2006,186,35.05,16394,44.74
+55055,Jefferson,Emergency Department Visits,2007,159,29.52,17891,48.31
+55055,Jefferson,Emergency Department Visits,2008,259,47.48,20578,55.03
+55055,Jefferson,Emergency Department Visits,2009,224,40.81,19761,52.37
+55055,Jefferson,Emergency Department Visits,2010,211,38.09,20144,52.96
+55055,Jefferson,Emergency Department Visits,2011,260,46.52,21217,55.46
+55055,Jefferson,Emergency Department Visits,2012,351,62.11,20725,53.9
+55055,Jefferson,Emergency Department Visits,2013,287,50.37,20150,52.13
+55055,Jefferson,Emergency Department Visits,2014,290,50.62,21484,55.3
+55055,Jefferson,Emergency Department Visits,2015,288,50.01,23367,59.88
+55055,Jefferson,Emergency Department Visits,2016,341,58.86,26449,67.4
+55055,Jefferson,Emergency Department Visits,2017,365,62.4,29448,74.49
+55055,Jefferson,Emergency Department Visits,2018,377,63.66,26936,67.65
+55055,Jefferson,Emergency Department Visits,2019,347,58.24,26987,67.31
+55055,Jefferson,Emergency Department Visits,2020,191,32.09,17203,42.44
+55055,Jefferson,Emergency Department Visits,2021,245,40.93,17867,43.95
+55055,Jefferson,Emergency Department Visits,2022,272,45.34,19464,47.69
+55057,Juneau,Emergency Department Visits,2002,133,77.87,16086,45.51
+55057,Juneau,Emergency Department Visits,2003,122,70.96,16118,45.23
+55057,Juneau,Emergency Department Visits,2004,111,63.5,15446,42.95
+55057,Juneau,Emergency Department Visits,2005,125,67.22,17393,47.9
+55057,Juneau,Emergency Department Visits,2006,131,69.71,16394,44.74
+55057,Juneau,Emergency Department Visits,2007,112,59.16,17891,48.31
+55057,Juneau,Emergency Department Visits,2008,143,75.01,20578,55.03
+55057,Juneau,Emergency Department Visits,2009,129,67.24,19761,52.37
+55057,Juneau,Emergency Department Visits,2010,154,80.18,20144,52.96
+55057,Juneau,Emergency Department Visits,2011,130,67.4,21217,55.46
+55057,Juneau,Emergency Department Visits,2012,170,87.62,20725,53.9
+55057,Juneau,Emergency Department Visits,2013,186,96.38,20150,52.13
+55057,Juneau,Emergency Department Visits,2014,171,89.12,21484,55.3
+55057,Juneau,Emergency Department Visits,2015,189,98.47,23367,59.88
+55057,Juneau,Emergency Department Visits,2016,252,130.74,26449,67.4
+55057,Juneau,Emergency Department Visits,2017,279,144.35,29448,74.49
+55057,Juneau,Emergency Department Visits,2018,222,114.04,26936,67.65
+55057,Juneau,Emergency Department Visits,2019,211,107.52,26987,67.31
+55057,Juneau,Emergency Department Visits,2020,159,81.13,17203,42.44
+55057,Juneau,Emergency Department Visits,2021,191,96.88,17867,43.95
+55057,Juneau,Emergency Department Visits,2022,148,74.25,19464,47.69
+55059,Kenosha,Emergency Department Visits,2002,693,70.76,16086,45.51
+55059,Kenosha,Emergency Department Visits,2003,773,77.98,16118,45.23
+55059,Kenosha,Emergency Department Visits,2004,729,72.47,15446,42.95
+55059,Kenosha,Emergency Department Visits,2005,919,89.89,17393,47.9
+55059,Kenosha,Emergency Department Visits,2006,781,75.62,16394,44.74
+55059,Kenosha,Emergency Department Visits,2007,958,91.75,17891,48.31
+55059,Kenosha,Emergency Department Visits,2008,961,91.04,20578,55.03
+55059,Kenosha,Emergency Department Visits,2009,822,77.28,19761,52.37
+55059,Kenosha,Emergency Department Visits,2010,886,82.64,20144,52.96
+55059,Kenosha,Emergency Department Visits,2011,837,77.53,21217,55.46
+55059,Kenosha,Emergency Department Visits,2012,873,80.25,20725,53.9
+55059,Kenosha,Emergency Department Visits,2013,883,80.61,20150,52.13
+55059,Kenosha,Emergency Department Visits,2014,936,84.75,21484,55.3
+55059,Kenosha,Emergency Department Visits,2015,977,87.86,23367,59.88
+55059,Kenosha,Emergency Department Visits,2016,1005,89.77,26449,67.4
+55059,Kenosha,Emergency Department Visits,2017,1049,92.86,29448,74.49
+55059,Kenosha,Emergency Department Visits,2018,1074,94.1,26936,67.65
+55059,Kenosha,Emergency Department Visits,2019,1105,95.85,26987,67.31
+55059,Kenosha,Emergency Department Visits,2020,582,50.69,17203,42.44
+55059,Kenosha,Emergency Department Visits,2021,640,55.65,17867,43.95
+55059,Kenosha,Emergency Department Visits,2022,684,59.48,19464,47.69
+55061,Kewaunee,Emergency Department Visits,2002,32,23.47,16086,45.51
+55061,Kewaunee,Emergency Department Visits,2003,49,35.81,16118,45.23
+55061,Kewaunee,Emergency Department Visits,2004,25,18.08,15446,42.95
+55061,Kewaunee,Emergency Department Visits,2005,41,29.45,17393,47.9
+55061,Kewaunee,Emergency Department Visits,2006,25,17.78,16394,44.74
+55061,Kewaunee,Emergency Department Visits,2007,41,28.92,17891,48.31
+55061,Kewaunee,Emergency Department Visits,2008,55,38.72,20578,55.03
+55061,Kewaunee,Emergency Department Visits,2009,35,24.55,19761,52.37
+55061,Kewaunee,Emergency Department Visits,2010,40,27.86,20144,52.96
+55061,Kewaunee,Emergency Department Visits,2011,55,38.07,21217,55.46
+55061,Kewaunee,Emergency Department Visits,2012,56,38.81,20725,53.9
+55061,Kewaunee,Emergency Department Visits,2013,53,36.84,20150,52.13
+55061,Kewaunee,Emergency Department Visits,2014,38,26.44,21484,55.3
+55061,Kewaunee,Emergency Department Visits,2015,57,39.71,23367,59.88
+55061,Kewaunee,Emergency Department Visits,2016,47,32.58,26449,67.4
+55061,Kewaunee,Emergency Department Visits,2017,56,38.71,29448,74.49
+55061,Kewaunee,Emergency Department Visits,2018,70,48.21,26936,67.65
+55061,Kewaunee,Emergency Department Visits,2019,63,43.05,26987,67.31
+55061,Kewaunee,Emergency Department Visits,2020,28,19.01,17203,42.44
+55061,Kewaunee,Emergency Department Visits,2021,47,31.71,17867,43.95
+55061,Kewaunee,Emergency Department Visits,2022,45,30.19,19464,47.69
+55063,La Crosse,Emergency Department Visits,2002,199,30.3,16086,45.51
+55063,La Crosse,Emergency Department Visits,2003,209,31.6,16118,45.23
+55063,La Crosse,Emergency Department Visits,2004,230,34.55,15446,42.95
+55063,La Crosse,Emergency Department Visits,2005,305,45.39,17393,47.9
+55063,La Crosse,Emergency Department Visits,2006,240,35.3,16394,44.74
+55063,La Crosse,Emergency Department Visits,2007,263,38.06,17891,48.31
+55063,La Crosse,Emergency Department Visits,2008,295,42,20578,55.03
+55063,La Crosse,Emergency Department Visits,2009,290,40.55,19761,52.37
+55063,La Crosse,Emergency Department Visits,2010,260,35.87,20144,52.96
+55063,La Crosse,Emergency Department Visits,2011,316,43.36,21217,55.46
+55063,La Crosse,Emergency Department Visits,2012,293,39.93,20725,53.9
+55063,La Crosse,Emergency Department Visits,2013,315,42.76,20150,52.13
+55063,La Crosse,Emergency Department Visits,2014,360,48.65,21484,55.3
+55063,La Crosse,Emergency Department Visits,2015,376,50.47,23367,59.88
+55063,La Crosse,Emergency Department Visits,2016,456,60.88,26449,67.4
+55063,La Crosse,Emergency Department Visits,2017,557,73.83,29448,74.49
+55063,La Crosse,Emergency Department Visits,2018,504,66.38,26936,67.65
+55063,La Crosse,Emergency Department Visits,2019,408,53.4,26987,67.31
+55063,La Crosse,Emergency Department Visits,2020,303,38.89,17203,42.44
+55063,La Crosse,Emergency Department Visits,2021,381,48.92,17867,43.95
+55063,La Crosse,Emergency Department Visits,2022,367,46.97,19464,47.69
+55065,Lafayette,Emergency Department Visits,2002,26,24.37,16086,45.51
+55065,Lafayette,Emergency Department Visits,2003,23,21.37,16118,45.23
+55065,Lafayette,Emergency Department Visits,2004,28,25.8,15446,42.95
+55065,Lafayette,Emergency Department Visits,2005,41,37.5,17393,47.9
+55065,Lafayette,Emergency Department Visits,2006,29,26.45,16394,44.74
+55065,Lafayette,Emergency Department Visits,2007,55,50.24,17891,48.31
+55065,Lafayette,Emergency Department Visits,2008,51,45.95,20578,55.03
+55065,Lafayette,Emergency Department Visits,2009,40,35.97,19761,52.37
+55065,Lafayette,Emergency Department Visits,2010,40,35.72,20144,52.96
+55065,Lafayette,Emergency Department Visits,2011,46,40.83,21217,55.46
+55065,Lafayette,Emergency Department Visits,2012,50,44.42,20725,53.9
+55065,Lafayette,Emergency Department Visits,2013,51,45.67,20150,52.13
+55065,Lafayette,Emergency Department Visits,2014,51,45.62,21484,55.3
+55065,Lafayette,Emergency Department Visits,2015,82,73.08,23367,59.88
+55065,Lafayette,Emergency Department Visits,2016,66,58.51,26449,67.4
+55065,Lafayette,Emergency Department Visits,2017,81,71.57,29448,74.49
+55065,Lafayette,Emergency Department Visits,2018,60,53.06,26936,67.65
+55065,Lafayette,Emergency Department Visits,2019,75,65.92,26987,67.31
+55065,Lafayette,Emergency Department Visits,2020,43,38.04,17203,42.44
+55065,Lafayette,Emergency Department Visits,2021,37,32.37,17867,43.95
+55065,Lafayette,Emergency Department Visits,2022,71,61.81,19464,47.69
+55067,Langlade,Emergency Department Visits,2002,128,88.66,16086,45.51
+55067,Langlade,Emergency Department Visits,2003,121,83.72,16118,45.23
+55067,Langlade,Emergency Department Visits,2004,147,101.71,15446,42.95
+55067,Langlade,Emergency Department Visits,2005,148,102.99,17393,47.9
+55067,Langlade,Emergency Department Visits,2006,141,97.85,16394,44.74
+55067,Langlade,Emergency Department Visits,2007,124,85.75,17891,48.31
+55067,Langlade,Emergency Department Visits,2008,181,125.15,20578,55.03
+55067,Langlade,Emergency Department Visits,2009,161,111.65,19761,52.37
+55067,Langlade,Emergency Department Visits,2010,182,126.21,20144,52.96
+55067,Langlade,Emergency Department Visits,2011,178,124.13,21217,55.46
+55067,Langlade,Emergency Department Visits,2012,178,124.79,20725,53.9
+55067,Langlade,Emergency Department Visits,2013,193,136.7,20150,52.13
+55067,Langlade,Emergency Department Visits,2014,193,137.47,21484,55.3
+55067,Langlade,Emergency Department Visits,2015,143,102.59,23367,59.88
+55067,Langlade,Emergency Department Visits,2016,138,98.73,26449,67.4
+55067,Langlade,Emergency Department Visits,2017,140,99.57,29448,74.49
+55067,Langlade,Emergency Department Visits,2018,121,85.2,26936,67.65
+55067,Langlade,Emergency Department Visits,2019,144,101.6,26987,67.31
+55067,Langlade,Emergency Department Visits,2020,99,69.02,17203,42.44
+55067,Langlade,Emergency Department Visits,2021,117,81,17867,43.95
+55067,Langlade,Emergency Department Visits,2022,130,89.74,19464,47.69
+55069,Lincoln,Emergency Department Visits,2002,144,71.28,16086,45.51
+55069,Lincoln,Emergency Department Visits,2003,114,56.15,16118,45.23
+55069,Lincoln,Emergency Department Visits,2004,112,54.66,15446,42.95
+55069,Lincoln,Emergency Department Visits,2005,160,77.84,17393,47.9
+55069,Lincoln,Emergency Department Visits,2006,153,74.25,16394,44.74
+55069,Lincoln,Emergency Department Visits,2007,141,68.31,17891,48.31
+55069,Lincoln,Emergency Department Visits,2008,233,112.61,20578,55.03
+55069,Lincoln,Emergency Department Visits,2009,191,92.68,19761,52.37
+55069,Lincoln,Emergency Department Visits,2010,198,95.74,20144,52.96
+55069,Lincoln,Emergency Department Visits,2011,200,97.14,21217,55.46
+55069,Lincoln,Emergency Department Visits,2012,179,86.76,20725,53.9
+55069,Lincoln,Emergency Department Visits,2013,153,74.44,20150,52.13
+55069,Lincoln,Emergency Department Visits,2014,223,108.75,21484,55.3
+55069,Lincoln,Emergency Department Visits,2015,250,122.45,23367,59.88
+55069,Lincoln,Emergency Department Visits,2016,196,95.51,26449,67.4
+55069,Lincoln,Emergency Department Visits,2017,239,116.28,29448,74.49
+55069,Lincoln,Emergency Department Visits,2018,213,103.15,26936,67.65
+55069,Lincoln,Emergency Department Visits,2019,245,118.29,26987,67.31
+55069,Lincoln,Emergency Department Visits,2020,145,67.48,17203,42.44
+55069,Lincoln,Emergency Department Visits,2021,161,74.74,17867,43.95
+55069,Lincoln,Emergency Department Visits,2022,170,78.57,19464,47.69
+55071,Manitowoc,Emergency Department Visits,2002,301,54.29,16086,45.51
+55071,Manitowoc,Emergency Department Visits,2003,363,65.38,16118,45.23
+55071,Manitowoc,Emergency Department Visits,2004,323,58.08,15446,42.95
+55071,Manitowoc,Emergency Department Visits,2005,397,71.02,17393,47.9
+55071,Manitowoc,Emergency Department Visits,2006,315,56.06,16394,44.74
+55071,Manitowoc,Emergency Department Visits,2007,318,56.26,17891,48.31
+55071,Manitowoc,Emergency Department Visits,2008,316,55.7,20578,55.03
+55071,Manitowoc,Emergency Department Visits,2009,311,54.59,19761,52.37
+55071,Manitowoc,Emergency Department Visits,2010,366,63.92,20144,52.96
+55071,Manitowoc,Emergency Department Visits,2011,300,52.32,21217,55.46
+55071,Manitowoc,Emergency Department Visits,2012,331,57.88,20725,53.9
+55071,Manitowoc,Emergency Department Visits,2013,321,56.24,20150,52.13
+55071,Manitowoc,Emergency Department Visits,2014,263,46.31,21484,55.3
+55071,Manitowoc,Emergency Department Visits,2015,288,50.87,23367,59.88
+55071,Manitowoc,Emergency Department Visits,2016,323,57.02,26449,67.4
+55071,Manitowoc,Emergency Department Visits,2017,388,68.46,29448,74.49
+55071,Manitowoc,Emergency Department Visits,2018,314,55.28,26936,67.65
+55071,Manitowoc,Emergency Department Visits,2019,305,53.57,26987,67.31
+55071,Manitowoc,Emergency Department Visits,2020,233,39.71,17203,42.44
+55071,Manitowoc,Emergency Department Visits,2021,251,42.64,17867,43.95
+55071,Manitowoc,Emergency Department Visits,2022,272,46.15,19464,47.69
+55073,Marathon,Emergency Department Visits,2002,264,31.81,16086,45.51
+55073,Marathon,Emergency Department Visits,2003,216,25.91,16118,45.23
+55073,Marathon,Emergency Department Visits,2004,155,18.46,15446,42.95
+55073,Marathon,Emergency Department Visits,2005,202,23.76,17393,47.9
+55073,Marathon,Emergency Department Visits,2006,193,22.33,16394,44.74
+55073,Marathon,Emergency Department Visits,2007,312,35.52,17891,48.31
+55073,Marathon,Emergency Department Visits,2008,343,38.55,20578,55.03
+55073,Marathon,Emergency Department Visits,2009,290,32.23,19761,52.37
+55073,Marathon,Emergency Department Visits,2010,335,36.89,20144,52.96
+55073,Marathon,Emergency Department Visits,2011,353,38.65,21217,55.46
+55073,Marathon,Emergency Department Visits,2012,341,37.25,20725,53.9
+55073,Marathon,Emergency Department Visits,2013,312,33.9,20150,52.13
+55073,Marathon,Emergency Department Visits,2014,343,37.1,21484,55.3
+55073,Marathon,Emergency Department Visits,2015,334,35.99,23367,59.88
+55073,Marathon,Emergency Department Visits,2016,375,40.27,26449,67.4
+55073,Marathon,Emergency Department Visits,2017,494,52.68,29448,74.49
+55073,Marathon,Emergency Department Visits,2018,462,49.04,26936,67.65
+55073,Marathon,Emergency Department Visits,2019,509,53.78,26987,67.31
+55073,Marathon,Emergency Department Visits,2020,310,32.23,17203,42.44
+55073,Marathon,Emergency Department Visits,2021,334,34.68,17867,43.95
+55073,Marathon,Emergency Department Visits,2022,304,31.4,19464,47.69
+55075,Marinette,Emergency Department Visits,2002,200,67.55,16086,45.51
+55075,Marinette,Emergency Department Visits,2003,205,69.12,16118,45.23
+55075,Marinette,Emergency Department Visits,2004,156,52.82,15446,42.95
+55075,Marinette,Emergency Department Visits,2005,156,52.41,17393,47.9
+55075,Marinette,Emergency Department Visits,2006,144,48.54,16394,44.74
+55075,Marinette,Emergency Department Visits,2007,259,86.99,17891,48.31
+55075,Marinette,Emergency Department Visits,2008,217,72.73,20578,55.03
+55075,Marinette,Emergency Department Visits,2009,237,79.28,19761,52.37
+55075,Marinette,Emergency Department Visits,2010,265,88.44,20144,52.96
+55075,Marinette,Emergency Department Visits,2011,228,76.19,21217,55.46
+55075,Marinette,Emergency Department Visits,2012,230,76.62,20725,53.9
+55075,Marinette,Emergency Department Visits,2013,212,70.63,20150,52.13
+55075,Marinette,Emergency Department Visits,2014,212,70.64,21484,55.3
+55075,Marinette,Emergency Department Visits,2015,205,68.46,23367,59.88
+55075,Marinette,Emergency Department Visits,2016,234,78.47,26449,67.4
+55075,Marinette,Emergency Department Visits,2017,246,82.21,29448,74.49
+55075,Marinette,Emergency Department Visits,2018,170,56.62,26936,67.65
+55075,Marinette,Emergency Department Visits,2019,188,62.45,26987,67.31
+55075,Marinette,Emergency Department Visits,2020,171,54.74,17203,42.44
+55075,Marinette,Emergency Department Visits,2021,182,58.23,17867,43.95
+55075,Marinette,Emergency Department Visits,2022,182,57.89,19464,47.69
+55077,Marquette,Emergency Department Visits,2002,70,66,16086,45.51
+55077,Marquette,Emergency Department Visits,2003,92,85.55,16118,45.23
+55077,Marquette,Emergency Department Visits,2004,109,99.51,15446,42.95
+55077,Marquette,Emergency Department Visits,2005,139,125.03,17393,47.9
+55077,Marquette,Emergency Department Visits,2006,80,71.21,16394,44.74
+55077,Marquette,Emergency Department Visits,2007,107,95.25,17891,48.31
+55077,Marquette,Emergency Department Visits,2008,92,80.97,20578,55.03
+55077,Marquette,Emergency Department Visits,2009,99,87.16,19761,52.37
+55077,Marquette,Emergency Department Visits,2010,114,100.71,20144,52.96
+55077,Marquette,Emergency Department Visits,2011,94,83.13,21217,55.46
+55077,Marquette,Emergency Department Visits,2012,77,68.12,20725,53.9
+55077,Marquette,Emergency Department Visits,2013,90,79.73,20150,52.13
+55077,Marquette,Emergency Department Visits,2014,109,97.05,21484,55.3
+55077,Marquette,Emergency Department Visits,2015,110,97.86,23367,59.88
+55077,Marquette,Emergency Department Visits,2016,93,82.53,26449,67.4
+55077,Marquette,Emergency Department Visits,2017,110,96.35,29448,74.49
+55077,Marquette,Emergency Department Visits,2018,111,96.31,26936,67.65
+55077,Marquette,Emergency Department Visits,2019,102,87.67,26987,67.31
+55077,Marquette,Emergency Department Visits,2020,61,52.21,17203,42.44
+55077,Marquette,Emergency Department Visits,2021,70,59.27,17867,43.95
+55077,Marquette,Emergency Department Visits,2022,65,54.56,19464,47.69
+55078,Menominee,Emergency Department Visits,2002,47,196,16086,45.51
+55078,Menominee,Emergency Department Visits,2003,50,210.97,16118,45.23
+55078,Menominee,Emergency Department Visits,2004,36,152.16,15446,42.95
+55078,Menominee,Emergency Department Visits,2005,48,202.36,17393,47.9
+55078,Menominee,Emergency Department Visits,2006,52,221.75,16394,44.74
+55078,Menominee,Emergency Department Visits,2007,39,164.21,17891,48.31
+55078,Menominee,Emergency Department Visits,2008,31,131.69,20578,55.03
+55078,Menominee,Emergency Department Visits,2009,42,175.37,19761,52.37
+55078,Menominee,Emergency Department Visits,2010,49,201.56,20144,52.96
+55078,Menominee,Emergency Department Visits,2011,44,177.85,21217,55.46
+55078,Menominee,Emergency Department Visits,2012,28,112.31,20725,53.9
+55078,Menominee,Emergency Department Visits,2013,51,205.89,20150,52.13
+55078,Menominee,Emergency Department Visits,2014,49,192.38,21484,55.3
+55078,Menominee,Emergency Department Visits,2015,76,297.22,23367,59.88
+55078,Menominee,Emergency Department Visits,2016,51,197.52,26449,67.4
+55078,Menominee,Emergency Department Visits,2017,48,181.68,29448,74.49
+55078,Menominee,Emergency Department Visits,2018,64,240.78,26936,67.65
+55078,Menominee,Emergency Department Visits,2019,53,202.06,26987,67.31
+55078,Menominee,Emergency Department Visits,2020,28,116.13,17203,42.44
+55078,Menominee,Emergency Department Visits,2021,36,148.33,17867,43.95
+55078,Menominee,Emergency Department Visits,2022,61,253.85,19464,47.69
+55079,Milwaukee,Emergency Department Visits,2002,3597,60.53,16086,45.51
+55079,Milwaukee,Emergency Department Visits,2003,3470,58.34,16118,45.23
+55079,Milwaukee,Emergency Department Visits,2004,3485,58.57,15446,42.95
+55079,Milwaukee,Emergency Department Visits,2005,4005,67.42,17393,47.9
+55079,Milwaukee,Emergency Department Visits,2006,3767,63.58,16394,44.74
+55079,Milwaukee,Emergency Department Visits,2007,4074,68.65,17891,48.31
+55079,Milwaukee,Emergency Department Visits,2008,4581,76.94,20578,55.03
+55079,Milwaukee,Emergency Department Visits,2009,4363,72.72,19761,52.37
+55079,Milwaukee,Emergency Department Visits,2010,4213,69.72,20144,52.96
+55079,Milwaukee,Emergency Department Visits,2011,4344,71.25,21217,55.46
+55079,Milwaukee,Emergency Department Visits,2012,3656,59.43,20725,53.9
+55079,Milwaukee,Emergency Department Visits,2013,3329,53.61,20150,52.13
+55079,Milwaukee,Emergency Department Visits,2014,3769,60.25,21484,55.3
+55079,Milwaukee,Emergency Department Visits,2015,4169,66.28,23367,59.88
+55079,Milwaukee,Emergency Department Visits,2016,5392,85.61,26449,67.4
+55079,Milwaukee,Emergency Department Visits,2017,6004,95.26,29448,74.49
+55079,Milwaukee,Emergency Department Visits,2018,5816,92.33,26936,67.65
+55079,Milwaukee,Emergency Department Visits,2019,5665,89.69,26987,67.31
+55079,Milwaukee,Emergency Department Visits,2020,3278,52.52,17203,42.44
+55079,Milwaukee,Emergency Department Visits,2021,3306,53.52,17867,43.95
+55079,Milwaukee,Emergency Department Visits,2022,3362,54.81,19464,47.69
+55081,Monroe,Emergency Department Visits,2002,124,46.2,16086,45.51
+55081,Monroe,Emergency Department Visits,2003,111,41.1,16118,45.23
+55081,Monroe,Emergency Department Visits,2004,113,41.29,15446,42.95
+55081,Monroe,Emergency Department Visits,2005,158,57,17393,47.9
+55081,Monroe,Emergency Department Visits,2006,177,62.56,16394,44.74
+55081,Monroe,Emergency Department Visits,2007,184,63.95,17891,48.31
+55081,Monroe,Emergency Department Visits,2008,204,70.02,20578,55.03
+55081,Monroe,Emergency Department Visits,2009,174,59.08,19761,52.37
+55081,Monroe,Emergency Department Visits,2010,173,57.94,20144,52.96
+55081,Monroe,Emergency Department Visits,2011,163,54.21,21217,55.46
+55081,Monroe,Emergency Department Visits,2012,154,51.11,20725,53.9
+55081,Monroe,Emergency Department Visits,2013,190,62.83,20150,52.13
+55081,Monroe,Emergency Department Visits,2014,184,60.66,21484,55.3
+55081,Monroe,Emergency Department Visits,2015,232,76.15,23367,59.88
+55081,Monroe,Emergency Department Visits,2016,279,90.94,26449,67.4
+55081,Monroe,Emergency Department Visits,2017,289,93.45,29448,74.49
+55081,Monroe,Emergency Department Visits,2018,249,79.87,26936,67.65
+55081,Monroe,Emergency Department Visits,2019,222,70.01,26987,67.31
+55081,Monroe,Emergency Department Visits,2020,138,44.18,17203,42.44
+55081,Monroe,Emergency Department Visits,2021,178,57.02,17867,43.95
+55081,Monroe,Emergency Department Visits,2022,221,70.67,19464,47.69
+55083,Oconto,Emergency Department Visits,2002,160,64.48,16086,45.51
+55083,Oconto,Emergency Department Visits,2003,141,55.78,16118,45.23
+55083,Oconto,Emergency Department Visits,2004,119,46.35,15446,42.95
+55083,Oconto,Emergency Department Visits,2005,113,43.47,17393,47.9
+55083,Oconto,Emergency Department Visits,2006,127,48.28,16394,44.74
+55083,Oconto,Emergency Department Visits,2007,102,38.48,17891,48.31
+55083,Oconto,Emergency Department Visits,2008,145,54.5,20578,55.03
+55083,Oconto,Emergency Department Visits,2009,134,50.11,19761,52.37
+55083,Oconto,Emergency Department Visits,2010,134,49.91,20144,52.96
+55083,Oconto,Emergency Department Visits,2011,154,57.34,21217,55.46
+55083,Oconto,Emergency Department Visits,2012,177,65.89,20725,53.9
+55083,Oconto,Emergency Department Visits,2013,190,70.43,20150,52.13
+55083,Oconto,Emergency Department Visits,2014,201,74.18,21484,55.3
+55083,Oconto,Emergency Department Visits,2015,197,72.42,23367,59.88
+55083,Oconto,Emergency Department Visits,2016,177,64.84,26449,67.4
+55083,Oconto,Emergency Department Visits,2017,160,58.34,29448,74.49
+55083,Oconto,Emergency Department Visits,2018,144,51.79,26936,67.65
+55083,Oconto,Emergency Department Visits,2019,183,65.29,26987,67.31
+55083,Oconto,Emergency Department Visits,2020,137,47.67,17203,42.44
+55083,Oconto,Emergency Department Visits,2021,133,45.72,17867,43.95
+55083,Oconto,Emergency Department Visits,2022,175,59.55,19464,47.69
+55085,Oneida,Emergency Department Visits,2002,147,55.11,16086,45.51
+55085,Oneida,Emergency Department Visits,2003,132,48.93,16118,45.23
+55085,Oneida,Emergency Department Visits,2004,147,54.45,15446,42.95
+55085,Oneida,Emergency Department Visits,2005,200,74.09,17393,47.9
+55085,Oneida,Emergency Department Visits,2006,150,55.35,16394,44.74
+55085,Oneida,Emergency Department Visits,2007,159,58.61,17891,48.31
+55085,Oneida,Emergency Department Visits,2008,189,69.56,20578,55.03
+55085,Oneida,Emergency Department Visits,2009,171,63.13,19761,52.37
+55085,Oneida,Emergency Department Visits,2010,198,73.17,20144,52.96
+55085,Oneida,Emergency Department Visits,2011,193,71.45,21217,55.46
+55085,Oneida,Emergency Department Visits,2012,156,57.92,20725,53.9
+55085,Oneida,Emergency Department Visits,2013,150,55.78,20150,52.13
+55085,Oneida,Emergency Department Visits,2014,144,53.62,21484,55.3
+55085,Oneida,Emergency Department Visits,2015,157,58.46,23367,59.88
+55085,Oneida,Emergency Department Visits,2016,159,59.08,26449,67.4
+55085,Oneida,Emergency Department Visits,2017,174,64.45,29448,74.49
+55085,Oneida,Emergency Department Visits,2018,164,60.33,26936,67.65
+55085,Oneida,Emergency Department Visits,2019,214,77.91,26987,67.31
+55085,Oneida,Emergency Department Visits,2020,165,56.57,17203,42.44
+55085,Oneida,Emergency Department Visits,2021,156,52.75,17867,43.95
+55085,Oneida,Emergency Department Visits,2022,175,59.07,19464,47.69
+55087,Outagamie,Emergency Department Visits,2002,236,22.39,16086,45.51
+55087,Outagamie,Emergency Department Visits,2003,205,19.26,16118,45.23
+55087,Outagamie,Emergency Department Visits,2004,213,19.76,15446,42.95
+55087,Outagamie,Emergency Department Visits,2005,218,19.94,17393,47.9
+55087,Outagamie,Emergency Department Visits,2006,212,19.08,16394,44.74
+55087,Outagamie,Emergency Department Visits,2007,221,19.6,17891,48.31
+55087,Outagamie,Emergency Department Visits,2008,277,24.23,20578,55.03
+55087,Outagamie,Emergency Department Visits,2009,332,28.62,19761,52.37
+55087,Outagamie,Emergency Department Visits,2010,295,25.18,20144,52.96
+55087,Outagamie,Emergency Department Visits,2011,448,37.88,21217,55.46
+55087,Outagamie,Emergency Department Visits,2012,364,30.5,20725,53.9
+55087,Outagamie,Emergency Department Visits,2013,375,31.14,20150,52.13
+55087,Outagamie,Emergency Department Visits,2014,404,33.21,21484,55.3
+55087,Outagamie,Emergency Department Visits,2015,403,32.78,23367,59.88
+55087,Outagamie,Emergency Department Visits,2016,515,41.44,26449,67.4
+55087,Outagamie,Emergency Department Visits,2017,623,49.55,29448,74.49
+55087,Outagamie,Emergency Department Visits,2018,524,41.18,26936,67.65
+55087,Outagamie,Emergency Department Visits,2019,485,37.78,26987,67.31
+55087,Outagamie,Emergency Department Visits,2020,306,23.47,17203,42.44
+55087,Outagamie,Emergency Department Visits,2021,260,19.85,17867,43.95
+55087,Outagamie,Emergency Department Visits,2022,323,24.45,19464,47.69
+55089,Ozaukee,Emergency Department Visits,2002,139,24.93,16086,45.51
+55089,Ozaukee,Emergency Department Visits,2003,139,24.69,16118,45.23
+55089,Ozaukee,Emergency Department Visits,2004,135,23.74,15446,42.95
+55089,Ozaukee,Emergency Department Visits,2005,159,27.83,17393,47.9
+55089,Ozaukee,Emergency Department Visits,2006,148,25.72,16394,44.74
+55089,Ozaukee,Emergency Department Visits,2007,159,27.36,17891,48.31
+55089,Ozaukee,Emergency Department Visits,2008,183,31.16,20578,55.03
+55089,Ozaukee,Emergency Department Visits,2009,165,27.82,19761,52.37
+55089,Ozaukee,Emergency Department Visits,2010,178,29.85,20144,52.96
+55089,Ozaukee,Emergency Department Visits,2011,180,30,21217,55.46
+55089,Ozaukee,Emergency Department Visits,2012,158,26.21,20725,53.9
+55089,Ozaukee,Emergency Department Visits,2013,175,28.94,20150,52.13
+55089,Ozaukee,Emergency Department Visits,2014,158,26.03,21484,55.3
+55089,Ozaukee,Emergency Department Visits,2015,170,27.94,23367,59.88
+55089,Ozaukee,Emergency Department Visits,2016,165,26.98,26449,67.4
+55089,Ozaukee,Emergency Department Visits,2017,204,33.06,29448,74.49
+55089,Ozaukee,Emergency Department Visits,2018,224,35.85,26936,67.65
+55089,Ozaukee,Emergency Department Visits,2019,188,29.9,26987,67.31
+55089,Ozaukee,Emergency Department Visits,2020,123,19.14,17203,42.44
+55089,Ozaukee,Emergency Department Visits,2021,135,20.72,17867,43.95
+55089,Ozaukee,Emergency Department Visits,2022,147,22.36,19464,47.69
+55091,Pepin,Emergency Department Visits,2002,12,24.57,16086,45.51
+55091,Pepin,Emergency Department Visits,2003,12,24.27,16118,45.23
+55091,Pepin,Emergency Department Visits,2004,9,17.88,15446,42.95
+55091,Pepin,Emergency Department Visits,2005,20,39.42,17393,47.9
+55091,Pepin,Emergency Department Visits,2006,19,37.23,16394,44.74
+55091,Pepin,Emergency Department Visits,2007,19,36.78,17891,48.31
+55091,Pepin,Emergency Department Visits,2008,22,42.11,20578,55.03
+55091,Pepin,Emergency Department Visits,2009,18,34.34,19761,52.37
+55091,Pepin,Emergency Department Visits,2010,24,45.4,20144,52.96
+55091,Pepin,Emergency Department Visits,2011,33,62.99,21217,55.46
+55091,Pepin,Emergency Department Visits,2012,47,90.23,20725,53.9
+55091,Pepin,Emergency Department Visits,2013,38,73.61,20150,52.13
+55091,Pepin,Emergency Department Visits,2014,36,69.77,21484,55.3
+55091,Pepin,Emergency Department Visits,2015,35,68.15,23367,59.88
+55091,Pepin,Emergency Department Visits,2016,35,67.61,26449,67.4
+55091,Pepin,Emergency Department Visits,2017,56,107.12,29448,74.49
+55091,Pepin,Emergency Department Visits,2018,51,97.11,26936,67.65
+55091,Pepin,Emergency Department Visits,2019,46,87.49,26987,67.31
+55091,Pepin,Emergency Department Visits,2020,34,64.49,17203,42.44
+55091,Pepin,Emergency Department Visits,2021,37,70.22,17867,43.95
+55091,Pepin,Emergency Department Visits,2022,35,65.74,19464,47.69
+55093,Pierce,Emergency Department Visits,2002,72,32.92,16086,45.51
+55093,Pierce,Emergency Department Visits,2003,73,32.81,16118,45.23
+55093,Pierce,Emergency Department Visits,2004,62,27.36,15446,42.95
+55093,Pierce,Emergency Department Visits,2005,84,36.32,17393,47.9
+55093,Pierce,Emergency Department Visits,2006,84,35.56,16394,44.74
+55093,Pierce,Emergency Department Visits,2007,85,35.3,17891,48.31
+55093,Pierce,Emergency Department Visits,2008,89,36.29,20578,55.03
+55093,Pierce,Emergency Department Visits,2009,90,36.55,19761,52.37
+55093,Pierce,Emergency Department Visits,2010,82,32.72,20144,52.96
+55093,Pierce,Emergency Department Visits,2011,96,38.14,21217,55.46
+55093,Pierce,Emergency Department Visits,2012,112,44.32,20725,53.9
+55093,Pierce,Emergency Department Visits,2013,126,49.44,20150,52.13
+55093,Pierce,Emergency Department Visits,2014,140,54.45,21484,55.3
+55093,Pierce,Emergency Department Visits,2015,124,48.02,23367,59.88
+55093,Pierce,Emergency Department Visits,2016,159,60.77,26449,67.4
+55093,Pierce,Emergency Department Visits,2017,159,59.91,29448,74.49
+55093,Pierce,Emergency Department Visits,2018,150,55.69,26936,67.65
+55093,Pierce,Emergency Department Visits,2019,146,53.71,26987,67.31
+55093,Pierce,Emergency Department Visits,2020,103,38.27,17203,42.44
+55093,Pierce,Emergency Department Visits,2021,101,37.02,17867,43.95
+55093,Pierce,Emergency Department Visits,2022,107,38.73,19464,47.69
+55095,Polk,Emergency Department Visits,2002,141,49.07,16086,45.51
+55095,Polk,Emergency Department Visits,2003,116,39.85,16118,45.23
+55095,Polk,Emergency Department Visits,2004,109,36.96,15446,42.95
+55095,Polk,Emergency Department Visits,2005,101,33.75,17393,47.9
+55095,Polk,Emergency Department Visits,2006,148,48.89,16394,44.74
+55095,Polk,Emergency Department Visits,2007,166,54.51,17891,48.31
+55095,Polk,Emergency Department Visits,2008,221,71.85,20578,55.03
+55095,Polk,Emergency Department Visits,2009,223,72.32,19761,52.37
+55095,Polk,Emergency Department Visits,2010,223,72.28,20144,52.96
+55095,Polk,Emergency Department Visits,2011,213,68.99,21217,55.46
+55095,Polk,Emergency Department Visits,2012,211,68.63,20725,53.9
+55095,Polk,Emergency Department Visits,2013,208,67.75,20150,52.13
+55095,Polk,Emergency Department Visits,2014,224,72.98,21484,55.3
+55095,Polk,Emergency Department Visits,2015,251,81.7,23367,59.88
+55095,Polk,Emergency Department Visits,2016,257,83.3,26449,67.4
+55095,Polk,Emergency Department Visits,2017,299,95.92,29448,74.49
+55095,Polk,Emergency Department Visits,2018,255,81.03,26936,67.65
+55095,Polk,Emergency Department Visits,2019,251,78.95,26987,67.31
+55095,Polk,Emergency Department Visits,2020,171,52.06,17203,42.44
+55095,Polk,Emergency Department Visits,2021,228,68.56,17867,43.95
+55095,Polk,Emergency Department Visits,2022,206,61.23,19464,47.69
+55097,Portage,Emergency Department Visits,2002,336,83.14,16086,45.51
+55097,Portage,Emergency Department Visits,2003,310,76.46,16118,45.23
+55097,Portage,Emergency Department Visits,2004,330,80.76,15446,42.95
+55097,Portage,Emergency Department Visits,2005,198,48.14,17393,47.9
+55097,Portage,Emergency Department Visits,2006,178,42.74,16394,44.74
+55097,Portage,Emergency Department Visits,2007,197,46.44,17891,48.31
+55097,Portage,Emergency Department Visits,2008,257,59.6,20578,55.03
+55097,Portage,Emergency Department Visits,2009,220,50.34,19761,52.37
+55097,Portage,Emergency Department Visits,2010,267,60.71,20144,52.96
+55097,Portage,Emergency Department Visits,2011,229,51.94,21217,55.46
+55097,Portage,Emergency Department Visits,2012,228,51.55,20725,53.9
+55097,Portage,Emergency Department Visits,2013,210,47.25,20150,52.13
+55097,Portage,Emergency Department Visits,2014,240,53.66,21484,55.3
+55097,Portage,Emergency Department Visits,2015,205,45.77,23367,59.88
+55097,Portage,Emergency Department Visits,2016,204,45.42,26449,67.4
+55097,Portage,Emergency Department Visits,2017,225,49.71,29448,74.49
+55097,Portage,Emergency Department Visits,2018,251,54.94,26936,67.65
+55097,Portage,Emergency Department Visits,2019,289,62.7,26987,67.31
+55097,Portage,Emergency Department Visits,2020,221,48.28,17203,42.44
+55097,Portage,Emergency Department Visits,2021,206,44.86,17867,43.95
+55097,Portage,Emergency Department Visits,2022,256,55.39,19464,47.69
+55099,Price,Emergency Department Visits,2002,77,69.96,16086,45.51
+55099,Price,Emergency Department Visits,2003,68,61.69,16118,45.23
+55099,Price,Emergency Department Visits,2004,42,38.25,15446,42.95
+55099,Price,Emergency Department Visits,2005,53,48.66,17393,47.9
+55099,Price,Emergency Department Visits,2006,72,66.18,16394,44.74
+55099,Price,Emergency Department Visits,2007,71,66.12,17891,48.31
+55099,Price,Emergency Department Visits,2008,77,71.75,20578,55.03
+55099,Price,Emergency Department Visits,2009,73,67.97,19761,52.37
+55099,Price,Emergency Department Visits,2010,92,86.21,20144,52.96
+55099,Price,Emergency Department Visits,2011,91,85.74,21217,55.46
+55099,Price,Emergency Department Visits,2012,76,72.42,20725,53.9
+55099,Price,Emergency Department Visits,2013,108,103.73,20150,52.13
+55099,Price,Emergency Department Visits,2014,133,128.66,21484,55.3
+55099,Price,Emergency Department Visits,2015,99,96.42,23367,59.88
+55099,Price,Emergency Department Visits,2016,94,92.27,26449,67.4
+55099,Price,Emergency Department Visits,2017,106,104.66,29448,74.49
+55099,Price,Emergency Department Visits,2018,80,79.03,26936,67.65
+55099,Price,Emergency Department Visits,2019,107,105.3,26987,67.31
+55099,Price,Emergency Department Visits,2020,69,64.62,17203,42.44
+55099,Price,Emergency Department Visits,2021,90,83.53,17867,43.95
+55099,Price,Emergency Department Visits,2022,83,76.24,19464,47.69
+55101,Racine,Emergency Department Visits,2002,889,72.03,16086,45.51
+55101,Racine,Emergency Department Visits,2003,831,66.85,16118,45.23
+55101,Racine,Emergency Department Visits,2004,588,46.89,15446,42.95
+55101,Racine,Emergency Department Visits,2005,674,53.19,17393,47.9
+55101,Racine,Emergency Department Visits,2006,722,56.53,16394,44.74
+55101,Racine,Emergency Department Visits,2007,833,64.69,17891,48.31
+55101,Racine,Emergency Department Visits,2008,887,68.44,20578,55.03
+55101,Racine,Emergency Department Visits,2009,771,59.14,19761,52.37
+55101,Racine,Emergency Department Visits,2010,756,57.66,20144,52.96
+55101,Racine,Emergency Department Visits,2011,667,50.83,21217,55.46
+55101,Racine,Emergency Department Visits,2012,795,60.58,20725,53.9
+55101,Racine,Emergency Department Visits,2013,738,56.12,20150,52.13
+55101,Racine,Emergency Department Visits,2014,770,58.36,21484,55.3
+55101,Racine,Emergency Department Visits,2015,905,68.51,23367,59.88
+55101,Racine,Emergency Department Visits,2016,1156,87.16,26449,67.4
+55101,Racine,Emergency Department Visits,2017,1226,91.71,29448,74.49
+55101,Racine,Emergency Department Visits,2018,1132,84.26,26936,67.65
+55101,Racine,Emergency Department Visits,2019,1204,89.32,26987,67.31
+55101,Racine,Emergency Department Visits,2020,721,53.29,17203,42.44
+55101,Racine,Emergency Department Visits,2021,698,51.64,17867,43.95
+55101,Racine,Emergency Department Visits,2022,830,61.41,19464,47.69
+55103,Richland,Emergency Department Visits,2002,70,58.45,16086,45.51
+55103,Richland,Emergency Department Visits,2003,67,55.5,16118,45.23
+55103,Richland,Emergency Department Visits,2004,54,44.24,15446,42.95
+55103,Richland,Emergency Department Visits,2005,71,57.97,17393,47.9
+55103,Richland,Emergency Department Visits,2006,54,43.69,16394,44.74
+55103,Richland,Emergency Department Visits,2007,61,48.72,17891,48.31
+55103,Richland,Emergency Department Visits,2008,79,63.23,20578,55.03
+55103,Richland,Emergency Department Visits,2009,77,61.68,19761,52.37
+55103,Richland,Emergency Department Visits,2010,80,64.2,20144,52.96
+55103,Richland,Emergency Department Visits,2011,55,44.08,21217,55.46
+55103,Richland,Emergency Department Visits,2012,59,47.59,20725,53.9
+55103,Richland,Emergency Department Visits,2013,55,44.32,20150,52.13
+55103,Richland,Emergency Department Visits,2014,71,57.29,21484,55.3
+55103,Richland,Emergency Department Visits,2015,76,61.58,23367,59.88
+55103,Richland,Emergency Department Visits,2016,81,65.29,26449,67.4
+55103,Richland,Emergency Department Visits,2017,87,70.19,29448,74.49
+55103,Richland,Emergency Department Visits,2018,117,94.45,26936,67.65
+55103,Richland,Emergency Department Visits,2019,124,100.15,26987,67.31
+55103,Richland,Emergency Department Visits,2020,67,54.29,17203,42.44
+55103,Richland,Emergency Department Visits,2021,77,62.35,17867,43.95
+55103,Richland,Emergency Department Visits,2022,98,79.55,19464,47.69
+55105,Rock,Emergency Department Visits,2002,495,49.59,16086,45.51
+55105,Rock,Emergency Department Visits,2003,572,57.01,16118,45.23
+55105,Rock,Emergency Department Visits,2004,510,50.33,15446,42.95
+55105,Rock,Emergency Department Visits,2005,583,56.91,17393,47.9
+55105,Rock,Emergency Department Visits,2006,538,51.91,16394,44.74
+55105,Rock,Emergency Department Visits,2007,549,52.37,17891,48.31
+55105,Rock,Emergency Department Visits,2008,655,61.91,20578,55.03
+55105,Rock,Emergency Department Visits,2009,577,54.39,19761,52.37
+55105,Rock,Emergency Department Visits,2010,567,53.24,20144,52.96
+55105,Rock,Emergency Department Visits,2011,650,60.79,21217,55.46
+55105,Rock,Emergency Department Visits,2012,913,85.04,20725,53.9
+55105,Rock,Emergency Department Visits,2013,1004,93.22,20150,52.13
+55105,Rock,Emergency Department Visits,2014,1062,98.08,21484,55.3
+55105,Rock,Emergency Department Visits,2015,1125,103.7,23367,59.88
+55105,Rock,Emergency Department Visits,2016,1239,113.67,26449,67.4
+55105,Rock,Emergency Department Visits,2017,1347,122.26,29448,74.49
+55105,Rock,Emergency Department Visits,2018,1166,104.99,26936,67.65
+55105,Rock,Emergency Department Visits,2019,1166,104.22,26987,67.31
+55105,Rock,Emergency Department Visits,2020,756,67.21,17203,42.44
+55105,Rock,Emergency Department Visits,2021,664,58.66,17867,43.95
+55105,Rock,Emergency Department Visits,2022,804,70.82,19464,47.69
+55107,Rusk,Emergency Department Visits,2002,78,75.6,16086,45.51
+55107,Rusk,Emergency Department Visits,2003,61,59.16,16118,45.23
+55107,Rusk,Emergency Department Visits,2004,61,58.82,15446,42.95
+55107,Rusk,Emergency Department Visits,2005,69,66.53,17393,47.9
+55107,Rusk,Emergency Department Visits,2006,66,63.76,16394,44.74
+55107,Rusk,Emergency Department Visits,2007,86,82.45,17891,48.31
+55107,Rusk,Emergency Department Visits,2008,83,79.09,20578,55.03
+55107,Rusk,Emergency Department Visits,2009,105,99.89,19761,52.37
+55107,Rusk,Emergency Department Visits,2010,89,84.49,20144,52.96
+55107,Rusk,Emergency Department Visits,2011,79,75.41,21217,55.46
+55107,Rusk,Emergency Department Visits,2012,101,98.31,20725,53.9
+55107,Rusk,Emergency Department Visits,2013,99,95.83,20150,52.13
+55107,Rusk,Emergency Department Visits,2014,91,88.27,21484,55.3
+55107,Rusk,Emergency Department Visits,2015,117,114.85,23367,59.88
+55107,Rusk,Emergency Department Visits,2016,142,139.41,26449,67.4
+55107,Rusk,Emergency Department Visits,2017,177,173.19,29448,74.49
+55107,Rusk,Emergency Department Visits,2018,145,141.05,26936,67.65
+55107,Rusk,Emergency Department Visits,2019,154,149.38,26987,67.31
+55107,Rusk,Emergency Department Visits,2020,123,118.57,17203,42.44
+55107,Rusk,Emergency Department Visits,2021,107,103.29,17867,43.95
+55107,Rusk,Emergency Department Visits,2022,133,127.19,19464,47.69
+55109,Saint Croix,Emergency Department Visits,2002,102,23.15,16086,45.51
+55109,Saint Croix,Emergency Department Visits,2003,102,22.22,16118,45.23
+55109,Saint Croix,Emergency Department Visits,2004,127,26.51,15446,42.95
+55109,Saint Croix,Emergency Department Visits,2005,144,28.84,17393,47.9
+55109,Saint Croix,Emergency Department Visits,2006,163,31.45,16394,44.74
+55109,Saint Croix,Emergency Department Visits,2007,176,33.05,17891,48.31
+55109,Saint Croix,Emergency Department Visits,2008,179,32.88,20578,55.03
+55109,Saint Croix,Emergency Department Visits,2009,182,32.92,19761,52.37
+55109,Saint Croix,Emergency Department Visits,2010,156,27.92,20144,52.96
+55109,Saint Croix,Emergency Department Visits,2011,200,35.59,21217,55.46
+55109,Saint Croix,Emergency Department Visits,2012,221,39.09,20725,53.9
+55109,Saint Croix,Emergency Department Visits,2013,196,34.38,20150,52.13
+55109,Saint Croix,Emergency Department Visits,2014,206,35.7,21484,55.3
+55109,Saint Croix,Emergency Department Visits,2015,237,40.72,23367,59.88
+55109,Saint Croix,Emergency Department Visits,2016,219,37.3,26449,67.4
+55109,Saint Croix,Emergency Department Visits,2017,249,41.75,29448,74.49
+55109,Saint Croix,Emergency Department Visits,2018,198,32.57,26936,67.65
+55109,Saint Croix,Emergency Department Visits,2019,215,34.84,26987,67.31
+55109,Saint Croix,Emergency Department Visits,2020,145,22.68,17203,42.44
+55109,Saint Croix,Emergency Department Visits,2021,183,28.1,17867,43.95
+55109,Saint Croix,Emergency Department Visits,2022,193,29.14,19464,47.69
+55111,Sauk,Emergency Department Visits,2002,179,47.64,16086,45.51
+55111,Sauk,Emergency Department Visits,2003,174,45.55,16118,45.23
+55111,Sauk,Emergency Department Visits,2004,139,35.76,15446,42.95
+55111,Sauk,Emergency Department Visits,2005,220,55.62,17393,47.9
+55111,Sauk,Emergency Department Visits,2006,178,44.3,16394,44.74
+55111,Sauk,Emergency Department Visits,2007,164,40.05,17891,48.31
+55111,Sauk,Emergency Department Visits,2008,196,47.01,20578,55.03
+55111,Sauk,Emergency Department Visits,2009,197,46.82,19761,52.37
+55111,Sauk,Emergency Department Visits,2010,255,59.82,20144,52.96
+55111,Sauk,Emergency Department Visits,2011,258,60.19,21217,55.46
+55111,Sauk,Emergency Department Visits,2012,228,52.87,20725,53.9
+55111,Sauk,Emergency Department Visits,2013,240,55.25,20150,52.13
+55111,Sauk,Emergency Department Visits,2014,247,56.67,21484,55.3
+55111,Sauk,Emergency Department Visits,2015,276,62.84,23367,59.88
+55111,Sauk,Emergency Department Visits,2016,331,75.02,26449,67.4
+55111,Sauk,Emergency Department Visits,2017,443,99.65,29448,74.49
+55111,Sauk,Emergency Department Visits,2018,394,87.94,26936,67.65
+55111,Sauk,Emergency Department Visits,2019,408,90.52,26987,67.31
+55111,Sauk,Emergency Department Visits,2020,228,49.55,17203,42.44
+55111,Sauk,Emergency Department Visits,2021,276,59.84,17867,43.95
+55111,Sauk,Emergency Department Visits,2022,294,63.33,19464,47.69
+55113,Sawyer,Emergency Department Visits,2002,60,51.98,16086,45.51
+55113,Sawyer,Emergency Department Visits,2003,49,42.11,16118,45.23
+55113,Sawyer,Emergency Department Visits,2004,65,55.45,15446,42.95
+55113,Sawyer,Emergency Department Visits,2005,64,53.84,17393,47.9
+55113,Sawyer,Emergency Department Visits,2006,82,68.8,16394,44.74
+55113,Sawyer,Emergency Department Visits,2007,77,64.27,17891,48.31
+55113,Sawyer,Emergency Department Visits,2008,100,83.17,20578,55.03
+55113,Sawyer,Emergency Department Visits,2009,103,85.61,19761,52.37
+55113,Sawyer,Emergency Department Visits,2010,77,63.96,20144,52.96
+55113,Sawyer,Emergency Department Visits,2011,94,77.8,21217,55.46
+55113,Sawyer,Emergency Department Visits,2012,84,69.48,20725,53.9
+55113,Sawyer,Emergency Department Visits,2013,113,93.73,20150,52.13
+55113,Sawyer,Emergency Department Visits,2014,114,94.98,21484,55.3
+55113,Sawyer,Emergency Department Visits,2015,89,74.27,23367,59.88
+55113,Sawyer,Emergency Department Visits,2016,119,99.13,26449,67.4
+55113,Sawyer,Emergency Department Visits,2017,128,105.87,29448,74.49
+55113,Sawyer,Emergency Department Visits,2018,109,89.42,26936,67.65
+55113,Sawyer,Emergency Department Visits,2019,125,101.14,26987,67.31
+55113,Sawyer,Emergency Department Visits,2020,111,81.98,17203,42.44
+55113,Sawyer,Emergency Department Visits,2021,101,73.51,17867,43.95
+55113,Sawyer,Emergency Department Visits,2022,105,74.95,19464,47.69
+55115,Shawano,Emergency Department Visits,2002,233,83.67,16086,45.51
+55115,Shawano,Emergency Department Visits,2003,188,67.13,16118,45.23
+55115,Shawano,Emergency Department Visits,2004,160,56.77,15446,42.95
+55115,Shawano,Emergency Department Visits,2005,166,58.53,17393,47.9
+55115,Shawano,Emergency Department Visits,2006,154,53.74,16394,44.74
+55115,Shawano,Emergency Department Visits,2007,184,63.8,17891,48.31
+55115,Shawano,Emergency Department Visits,2008,165,56.65,20578,55.03
+55115,Shawano,Emergency Department Visits,2009,196,67.11,19761,52.37
+55115,Shawano,Emergency Department Visits,2010,195,66.33,20144,52.96
+55115,Shawano,Emergency Department Visits,2011,233,79.25,21217,55.46
+55115,Shawano,Emergency Department Visits,2012,201,68.61,20725,53.9
+55115,Shawano,Emergency Department Visits,2013,228,77.77,20150,52.13
+55115,Shawano,Emergency Department Visits,2014,283,96.76,21484,55.3
+55115,Shawano,Emergency Department Visits,2015,294,100.86,23367,59.88
+55115,Shawano,Emergency Department Visits,2016,249,85.41,26449,67.4
+55115,Shawano,Emergency Department Visits,2017,302,103.54,29448,74.49
+55115,Shawano,Emergency Department Visits,2018,300,102.65,26936,67.65
+55115,Shawano,Emergency Department Visits,2019,311,105.96,26987,67.31
+55115,Shawano,Emergency Department Visits,2020,195,66.61,17203,42.44
+55115,Shawano,Emergency Department Visits,2021,216,73.88,17867,43.95
+55115,Shawano,Emergency Department Visits,2022,192,65.24,19464,47.69
+55117,Sheboygan,Emergency Department Visits,2002,212,28.2,16086,45.51
+55117,Sheboygan,Emergency Department Visits,2003,204,27,16118,45.23
+55117,Sheboygan,Emergency Department Visits,2004,228,30,15446,42.95
+55117,Sheboygan,Emergency Department Visits,2005,227,29.61,17393,47.9
+55117,Sheboygan,Emergency Department Visits,2006,196,25.42,16394,44.74
+55117,Sheboygan,Emergency Department Visits,2007,228,29.32,17891,48.31
+55117,Sheboygan,Emergency Department Visits,2008,253,32.26,20578,55.03
+55117,Sheboygan,Emergency Department Visits,2009,230,29.2,19761,52.37
+55117,Sheboygan,Emergency Department Visits,2010,267,33.75,20144,52.96
+55117,Sheboygan,Emergency Department Visits,2011,269,33.98,21217,55.46
+55117,Sheboygan,Emergency Department Visits,2012,329,41.63,20725,53.9
+55117,Sheboygan,Emergency Department Visits,2013,297,37.65,20150,52.13
+55117,Sheboygan,Emergency Department Visits,2014,302,38.19,21484,55.3
+55117,Sheboygan,Emergency Department Visits,2015,335,42.26,23367,59.88
+55117,Sheboygan,Emergency Department Visits,2016,448,56.42,26449,67.4
+55117,Sheboygan,Emergency Department Visits,2017,471,59.07,29448,74.49
+55117,Sheboygan,Emergency Department Visits,2018,456,56.89,26936,67.65
+55117,Sheboygan,Emergency Department Visits,2019,462,57.39,26987,67.31
+55117,Sheboygan,Emergency Department Visits,2020,310,37.71,17203,42.44
+55117,Sheboygan,Emergency Department Visits,2021,299,36.29,17867,43.95
+55117,Sheboygan,Emergency Department Visits,2022,272,32.88,19464,47.69
+55119,Taylor,Emergency Department Visits,2002,76,58.08,16086,45.51
+55119,Taylor,Emergency Department Visits,2003,56,42.39,16118,45.23
+55119,Taylor,Emergency Department Visits,2004,60,44.71,15446,42.95
+55119,Taylor,Emergency Department Visits,2005,81,59.69,17393,47.9
+55119,Taylor,Emergency Department Visits,2006,56,40.76,16394,44.74
+55119,Taylor,Emergency Department Visits,2007,85,61.23,17891,48.31
+55119,Taylor,Emergency Department Visits,2008,106,75.94,20578,55.03
+55119,Taylor,Emergency Department Visits,2009,106,75.19,19761,52.37
+55119,Taylor,Emergency Department Visits,2010,86,60.59,20144,52.96
+55119,Taylor,Emergency Department Visits,2011,107,75.29,21217,55.46
+55119,Taylor,Emergency Department Visits,2012,101,72.43,20725,53.9
+55119,Taylor,Emergency Department Visits,2013,106,75.17,20150,52.13
+55119,Taylor,Emergency Department Visits,2014,81,57.38,21484,55.3
+55119,Taylor,Emergency Department Visits,2015,98,69.67,23367,59.88
+55119,Taylor,Emergency Department Visits,2016,82,58.33,26449,67.4
+55119,Taylor,Emergency Department Visits,2017,84,59.59,29448,74.49
+55119,Taylor,Emergency Department Visits,2018,80,56.38,26936,67.65
+55119,Taylor,Emergency Department Visits,2019,90,63.42,26987,67.31
+55119,Taylor,Emergency Department Visits,2020,64,45.9,17203,42.44
+55119,Taylor,Emergency Department Visits,2021,62,44.34,17867,43.95
+55119,Taylor,Emergency Department Visits,2022,107,76.39,19464,47.69
+55121,Trempealeau,Emergency Department Visits,2002,65,35.12,16086,45.51
+55121,Trempealeau,Emergency Department Visits,2003,70,37.48,16118,45.23
+55121,Trempealeau,Emergency Department Visits,2004,62,32.93,15446,42.95
+55121,Trempealeau,Emergency Department Visits,2005,70,36.65,17393,47.9
+55121,Trempealeau,Emergency Department Visits,2006,94,48.72,16394,44.74
+55121,Trempealeau,Emergency Department Visits,2007,80,41.28,17891,48.31
+55121,Trempealeau,Emergency Department Visits,2008,85,43.46,20578,55.03
+55121,Trempealeau,Emergency Department Visits,2009,86,43.63,19761,52.37
+55121,Trempealeau,Emergency Department Visits,2010,107,53.82,20144,52.96
+55121,Trempealeau,Emergency Department Visits,2011,82,40.94,21217,55.46
+55121,Trempealeau,Emergency Department Visits,2012,96,47.66,20725,53.9
+55121,Trempealeau,Emergency Department Visits,2013,87,43.32,20150,52.13
+55121,Trempealeau,Emergency Department Visits,2014,87,43.42,21484,55.3
+55121,Trempealeau,Emergency Department Visits,2015,99,49.58,23367,59.88
+55121,Trempealeau,Emergency Department Visits,2016,133,66.6,26449,67.4
+55121,Trempealeau,Emergency Department Visits,2017,156,78.25,29448,74.49
+55121,Trempealeau,Emergency Department Visits,2018,134,66.84,26936,67.65
+55121,Trempealeau,Emergency Department Visits,2019,114,56.51,26987,67.31
+55121,Trempealeau,Emergency Department Visits,2020,85,40.84,17203,42.44
+55121,Trempealeau,Emergency Department Visits,2021,91,43.65,17867,43.95
+55121,Trempealeau,Emergency Department Visits,2022,89,42.53,19464,47.69
+55123,Vernon,Emergency Department Visits,2002,59,31.69,16086,45.51
+55123,Vernon,Emergency Department Visits,2003,65,34.79,16118,45.23
+55123,Vernon,Emergency Department Visits,2004,54,28.62,15446,42.95
+55123,Vernon,Emergency Department Visits,2005,55,28.84,17393,47.9
+55123,Vernon,Emergency Department Visits,2006,76,39.55,16394,44.74
+55123,Vernon,Emergency Department Visits,2007,79,40.6,17891,48.31
+55123,Vernon,Emergency Department Visits,2008,74,37.69,20578,55.03
+55123,Vernon,Emergency Department Visits,2009,87,44.1,19761,52.37
+55123,Vernon,Emergency Department Visits,2010,82,41.14,20144,52.96
+55123,Vernon,Emergency Department Visits,2011,82,41,21217,55.46
+55123,Vernon,Emergency Department Visits,2012,100,49.88,20725,53.9
+55123,Vernon,Emergency Department Visits,2013,113,56.18,20150,52.13
+55123,Vernon,Emergency Department Visits,2014,108,53.52,21484,55.3
+55123,Vernon,Emergency Department Visits,2015,121,59.81,23367,59.88
+55123,Vernon,Emergency Department Visits,2016,131,64.2,26449,67.4
+55123,Vernon,Emergency Department Visits,2017,143,69.5,29448,74.49
+55123,Vernon,Emergency Department Visits,2018,135,65.46,26936,67.65
+55123,Vernon,Emergency Department Visits,2019,132,63.71,26987,67.31
+55123,Vernon,Emergency Department Visits,2020,124,60.26,17203,42.44
+55123,Vernon,Emergency Department Visits,2021,83,40.08,17867,43.95
+55123,Vernon,Emergency Department Visits,2022,130,62.51,19464,47.69
+55125,Vilas,Emergency Department Visits,2002,80,49.2,16086,45.51
+55125,Vilas,Emergency Department Visits,2003,91,55.37,16118,45.23
+55125,Vilas,Emergency Department Visits,2004,68,41.01,15446,42.95
+55125,Vilas,Emergency Department Visits,2005,90,53.95,17393,47.9
+55125,Vilas,Emergency Department Visits,2006,88,52.62,16394,44.74
+55125,Vilas,Emergency Department Visits,2007,143,85.24,17891,48.31
+55125,Vilas,Emergency Department Visits,2008,129,77.58,20578,55.03
+55125,Vilas,Emergency Department Visits,2009,124,74.92,19761,52.37
+55125,Vilas,Emergency Department Visits,2010,109,66.17,20144,52.96
+55125,Vilas,Emergency Department Visits,2011,142,86.17,21217,55.46
+55125,Vilas,Emergency Department Visits,2012,131,79.92,20725,53.9
+55125,Vilas,Emergency Department Visits,2013,90,54.68,20150,52.13
+55125,Vilas,Emergency Department Visits,2014,97,58.74,21484,55.3
+55125,Vilas,Emergency Department Visits,2015,105,63.42,23367,59.88
+55125,Vilas,Emergency Department Visits,2016,119,71.33,26449,67.4
+55125,Vilas,Emergency Department Visits,2017,150,89.26,29448,74.49
+55125,Vilas,Emergency Department Visits,2018,177,103.74,26936,67.65
+55125,Vilas,Emergency Department Visits,2019,147,85.37,26987,67.31
+55125,Vilas,Emergency Department Visits,2020,114,63.48,17203,42.44
+55125,Vilas,Emergency Department Visits,2021,126,68.55,17867,43.95
+55125,Vilas,Emergency Department Visits,2022,132,70.52,19464,47.69
+55127,Walworth,Emergency Department Visits,2002,192,31.98,16086,45.51
+55127,Walworth,Emergency Department Visits,2003,229,37.45,16118,45.23
+55127,Walworth,Emergency Department Visits,2004,251,40.52,15446,42.95
+55127,Walworth,Emergency Department Visits,2005,265,41.95,17393,47.9
+55127,Walworth,Emergency Department Visits,2006,239,37.34,16394,44.74
+55127,Walworth,Emergency Department Visits,2007,214,33.06,17891,48.31
+55127,Walworth,Emergency Department Visits,2008,281,43.06,20578,55.03
+55127,Walworth,Emergency Department Visits,2009,307,46.67,19761,52.37
+55127,Walworth,Emergency Department Visits,2010,270,40.77,20144,52.96
+55127,Walworth,Emergency Department Visits,2011,352,52.89,21217,55.46
+55127,Walworth,Emergency Department Visits,2012,369,55.31,20725,53.9
+55127,Walworth,Emergency Department Visits,2013,271,40.61,20150,52.13
+55127,Walworth,Emergency Department Visits,2014,278,41.5,21484,55.3
+55127,Walworth,Emergency Department Visits,2015,341,50.88,23367,59.88
+55127,Walworth,Emergency Department Visits,2016,425,63.06,26449,67.4
+55127,Walworth,Emergency Department Visits,2017,451,66.33,29448,74.49
+55127,Walworth,Emergency Department Visits,2018,405,58.92,26936,67.65
+55127,Walworth,Emergency Department Visits,2019,399,57.48,26987,67.31
+55127,Walworth,Emergency Department Visits,2020,261,37.11,17203,42.44
+55127,Walworth,Emergency Department Visits,2021,277,39,17867,43.95
+55127,Walworth,Emergency Department Visits,2022,360,50.49,19464,47.69
+55129,Washburn,Emergency Department Visits,2002,79,68.6,16086,45.51
+55129,Washburn,Emergency Department Visits,2003,68,58.81,16118,45.23
+55129,Washburn,Emergency Department Visits,2004,60,51.63,15446,42.95
+55129,Washburn,Emergency Department Visits,2005,64,55,17393,47.9
+55129,Washburn,Emergency Department Visits,2006,100,85.65,16394,44.74
+55129,Washburn,Emergency Department Visits,2007,119,101.45,17891,48.31
+55129,Washburn,Emergency Department Visits,2008,114,97.06,20578,55.03
+55129,Washburn,Emergency Department Visits,2009,87,73.97,19761,52.37
+55129,Washburn,Emergency Department Visits,2010,87,73.55,20144,52.96
+55129,Washburn,Emergency Department Visits,2011,93,79.3,21217,55.46
+55129,Washburn,Emergency Department Visits,2012,74,63.12,20725,53.9
+55129,Washburn,Emergency Department Visits,2013,99,85.18,20150,52.13
+55129,Washburn,Emergency Department Visits,2014,104,89.43,21484,55.3
+55129,Washburn,Emergency Department Visits,2015,142,122.78,23367,59.88
+55129,Washburn,Emergency Department Visits,2016,108,92.56,26449,67.4
+55129,Washburn,Emergency Department Visits,2017,145,122.84,29448,74.49
+55129,Washburn,Emergency Department Visits,2018,87,72.88,26936,67.65
+55129,Washburn,Emergency Department Visits,2019,119,99.77,26987,67.31
+55129,Washburn,Emergency Department Visits,2020,97,77.01,17203,42.44
+55129,Washburn,Emergency Department Visits,2021,104,81.74,17867,43.95
+55129,Washburn,Emergency Department Visits,2022,134,103.61,19464,47.69
+55131,Washington,Emergency Department Visits,2002,126,15.72,16086,45.51
+55131,Washington,Emergency Department Visits,2003,146,17.97,16118,45.23
+55131,Washington,Emergency Department Visits,2004,184,22.26,15446,42.95
+55131,Washington,Emergency Department Visits,2005,225,26.71,17393,47.9
+55131,Washington,Emergency Department Visits,2006,205,23.86,16394,44.74
+55131,Washington,Emergency Department Visits,2007,189,21.58,17891,48.31
+55131,Washington,Emergency Department Visits,2008,218,24.45,20578,55.03
+55131,Washington,Emergency Department Visits,2009,232,25.71,19761,52.37
+55131,Washington,Emergency Department Visits,2010,262,28.82,20144,52.96
+55131,Washington,Emergency Department Visits,2011,252,27.52,21217,55.46
+55131,Washington,Emergency Department Visits,2012,270,29.31,20725,53.9
+55131,Washington,Emergency Department Visits,2013,294,31.79,20150,52.13
+55131,Washington,Emergency Department Visits,2014,227,24.39,21484,55.3
+55131,Washington,Emergency Department Visits,2015,262,27.98,23367,59.88
+55131,Washington,Emergency Department Visits,2016,301,31.92,26449,67.4
+55131,Washington,Emergency Department Visits,2017,434,45.66,29448,74.49
+55131,Washington,Emergency Department Visits,2018,391,40.72,26936,67.65
+55131,Washington,Emergency Department Visits,2019,358,36.94,26987,67.31
+55131,Washington,Emergency Department Visits,2020,244,25.05,17203,42.44
+55131,Washington,Emergency Department Visits,2021,254,25.86,17867,43.95
+55131,Washington,Emergency Department Visits,2022,276,27.87,19464,47.69
+55133,Waukesha,Emergency Department Visits,2002,693,27.95,16086,45.51
+55133,Waukesha,Emergency Department Visits,2003,691,27.57,16118,45.23
+55133,Waukesha,Emergency Department Visits,2004,736,29.15,15446,42.95
+55133,Waukesha,Emergency Department Visits,2005,843,33.06,17393,47.9
+55133,Waukesha,Emergency Department Visits,2006,795,30.88,16394,44.74
+55133,Waukesha,Emergency Department Visits,2007,879,33.65,17891,48.31
+55133,Waukesha,Emergency Department Visits,2008,931,35.2,20578,55.03
+55133,Waukesha,Emergency Department Visits,2009,909,33.99,19761,52.37
+55133,Waukesha,Emergency Department Visits,2010,836,31.01,20144,52.96
+55133,Waukesha,Emergency Department Visits,2011,872,32.15,21217,55.46
+55133,Waukesha,Emergency Department Visits,2012,832,30.44,20725,53.9
+55133,Waukesha,Emergency Department Visits,2013,824,29.99,20150,52.13
+55133,Waukesha,Emergency Department Visits,2014,825,29.88,21484,55.3
+55133,Waukesha,Emergency Department Visits,2015,954,34.41,23367,59.88
+55133,Waukesha,Emergency Department Visits,2016,1050,37.53,26449,67.4
+55133,Waukesha,Emergency Department Visits,2017,1272,45.04,29448,74.49
+55133,Waukesha,Emergency Department Visits,2018,1041,36.55,26936,67.65
+55133,Waukesha,Emergency Department Visits,2019,1089,37.9,26987,67.31
+55133,Waukesha,Emergency Department Visits,2020,627,21.63,17203,42.44
+55133,Waukesha,Emergency Department Visits,2021,766,26.22,17867,43.95
+55133,Waukesha,Emergency Department Visits,2022,795,27.02,19464,47.69
+55135,Waupaca,Emergency Department Visits,2002,188,53.1,16086,45.51
+55135,Waupaca,Emergency Department Visits,2003,251,70.43,16118,45.23
+55135,Waupaca,Emergency Department Visits,2004,252,70.35,15446,42.95
+55135,Waupaca,Emergency Department Visits,2005,270,74.99,17393,47.9
+55135,Waupaca,Emergency Department Visits,2006,285,78.28,16394,44.74
+55135,Waupaca,Emergency Department Visits,2007,247,67.53,17891,48.31
+55135,Waupaca,Emergency Department Visits,2008,271,73.81,20578,55.03
+55135,Waupaca,Emergency Department Visits,2009,267,72.58,19761,52.37
+55135,Waupaca,Emergency Department Visits,2010,247,66.56,20144,52.96
+55135,Waupaca,Emergency Department Visits,2011,323,87.05,21217,55.46
+55135,Waupaca,Emergency Department Visits,2012,308,83.31,20725,53.9
+55135,Waupaca,Emergency Department Visits,2013,342,92.27,20150,52.13
+55135,Waupaca,Emergency Department Visits,2014,397,107.08,21484,55.3
+55135,Waupaca,Emergency Department Visits,2015,382,103.39,23367,59.88
+55135,Waupaca,Emergency Department Visits,2016,364,98.58,26449,67.4
+55135,Waupaca,Emergency Department Visits,2017,391,105.82,29448,74.49
+55135,Waupaca,Emergency Department Visits,2018,285,76.9,26936,67.65
+55135,Waupaca,Emergency Department Visits,2019,305,82.47,26987,67.31
+55135,Waupaca,Emergency Department Visits,2020,236,62.97,17203,42.44
+55135,Waupaca,Emergency Department Visits,2021,249,65.62,17867,43.95
+55135,Waupaca,Emergency Department Visits,2022,212,56.37,19464,47.69
+55137,Waushara,Emergency Department Visits,2002,95,54.63,16086,45.51
+55137,Waushara,Emergency Department Visits,2003,109,62.14,16118,45.23
+55137,Waushara,Emergency Department Visits,2004,100,56.64,15446,42.95
+55137,Waushara,Emergency Department Visits,2005,110,62.07,17393,47.9
+55137,Waushara,Emergency Department Visits,2006,110,61.59,16394,44.74
+55137,Waushara,Emergency Department Visits,2007,112,62.35,17891,48.31
+55137,Waushara,Emergency Department Visits,2008,149,82.09,20578,55.03
+55137,Waushara,Emergency Department Visits,2009,126,69.66,19761,52.37
+55137,Waushara,Emergency Department Visits,2010,158,87.05,20144,52.96
+55137,Waushara,Emergency Department Visits,2011,167,91.81,21217,55.46
+55137,Waushara,Emergency Department Visits,2012,169,93.12,20725,53.9
+55137,Waushara,Emergency Department Visits,2013,163,90.18,20150,52.13
+55137,Waushara,Emergency Department Visits,2014,141,78.32,21484,55.3
+55137,Waushara,Emergency Department Visits,2015,110,61.36,23367,59.88
+55137,Waushara,Emergency Department Visits,2016,170,94.2,26449,67.4
+55137,Waushara,Emergency Department Visits,2017,218,119.98,29448,74.49
+55137,Waushara,Emergency Department Visits,2018,274,149.66,26936,67.65
+55137,Waushara,Emergency Department Visits,2019,244,132.23,26987,67.31
+55137,Waushara,Emergency Department Visits,2020,152,81.8,17203,42.44
+55137,Waushara,Emergency Department Visits,2021,167,89.03,17867,43.95
+55137,Waushara,Emergency Department Visits,2022,137,72.28,19464,47.69
+55139,Winnebago,Emergency Department Visits,2002,230,22.32,16086,45.51
+55139,Winnebago,Emergency Department Visits,2003,250,24.07,16118,45.23
+55139,Winnebago,Emergency Department Visits,2004,216,20.59,15446,42.95
+55139,Winnebago,Emergency Department Visits,2005,278,26.2,17393,47.9
+55139,Winnebago,Emergency Department Visits,2006,290,27.07,16394,44.74
+55139,Winnebago,Emergency Department Visits,2007,364,33.69,17891,48.31
+55139,Winnebago,Emergency Department Visits,2008,399,36.58,20578,55.03
+55139,Winnebago,Emergency Department Visits,2009,473,42.86,19761,52.37
+55139,Winnebago,Emergency Department Visits,2010,417,37.54,20144,52.96
+55139,Winnebago,Emergency Department Visits,2011,441,39.58,21217,55.46
+55139,Winnebago,Emergency Department Visits,2012,474,42.36,20725,53.9
+55139,Winnebago,Emergency Department Visits,2013,450,39.98,20150,52.13
+55139,Winnebago,Emergency Department Visits,2014,496,43.88,21484,55.3
+55139,Winnebago,Emergency Department Visits,2015,523,46.11,23367,59.88
+55139,Winnebago,Emergency Department Visits,2016,645,56.51,26449,67.4
+55139,Winnebago,Emergency Department Visits,2017,704,61.13,29448,74.49
+55139,Winnebago,Emergency Department Visits,2018,671,58.06,26936,67.65
+55139,Winnebago,Emergency Department Visits,2019,728,62.38,26987,67.31
+55139,Winnebago,Emergency Department Visits,2020,445,38.21,17203,42.44
+55139,Winnebago,Emergency Department Visits,2021,432,37.13,17867,43.95
+55139,Winnebago,Emergency Department Visits,2022,474,40.61,19464,47.69
+55141,Wood,Emergency Department Visits,2002,253,50.07,16086,45.51
+55141,Wood,Emergency Department Visits,2003,279,55.14,16118,45.23
+55141,Wood,Emergency Department Visits,2004,226,44.53,15446,42.95
+55141,Wood,Emergency Department Visits,2005,237,46.55,17393,47.9
+55141,Wood,Emergency Department Visits,2006,234,45.9,16394,44.74
+55141,Wood,Emergency Department Visits,2007,281,54.82,17891,48.31
+55141,Wood,Emergency Department Visits,2008,362,70.14,20578,55.03
+55141,Wood,Emergency Department Visits,2009,343,66.05,19761,52.37
+55141,Wood,Emergency Department Visits,2010,449,86.02,20144,52.96
+55141,Wood,Emergency Department Visits,2011,501,95.72,21217,55.46
+55141,Wood,Emergency Department Visits,2012,411,78.53,20725,53.9
+55141,Wood,Emergency Department Visits,2013,441,84.64,20150,52.13
+55141,Wood,Emergency Department Visits,2014,496,95.48,21484,55.3
+55141,Wood,Emergency Department Visits,2015,600,115.66,23367,59.88
+55141,Wood,Emergency Department Visits,2016,616,118.72,26449,67.4
+55141,Wood,Emergency Department Visits,2017,546,105.28,29448,74.49
+55141,Wood,Emergency Department Visits,2018,395,76.16,26936,67.65
+55141,Wood,Emergency Department Visits,2019,416,80.1,26987,67.31
+55141,Wood,Emergency Department Visits,2020,295,55.9,17203,42.44
+55141,Wood,Emergency Department Visits,2021,238,45.05,17867,43.95
+55141,Wood,Emergency Department Visits,2022,316,59.7,19464,47.69
+55001,Adams,Hospitalizations,2000,43,28.77,7874,22.62
+55001,Adams,Hospitalizations,2001,72,47.49,7766,22.16
+55001,Adams,Hospitalizations,2002,73,47.54,7425,21.01
+55001,Adams,Hospitalizations,2003,60,38.92,7385,20.72
+55001,Adams,Hospitalizations,2004,49,31.5,6857,19.07
+55001,Adams,Hospitalizations,2005,43,26.86,7885,21.72
+55001,Adams,Hospitalizations,2006,60,37.27,7077,19.31
+55001,Adams,Hospitalizations,2007,39,24.21,7410,20.01
+55001,Adams,Hospitalizations,2008,51,31.58,8732,23.35
+55001,Adams,Hospitalizations,2009,43,26.62,8450,22.4
+55001,Adams,Hospitalizations,2010,50,30.75,8233,21.64
+55001,Adams,Hospitalizations,2011,38,23.39,8520,22.27
+55001,Adams,Hospitalizations,2012,32,19.91,8376,21.78
+55001,Adams,Hospitalizations,2013,33,20.49,8232,21.3
+55001,Adams,Hospitalizations,2014,38,23.83,7762,19.98
+55001,Adams,Hospitalizations,2015,47,29.56,8038,20.6
+55001,Adams,Hospitalizations,2016,41,25.81,9257,23.59
+55001,Adams,Hospitalizations,2017,52,32.55,10980,27.78
+55001,Adams,Hospitalizations,2018,55,33.67,8443,21.2
+55001,Adams,Hospitalizations,2019,44,26.98,7486,18.67
+55001,Adams,Hospitalizations,2020,29,17.41,4476,11.04
+55001,Adams,Hospitalizations,2021,21,12.48,4235,10.42
+55001,Adams,Hospitalizations,2022,16,9.27,4210,10.32
+55003,Ashland,Hospitalizations,2000,31,29.03,7874,22.62
+55003,Ashland,Hospitalizations,2001,33,30.94,7766,22.16
+55003,Ashland,Hospitalizations,2002,43,40.36,7425,21.01
+55003,Ashland,Hospitalizations,2003,38,35.57,7385,20.72
+55003,Ashland,Hospitalizations,2004,34,31.73,6857,19.07
+55003,Ashland,Hospitalizations,2005,32,29.85,7885,21.72
+55003,Ashland,Hospitalizations,2006,24,22.35,7077,19.31
+55003,Ashland,Hospitalizations,2007,20,18.72,7410,20.01
+55003,Ashland,Hospitalizations,2008,43,40.07,8732,23.35
+55003,Ashland,Hospitalizations,2009,24,22.29,8450,22.4
+55003,Ashland,Hospitalizations,2010,40,37.07,8233,21.64
+55003,Ashland,Hospitalizations,2011,37,34.37,8520,22.27
+55003,Ashland,Hospitalizations,2012,29,27.04,8376,21.78
+55003,Ashland,Hospitalizations,2013,39,36.27,8232,21.3
+55003,Ashland,Hospitalizations,2014,42,38.99,7762,19.98
+55003,Ashland,Hospitalizations,2015,49,45.53,8038,20.6
+55003,Ashland,Hospitalizations,2016,36,33.65,9257,23.59
+55003,Ashland,Hospitalizations,2017,61,57.29,10980,27.78
+55003,Ashland,Hospitalizations,2018,46,43.13,8443,21.2
+55003,Ashland,Hospitalizations,2019,40,37.39,7486,18.67
+55003,Ashland,Hospitalizations,2020,16,14.47,4476,11.04
+55003,Ashland,Hospitalizations,2021,38,34.22,4235,10.42
+55003,Ashland,Hospitalizations,2022,41,36.62,4210,10.32
+55005,Barron,Hospitalizations,2000,81,27,7874,22.62
+55005,Barron,Hospitalizations,2001,73,24.12,7766,22.16
+55005,Barron,Hospitalizations,2002,73,23.89,7425,21.01
+55005,Barron,Hospitalizations,2003,70,22.79,7385,20.72
+55005,Barron,Hospitalizations,2004,81,26.18,6857,19.07
+55005,Barron,Hospitalizations,2005,74,23.66,7885,21.72
+55005,Barron,Hospitalizations,2006,87,27.6,7077,19.31
+55005,Barron,Hospitalizations,2007,92,28.98,7410,20.01
+55005,Barron,Hospitalizations,2008,98,30.65,8732,23.35
+55005,Barron,Hospitalizations,2009,82,25.54,8450,22.4
+55005,Barron,Hospitalizations,2010,110,34.04,8233,21.64
+55005,Barron,Hospitalizations,2011,77,23.75,8520,22.27
+55005,Barron,Hospitalizations,2012,119,36.71,8376,21.78
+55005,Barron,Hospitalizations,2013,98,30.3,8232,21.3
+55005,Barron,Hospitalizations,2014,96,29.88,7762,19.98
+55005,Barron,Hospitalizations,2015,95,29.56,8038,20.6
+55005,Barron,Hospitalizations,2016,114,35.54,9257,23.59
+55005,Barron,Hospitalizations,2017,159,49.43,10980,27.78
+55005,Barron,Hospitalizations,2018,109,33.88,8443,21.2
+55005,Barron,Hospitalizations,2019,100,30.9,7486,18.67
+55005,Barron,Hospitalizations,2020,64,19.12,4476,11.04
+55005,Barron,Hospitalizations,2021,45,13.4,4235,10.42
+55005,Barron,Hospitalizations,2022,55,16.27,4210,10.32
+55007,Bayfield,Hospitalizations,2000,30,28.5,7874,22.62
+55007,Bayfield,Hospitalizations,2001,27,25.38,7766,22.16
+55007,Bayfield,Hospitalizations,2002,26,24.07,7425,21.01
+55007,Bayfield,Hospitalizations,2003,37,33.94,7385,20.72
+55007,Bayfield,Hospitalizations,2004,19,17.25,6857,19.07
+55007,Bayfield,Hospitalizations,2005,32,28.91,7885,21.72
+55007,Bayfield,Hospitalizations,2006,27,24.16,7077,19.31
+55007,Bayfield,Hospitalizations,2007,24,21.15,7410,20.01
+55007,Bayfield,Hospitalizations,2008,32,28.04,8732,23.35
+55007,Bayfield,Hospitalizations,2009,37,32.53,8450,22.4
+55007,Bayfield,Hospitalizations,2010,25,21.94,8233,21.64
+55007,Bayfield,Hospitalizations,2011,30,26.25,8520,22.27
+55007,Bayfield,Hospitalizations,2012,21,18.39,8376,21.78
+55007,Bayfield,Hospitalizations,2013,9,7.86,8232,21.3
+55007,Bayfield,Hospitalizations,2014,21,18.42,7762,19.98
+55007,Bayfield,Hospitalizations,2015,23,20.2,8038,20.6
+55007,Bayfield,Hospitalizations,2016,22,19.32,9257,23.59
+55007,Bayfield,Hospitalizations,2017,30,26.13,10980,27.78
+55007,Bayfield,Hospitalizations,2018,29,25.02,8443,21.2
+55007,Bayfield,Hospitalizations,2019,31,26.49,7486,18.67
+55007,Bayfield,Hospitalizations,2020,14,11.21,4476,11.04
+55007,Bayfield,Hospitalizations,2021,23,18.19,4235,10.42
+55007,Bayfield,Hospitalizations,2022,23,17.79,4210,10.32
+55009,Brown,Hospitalizations,2000,268,18.6,7874,22.62
+55009,Brown,Hospitalizations,2001,253,17.38,7766,22.16
+55009,Brown,Hospitalizations,2002,244,16.55,7425,21.01
+55009,Brown,Hospitalizations,2003,210,14.09,7385,20.72
+55009,Brown,Hospitalizations,2004,209,13.85,6857,19.07
+55009,Brown,Hospitalizations,2005,261,17.08,7885,21.72
+55009,Brown,Hospitalizations,2006,212,13.74,7077,19.31
+55009,Brown,Hospitalizations,2007,218,13.95,7410,20.01
+55009,Brown,Hospitalizations,2008,277,17.52,8732,23.35
+55009,Brown,Hospitalizations,2009,245,15.31,8450,22.4
+55009,Brown,Hospitalizations,2010,192,11.84,8233,21.64
+55009,Brown,Hospitalizations,2011,190,11.58,8520,22.27
+55009,Brown,Hospitalizations,2012,163,9.81,8376,21.78
+55009,Brown,Hospitalizations,2013,198,11.81,8232,21.3
+55009,Brown,Hospitalizations,2014,148,8.73,7762,19.98
+55009,Brown,Hospitalizations,2015,166,9.7,8038,20.6
+55009,Brown,Hospitalizations,2016,184,10.65,9257,23.59
+55009,Brown,Hospitalizations,2017,257,14.71,10980,27.78
+55009,Brown,Hospitalizations,2018,198,11.23,8443,21.2
+55009,Brown,Hospitalizations,2019,221,12.44,7486,18.67
+55009,Brown,Hospitalizations,2020,160,8.86,4476,11.04
+55009,Brown,Hospitalizations,2021,120,6.6,4235,10.42
+55009,Brown,Hospitalizations,2022,122,6.67,4210,10.32
+55011,Buffalo,Hospitalizations,2000,19,20.23,7874,22.62
+55011,Buffalo,Hospitalizations,2001,21,22.3,7766,22.16
+55011,Buffalo,Hospitalizations,2002,11,11.68,7425,21.01
+55011,Buffalo,Hospitalizations,2003,13,13.75,7385,20.72
+55011,Buffalo,Hospitalizations,2004,21,22.2,6857,19.07
+55011,Buffalo,Hospitalizations,2005,31,32.27,7885,21.72
+55011,Buffalo,Hospitalizations,2006,26,27.09,7077,19.31
+55011,Buffalo,Hospitalizations,2007,28,29.01,7410,20.01
+55011,Buffalo,Hospitalizations,2008,26,26.98,8732,23.35
+55011,Buffalo,Hospitalizations,2009,17,17.7,8450,22.4
+55011,Buffalo,Hospitalizations,2010,25,26.01,8233,21.64
+55011,Buffalo,Hospitalizations,2011,26,27.25,8520,22.27
+55011,Buffalo,Hospitalizations,2012,26,27.22,8376,21.78
+55011,Buffalo,Hospitalizations,2013,25,26.15,8232,21.3
+55011,Buffalo,Hospitalizations,2014,18,18.97,7762,19.98
+55011,Buffalo,Hospitalizations,2015,29,30.57,8038,20.6
+55011,Buffalo,Hospitalizations,2016,32,33.92,9257,23.59
+55011,Buffalo,Hospitalizations,2017,34,35.96,10980,27.78
+55011,Buffalo,Hospitalizations,2018,19,20.05,8443,21.2
+55011,Buffalo,Hospitalizations,2019,19,20.1,7486,18.67
+55011,Buffalo,Hospitalizations,2020,12,12.37,4476,11.04
+55011,Buffalo,Hospitalizations,2021,8,8.24,4235,10.42
+55011,Buffalo,Hospitalizations,2022,4,4.07,4210,10.32
+55013,Burnett,Hospitalizations,2000,37,32.82,7874,22.62
+55013,Burnett,Hospitalizations,2001,33,28.91,7766,22.16
+55013,Burnett,Hospitalizations,2002,37,32.27,7425,21.01
+55013,Burnett,Hospitalizations,2003,39,33.59,7385,20.72
+55013,Burnett,Hospitalizations,2004,33,28.19,6857,19.07
+55013,Burnett,Hospitalizations,2005,36,30.62,7885,21.72
+55013,Burnett,Hospitalizations,2006,49,41.62,7077,19.31
+55013,Burnett,Hospitalizations,2007,33,28.1,7410,20.01
+55013,Burnett,Hospitalizations,2008,66,56.74,8732,23.35
+55013,Burnett,Hospitalizations,2009,39,33.68,8450,22.4
+55013,Burnett,Hospitalizations,2010,56,48.53,8233,21.64
+55013,Burnett,Hospitalizations,2011,55,47.5,8520,22.27
+55013,Burnett,Hospitalizations,2012,53,45.95,8376,21.78
+55013,Burnett,Hospitalizations,2013,39,33.9,8232,21.3
+55013,Burnett,Hospitalizations,2014,38,32.95,7762,19.98
+55013,Burnett,Hospitalizations,2015,47,40.87,8038,20.6
+55013,Burnett,Hospitalizations,2016,41,35.39,9257,23.59
+55013,Burnett,Hospitalizations,2017,75,64.14,10980,27.78
+55013,Burnett,Hospitalizations,2018,60,51.05,8443,21.2
+55013,Burnett,Hospitalizations,2019,44,37.14,7486,18.67
+55013,Burnett,Hospitalizations,2020,40,31.13,4476,11.04
+55013,Burnett,Hospitalizations,2021,37,28.13,4235,10.42
+55013,Burnett,Hospitalizations,2022,36,26.83,4210,10.32
+55015,Calumet,Hospitalizations,2000,32,12.19,7874,22.62
+55015,Calumet,Hospitalizations,2001,35,13.04,7766,22.16
+55015,Calumet,Hospitalizations,2002,26,9.32,7425,21.01
+55015,Calumet,Hospitalizations,2003,29,10.06,7385,20.72
+55015,Calumet,Hospitalizations,2004,30,10.2,6857,19.07
+55015,Calumet,Hospitalizations,2005,38,12.64,7885,21.72
+55015,Calumet,Hospitalizations,2006,26,8.46,7077,19.31
+55015,Calumet,Hospitalizations,2007,26,8.34,7410,20.01
+55015,Calumet,Hospitalizations,2008,34,10.74,8732,23.35
+55015,Calumet,Hospitalizations,2009,47,14.6,8450,22.4
+55015,Calumet,Hospitalizations,2010,27,8.27,8233,21.64
+55015,Calumet,Hospitalizations,2011,29,8.79,8520,22.27
+55015,Calumet,Hospitalizations,2012,43,13,8376,21.78
+55015,Calumet,Hospitalizations,2013,31,9.35,8232,21.3
+55015,Calumet,Hospitalizations,2014,20,6.02,7762,19.98
+55015,Calumet,Hospitalizations,2015,33,9.86,8038,20.6
+55015,Calumet,Hospitalizations,2016,28,8.35,9257,23.59
+55015,Calumet,Hospitalizations,2017,22,6.45,10980,27.78
+55015,Calumet,Hospitalizations,2018,23,6.68,8443,21.2
+55015,Calumet,Hospitalizations,2019,28,8.07,7486,18.67
+55015,Calumet,Hospitalizations,2020,13,3.57,4476,11.04
+55015,Calumet,Hospitalizations,2021,11,3,4235,10.42
+55015,Calumet,Hospitalizations,2022,16,4.32,4210,10.32
+55017,Chippewa,Hospitalizations,2000,84,23.06,7874,22.62
+55017,Chippewa,Hospitalizations,2001,101,27.45,7766,22.16
+55017,Chippewa,Hospitalizations,2002,87,23.36,7425,21.01
+55017,Chippewa,Hospitalizations,2003,96,25.27,7385,20.72
+55017,Chippewa,Hospitalizations,2004,57,14.44,6857,19.07
+55017,Chippewa,Hospitalizations,2005,117,29.01,7885,21.72
+55017,Chippewa,Hospitalizations,2006,78,19.1,7077,19.31
+55017,Chippewa,Hospitalizations,2007,71,17.06,7410,20.01
+55017,Chippewa,Hospitalizations,2008,103,24.43,8732,23.35
+55017,Chippewa,Hospitalizations,2009,123,28.81,8450,22.4
+55017,Chippewa,Hospitalizations,2010,114,26.39,8233,21.64
+55017,Chippewa,Hospitalizations,2011,160,36.68,8520,22.27
+55017,Chippewa,Hospitalizations,2012,131,29.88,8376,21.78
+55017,Chippewa,Hospitalizations,2013,132,30.01,8232,21.3
+55017,Chippewa,Hospitalizations,2014,141,31.82,7762,19.98
+55017,Chippewa,Hospitalizations,2015,100,22.52,8038,20.6
+55017,Chippewa,Hospitalizations,2016,139,31.14,9257,23.59
+55017,Chippewa,Hospitalizations,2017,192,42.7,10980,27.78
+55017,Chippewa,Hospitalizations,2018,111,24.45,8443,21.2
+55017,Chippewa,Hospitalizations,2019,137,29.85,7486,18.67
+55017,Chippewa,Hospitalizations,2020,69,14.66,4476,11.04
+55017,Chippewa,Hospitalizations,2021,61,12.89,4235,10.42
+55017,Chippewa,Hospitalizations,2022,70,14.69,4210,10.32
+55019,Clark,Hospitalizations,2000,104,49.57,7874,22.62
+55019,Clark,Hospitalizations,2001,97,45.94,7766,22.16
+55019,Clark,Hospitalizations,2002,85,40.15,7425,21.01
+55019,Clark,Hospitalizations,2003,67,31.47,7385,20.72
+55019,Clark,Hospitalizations,2004,79,36.9,6857,19.07
+55019,Clark,Hospitalizations,2005,101,47.03,7885,21.72
+55019,Clark,Hospitalizations,2006,91,42.22,7077,19.31
+55019,Clark,Hospitalizations,2007,88,40.59,7410,20.01
+55019,Clark,Hospitalizations,2008,137,62.88,8732,23.35
+55019,Clark,Hospitalizations,2009,93,42.64,8450,22.4
+55019,Clark,Hospitalizations,2010,110,50.19,8233,21.64
+55019,Clark,Hospitalizations,2011,97,44.32,8520,22.27
+55019,Clark,Hospitalizations,2012,118,54.46,8376,21.78
+55019,Clark,Hospitalizations,2013,95,43.74,8232,21.3
+55019,Clark,Hospitalizations,2014,90,41.58,7762,19.98
+55019,Clark,Hospitalizations,2015,71,32.83,8038,20.6
+55019,Clark,Hospitalizations,2016,69,31.85,9257,23.59
+55019,Clark,Hospitalizations,2017,56,25.89,10980,27.78
+55019,Clark,Hospitalizations,2018,64,29.54,8443,21.2
+55019,Clark,Hospitalizations,2019,78,36.05,7486,18.67
+55019,Clark,Hospitalizations,2020,34,15.85,4476,11.04
+55019,Clark,Hospitalizations,2021,27,12.56,4235,10.42
+55019,Clark,Hospitalizations,2022,31,14.36,4210,10.32
+55021,Columbia,Hospitalizations,2000,72,20.19,7874,22.62
+55021,Columbia,Hospitalizations,2001,85,23.47,7766,22.16
+55021,Columbia,Hospitalizations,2002,70,19.22,7425,21.01
+55021,Columbia,Hospitalizations,2003,86,23.29,7385,20.72
+55021,Columbia,Hospitalizations,2004,100,26.66,6857,19.07
+55021,Columbia,Hospitalizations,2005,83,21.95,7885,21.72
+55021,Columbia,Hospitalizations,2006,93,24.29,7077,19.31
+55021,Columbia,Hospitalizations,2007,75,19.37,7410,20.01
+55021,Columbia,Hospitalizations,2008,112,28.76,8732,23.35
+55021,Columbia,Hospitalizations,2009,74,18.85,8450,22.4
+55021,Columbia,Hospitalizations,2010,102,25.66,8233,21.64
+55021,Columbia,Hospitalizations,2011,98,24.64,8520,22.27
+55021,Columbia,Hospitalizations,2012,68,17.15,8376,21.78
+55021,Columbia,Hospitalizations,2013,91,22.92,8232,21.3
+55021,Columbia,Hospitalizations,2014,88,22.09,7762,19.98
+55021,Columbia,Hospitalizations,2015,108,27.06,8038,20.6
+55021,Columbia,Hospitalizations,2016,118,29.37,9257,23.59
+55021,Columbia,Hospitalizations,2017,135,33.24,10980,27.78
+55021,Columbia,Hospitalizations,2018,112,27.44,8443,21.2
+55021,Columbia,Hospitalizations,2019,105,25.47,7486,18.67
+55021,Columbia,Hospitalizations,2020,72,17.21,4476,11.04
+55021,Columbia,Hospitalizations,2021,49,11.67,4235,10.42
+55021,Columbia,Hospitalizations,2022,32,7.62,4210,10.32
+55023,Crawford,Hospitalizations,2000,35,30.88,7874,22.62
+55023,Crawford,Hospitalizations,2001,34,30.07,7766,22.16
+55023,Crawford,Hospitalizations,2002,27,23.74,7425,21.01
+55023,Crawford,Hospitalizations,2003,26,22.85,7385,20.72
+55023,Crawford,Hospitalizations,2004,18,15.63,6857,19.07
+55023,Crawford,Hospitalizations,2005,36,31.17,7885,21.72
+55023,Crawford,Hospitalizations,2006,25,21.46,7077,19.31
+55023,Crawford,Hospitalizations,2007,33,28.02,7410,20.01
+55023,Crawford,Hospitalizations,2008,34,28.8,8732,23.35
+55023,Crawford,Hospitalizations,2009,38,32.12,8450,22.4
+55023,Crawford,Hospitalizations,2010,25,21.16,8233,21.64
+55023,Crawford,Hospitalizations,2011,46,38.71,8520,22.27
+55023,Crawford,Hospitalizations,2012,46,38.92,8376,21.78
+55023,Crawford,Hospitalizations,2013,39,33.35,8232,21.3
+55023,Crawford,Hospitalizations,2014,25,21.43,7762,19.98
+55023,Crawford,Hospitalizations,2015,44,37.66,8038,20.6
+55023,Crawford,Hospitalizations,2016,41,35.19,9257,23.59
+55023,Crawford,Hospitalizations,2017,53,45.46,10980,27.78
+55023,Crawford,Hospitalizations,2018,41,34.96,8443,21.2
+55023,Crawford,Hospitalizations,2019,37,31.57,7486,18.67
+55023,Crawford,Hospitalizations,2020,19,16.26,4476,11.04
+55023,Crawford,Hospitalizations,2021,11,9.39,4235,10.42
+55023,Crawford,Hospitalizations,2022,18,15.35,4210,10.32
+55025,Dane,Hospitalizations,2000,386,14.26,7874,22.62
+55025,Dane,Hospitalizations,2001,380,13.9,7766,22.16
+55025,Dane,Hospitalizations,2002,411,14.82,7425,21.01
+55025,Dane,Hospitalizations,2003,379,13.47,7385,20.72
+55025,Dane,Hospitalizations,2004,349,12.22,6857,19.07
+55025,Dane,Hospitalizations,2005,392,13.5,7885,21.72
+55025,Dane,Hospitalizations,2006,331,11.2,7077,19.31
+55025,Dane,Hospitalizations,2007,338,11.19,7410,20.01
+55025,Dane,Hospitalizations,2008,420,13.62,8732,23.35
+55025,Dane,Hospitalizations,2009,445,14.14,8450,22.4
+55025,Dane,Hospitalizations,2010,458,14.33,8233,21.64
+55025,Dane,Hospitalizations,2011,564,17.42,8520,22.27
+55025,Dane,Hospitalizations,2012,419,12.78,8376,21.78
+55025,Dane,Hospitalizations,2013,375,11.3,8232,21.3
+55025,Dane,Hospitalizations,2014,385,11.45,7762,19.98
+55025,Dane,Hospitalizations,2015,387,11.35,8038,20.6
+55025,Dane,Hospitalizations,2016,481,13.86,9257,23.59
+55025,Dane,Hospitalizations,2017,545,15.43,10980,27.78
+55025,Dane,Hospitalizations,2018,385,10.72,8443,21.2
+55025,Dane,Hospitalizations,2019,307,8.43,7486,18.67
+55025,Dane,Hospitalizations,2020,179,4.81,4476,11.04
+55025,Dane,Hospitalizations,2021,205,5.47,4235,10.42
+55025,Dane,Hospitalizations,2022,193,5.11,4210,10.32
+55027,Dodge,Hospitalizations,2000,99,17.19,7874,22.62
+55027,Dodge,Hospitalizations,2001,129,22.23,7766,22.16
+55027,Dodge,Hospitalizations,2002,123,21.01,7425,21.01
+55027,Dodge,Hospitalizations,2003,114,19.29,7385,20.72
+55027,Dodge,Hospitalizations,2004,80,13.4,6857,19.07
+55027,Dodge,Hospitalizations,2005,112,18.61,7885,21.72
+55027,Dodge,Hospitalizations,2006,108,17.73,7077,19.31
+55027,Dodge,Hospitalizations,2007,113,18.36,7410,20.01
+55027,Dodge,Hospitalizations,2008,175,28.24,8732,23.35
+55027,Dodge,Hospitalizations,2009,208,33.56,8450,22.4
+55027,Dodge,Hospitalizations,2010,173,27.74,8233,21.64
+55027,Dodge,Hospitalizations,2011,188,30.16,8520,22.27
+55027,Dodge,Hospitalizations,2012,183,29.29,8376,21.78
+55027,Dodge,Hospitalizations,2013,181,28.98,8232,21.3
+55027,Dodge,Hospitalizations,2014,153,24.45,7762,19.98
+55027,Dodge,Hospitalizations,2015,161,25.71,8038,20.6
+55027,Dodge,Hospitalizations,2016,164,26.17,9257,23.59
+55027,Dodge,Hospitalizations,2017,185,29.31,10980,27.78
+55027,Dodge,Hospitalizations,2018,164,25.81,8443,21.2
+55027,Dodge,Hospitalizations,2019,142,22.3,7486,18.67
+55027,Dodge,Hospitalizations,2020,105,16.2,4476,11.04
+55027,Dodge,Hospitalizations,2021,69,10.72,4235,10.42
+55027,Dodge,Hospitalizations,2022,65,10.09,4210,10.32
+55029,Door,Hospitalizations,2000,55,27.32,7874,22.62
+55029,Door,Hospitalizations,2001,60,29.54,7766,22.16
+55029,Door,Hospitalizations,2002,80,39.02,7425,21.01
+55029,Door,Hospitalizations,2003,74,35.88,7385,20.72
+55029,Door,Hospitalizations,2004,82,39.77,6857,19.07
+55029,Door,Hospitalizations,2005,89,42.99,7885,21.72
+55029,Door,Hospitalizations,2006,43,20.63,7077,19.31
+55029,Door,Hospitalizations,2007,46,22.01,7410,20.01
+55029,Door,Hospitalizations,2008,51,24.22,8732,23.35
+55029,Door,Hospitalizations,2009,68,32.24,8450,22.4
+55029,Door,Hospitalizations,2010,75,35.49,8233,21.64
+55029,Door,Hospitalizations,2011,49,23.15,8520,22.27
+55029,Door,Hospitalizations,2012,51,24.21,8376,21.78
+55029,Door,Hospitalizations,2013,62,29.34,8232,21.3
+55029,Door,Hospitalizations,2014,41,19.44,7762,19.98
+55029,Door,Hospitalizations,2015,31,14.73,8038,20.6
+55029,Door,Hospitalizations,2016,30,14.2,9257,23.59
+55029,Door,Hospitalizations,2017,30,14.11,10980,27.78
+55029,Door,Hospitalizations,2018,34,15.81,8443,21.2
+55029,Door,Hospitalizations,2019,35,16.13,7486,18.67
+55029,Door,Hospitalizations,2020,20,8.52,4476,11.04
+55029,Door,Hospitalizations,2021,32,13.46,4235,10.42
+55029,Door,Hospitalizations,2022,15,6.25,4210,10.32
+55031,Douglas,Hospitalizations,2000,72,25.12,7874,22.62
+55031,Douglas,Hospitalizations,2001,73,25.28,7766,22.16
+55031,Douglas,Hospitalizations,2002,75,25.92,7425,21.01
+55031,Douglas,Hospitalizations,2003,97,33.32,7385,20.72
+55031,Douglas,Hospitalizations,2004,70,23.91,6857,19.07
+55031,Douglas,Hospitalizations,2005,84,28.54,7885,21.72
+55031,Douglas,Hospitalizations,2006,66,22.29,7077,19.31
+55031,Douglas,Hospitalizations,2007,84,28.36,7410,20.01
+55031,Douglas,Hospitalizations,2008,99,33.24,8732,23.35
+55031,Douglas,Hospitalizations,2009,101,33.8,8450,22.4
+55031,Douglas,Hospitalizations,2010,84,27.86,8233,21.64
+55031,Douglas,Hospitalizations,2011,59,19.54,8520,22.27
+55031,Douglas,Hospitalizations,2012,75,24.77,8376,21.78
+55031,Douglas,Hospitalizations,2013,80,26.2,8232,21.3
+55031,Douglas,Hospitalizations,2014,72,23.47,7762,19.98
+55031,Douglas,Hospitalizations,2015,60,19.52,8038,20.6
+55031,Douglas,Hospitalizations,2016,63,20.4,9257,23.59
+55031,Douglas,Hospitalizations,2017,132,42.69,10980,27.78
+55031,Douglas,Hospitalizations,2018,95,30.63,8443,21.2
+55031,Douglas,Hospitalizations,2019,58,18.53,7486,18.67
+55031,Douglas,Hospitalizations,2020,35,10.98,4476,11.04
+55031,Douglas,Hospitalizations,2021,26,8.15,4235,10.42
+55031,Douglas,Hospitalizations,2022,39,12.16,4210,10.32
+55033,Dunn,Hospitalizations,2000,45,19.84,7874,22.62
+55033,Dunn,Hospitalizations,2001,34,14.75,7766,22.16
+55033,Dunn,Hospitalizations,2002,51,21.92,7425,21.01
+55033,Dunn,Hospitalizations,2003,30,12.79,7385,20.72
+55033,Dunn,Hospitalizations,2004,28,11.73,6857,19.07
+55033,Dunn,Hospitalizations,2005,32,13.2,7885,21.72
+55033,Dunn,Hospitalizations,2006,36,14.5,7077,19.31
+55033,Dunn,Hospitalizations,2007,50,19.81,7410,20.01
+55033,Dunn,Hospitalizations,2008,75,29.26,8732,23.35
+55033,Dunn,Hospitalizations,2009,68,26.18,8450,22.4
+55033,Dunn,Hospitalizations,2010,67,25.56,8233,21.64
+55033,Dunn,Hospitalizations,2011,71,26.97,8520,22.27
+55033,Dunn,Hospitalizations,2012,72,27.2,8376,21.78
+55033,Dunn,Hospitalizations,2013,68,25.54,8232,21.3
+55033,Dunn,Hospitalizations,2014,92,34.29,7762,19.98
+55033,Dunn,Hospitalizations,2015,96,35.6,8038,20.6
+55033,Dunn,Hospitalizations,2016,82,30.25,9257,23.59
+55033,Dunn,Hospitalizations,2017,94,34.17,10980,27.78
+55033,Dunn,Hospitalizations,2018,75,26.96,8443,21.2
+55033,Dunn,Hospitalizations,2019,59,20.98,7486,18.67
+55033,Dunn,Hospitalizations,2020,57,20.27,4476,11.04
+55033,Dunn,Hospitalizations,2021,53,18.72,4235,10.42
+55033,Dunn,Hospitalizations,2022,53,18.47,4210,10.32
+55035,Eau Claire,Hospitalizations,2000,161,29.04,7874,22.62
+55035,Eau Claire,Hospitalizations,2001,177,31.99,7766,22.16
+55035,Eau Claire,Hospitalizations,2002,144,25.91,7425,21.01
+55035,Eau Claire,Hospitalizations,2003,140,25.17,7385,20.72
+55035,Eau Claire,Hospitalizations,2004,115,20.58,6857,19.07
+55035,Eau Claire,Hospitalizations,2005,169,30.05,7885,21.72
+55035,Eau Claire,Hospitalizations,2006,150,26.33,7077,19.31
+55035,Eau Claire,Hospitalizations,2007,147,25.3,7410,20.01
+55035,Eau Claire,Hospitalizations,2008,205,34.79,8732,23.35
+55035,Eau Claire,Hospitalizations,2009,165,27.48,8450,22.4
+55035,Eau Claire,Hospitalizations,2010,161,26.34,8233,21.64
+55035,Eau Claire,Hospitalizations,2011,206,33.3,8520,22.27
+55035,Eau Claire,Hospitalizations,2012,195,31.18,8376,21.78
+55035,Eau Claire,Hospitalizations,2013,195,30.84,8232,21.3
+55035,Eau Claire,Hospitalizations,2014,203,31.97,7762,19.98
+55035,Eau Claire,Hospitalizations,2015,208,32.46,8038,20.6
+55035,Eau Claire,Hospitalizations,2016,245,37.88,9257,23.59
+55035,Eau Claire,Hospitalizations,2017,236,36.14,10980,27.78
+55035,Eau Claire,Hospitalizations,2018,192,29.03,8443,21.2
+55035,Eau Claire,Hospitalizations,2019,170,25.43,7486,18.67
+55035,Eau Claire,Hospitalizations,2020,91,13.45,4476,11.04
+55035,Eau Claire,Hospitalizations,2021,94,13.82,4235,10.42
+55035,Eau Claire,Hospitalizations,2022,118,17.19,4210,10.32
+55037,Florence,Hospitalizations,2000,0,0,7874,22.62
+55037,Florence,Hospitalizations,2001,0,0,7766,22.16
+55037,Florence,Hospitalizations,2002,0,0,7425,21.01
+55037,Florence,Hospitalizations,2003,1,2.76,7385,20.72
+55037,Florence,Hospitalizations,2004,4,11.07,6857,19.07
+55037,Florence,Hospitalizations,2005,4,11.16,7885,21.72
+55037,Florence,Hospitalizations,2006,0,0,7077,19.31
+55037,Florence,Hospitalizations,2007,0,0,7410,20.01
+55037,Florence,Hospitalizations,2008,0,0,8732,23.35
+55037,Florence,Hospitalizations,2009,0,0,8450,22.4
+55037,Florence,Hospitalizations,2010,0,0,8233,21.64
+55037,Florence,Hospitalizations,2011,1,2.96,8520,22.27
+55037,Florence,Hospitalizations,2012,0,0,8376,21.78
+55037,Florence,Hospitalizations,2013,0,0,8232,21.3
+55037,Florence,Hospitalizations,2014,0,0,7762,19.98
+55037,Florence,Hospitalizations,2015,0,0,8038,20.6
+55037,Florence,Hospitalizations,2016,0,0,9257,23.59
+55037,Florence,Hospitalizations,2017,0,0,10980,27.78
+55037,Florence,Hospitalizations,2018,1,2.91,8443,21.2
+55037,Florence,Hospitalizations,2019,2,5.76,7486,18.67
+55037,Florence,Hospitalizations,2020,0,0,4476,11.04
+55037,Florence,Hospitalizations,2021,1,2.68,4235,10.42
+55037,Florence,Hospitalizations,2022,2,5.24,4210,10.32
+55039,Fond du Lac,Hospitalizations,2000,102,16.01,7874,22.62
+55039,Fond du Lac,Hospitalizations,2001,100,15.57,7766,22.16
+55039,Fond du Lac,Hospitalizations,2002,77,11.93,7425,21.01
+55039,Fond du Lac,Hospitalizations,2003,85,13.07,7385,20.72
+55039,Fond du Lac,Hospitalizations,2004,70,10.69,6857,19.07
+55039,Fond du Lac,Hospitalizations,2005,91,13.77,7885,21.72
+55039,Fond du Lac,Hospitalizations,2006,65,9.74,7077,19.31
+55039,Fond du Lac,Hospitalizations,2007,108,16,7410,20.01
+55039,Fond du Lac,Hospitalizations,2008,132,19.33,8732,23.35
+55039,Fond du Lac,Hospitalizations,2009,122,17.71,8450,22.4
+55039,Fond du Lac,Hospitalizations,2010,110,15.85,8233,21.64
+55039,Fond du Lac,Hospitalizations,2011,113,16.17,8520,22.27
+55039,Fond du Lac,Hospitalizations,2012,119,16.98,8376,21.78
+55039,Fond du Lac,Hospitalizations,2013,97,13.79,8232,21.3
+55039,Fond du Lac,Hospitalizations,2014,89,12.64,7762,19.98
+55039,Fond du Lac,Hospitalizations,2015,116,16.4,8038,20.6
+55039,Fond du Lac,Hospitalizations,2016,105,14.75,9257,23.59
+55039,Fond du Lac,Hospitalizations,2017,133,18.57,10980,27.78
+55039,Fond du Lac,Hospitalizations,2018,130,18.01,8443,21.2
+55039,Fond du Lac,Hospitalizations,2019,117,16.14,7486,18.67
+55039,Fond du Lac,Hospitalizations,2020,72,9.86,4476,11.04
+55039,Fond du Lac,Hospitalizations,2021,70,9.55,4235,10.42
+55039,Fond du Lac,Hospitalizations,2022,45,6.15,4210,10.32
+55041,Forest,Hospitalizations,2000,20,29.74,7874,22.62
+55041,Forest,Hospitalizations,2001,23,34.35,7766,22.16
+55041,Forest,Hospitalizations,2002,26,38.75,7425,21.01
+55041,Forest,Hospitalizations,2003,19,28.55,7385,20.72
+55041,Forest,Hospitalizations,2004,30,44.72,6857,19.07
+55041,Forest,Hospitalizations,2005,22,32.91,7885,21.72
+55041,Forest,Hospitalizations,2006,14,20.99,7077,19.31
+55041,Forest,Hospitalizations,2007,24,36.06,7410,20.01
+55041,Forest,Hospitalizations,2008,29,43.77,8732,23.35
+55041,Forest,Hospitalizations,2009,30,46.17,8450,22.4
+55041,Forest,Hospitalizations,2010,22,34.12,8233,21.64
+55041,Forest,Hospitalizations,2011,22,34.16,8520,22.27
+55041,Forest,Hospitalizations,2012,22,34.35,8376,21.78
+55041,Forest,Hospitalizations,2013,24,37.62,8232,21.3
+55041,Forest,Hospitalizations,2014,15,23.45,7762,19.98
+55041,Forest,Hospitalizations,2015,6,9.41,8038,20.6
+55041,Forest,Hospitalizations,2016,12,18.74,9257,23.59
+55041,Forest,Hospitalizations,2017,11,17.14,10980,27.78
+55041,Forest,Hospitalizations,2018,11,16.95,8443,21.2
+55041,Forest,Hospitalizations,2019,13,19.96,7486,18.67
+55041,Forest,Hospitalizations,2020,5,7.37,4476,11.04
+55041,Forest,Hospitalizations,2021,5,7.27,4235,10.42
+55041,Forest,Hospitalizations,2022,6,8.6,4210,10.32
+55043,Grant,Hospitalizations,2000,65,21.3,7874,22.62
+55043,Grant,Hospitalizations,2001,67,22.05,7766,22.16
+55043,Grant,Hospitalizations,2002,59,19.48,7425,21.01
+55043,Grant,Hospitalizations,2003,44,14.53,7385,20.72
+55043,Grant,Hospitalizations,2004,70,23,6857,19.07
+55043,Grant,Hospitalizations,2005,93,30.47,7885,21.72
+55043,Grant,Hospitalizations,2006,83,27.18,7077,19.31
+55043,Grant,Hospitalizations,2007,90,29.15,7410,20.01
+55043,Grant,Hospitalizations,2008,79,25.36,8732,23.35
+55043,Grant,Hospitalizations,2009,73,23.25,8450,22.4
+55043,Grant,Hospitalizations,2010,103,32.58,8233,21.64
+55043,Grant,Hospitalizations,2011,106,33.54,8520,22.27
+55043,Grant,Hospitalizations,2012,70,22.24,8376,21.78
+55043,Grant,Hospitalizations,2013,108,34.18,8232,21.3
+55043,Grant,Hospitalizations,2014,86,27.15,7762,19.98
+55043,Grant,Hospitalizations,2015,80,25.18,8038,20.6
+55043,Grant,Hospitalizations,2016,83,26.11,9257,23.59
+55043,Grant,Hospitalizations,2017,85,26.65,10980,27.78
+55043,Grant,Hospitalizations,2018,68,21.35,8443,21.2
+55043,Grant,Hospitalizations,2019,85,26.63,7486,18.67
+55043,Grant,Hospitalizations,2020,45,13.93,4476,11.04
+55043,Grant,Hospitalizations,2021,45,13.93,4235,10.42
+55043,Grant,Hospitalizations,2022,34,10.51,4210,10.32
+55045,Green,Hospitalizations,2000,77,34.13,7874,22.62
+55045,Green,Hospitalizations,2001,66,29.04,7766,22.16
+55045,Green,Hospitalizations,2002,40,17.44,7425,21.01
+55045,Green,Hospitalizations,2003,56,24.25,7385,20.72
+55045,Green,Hospitalizations,2004,39,16.61,6857,19.07
+55045,Green,Hospitalizations,2005,46,19.25,7885,21.72
+55045,Green,Hospitalizations,2006,53,21.67,7077,19.31
+55045,Green,Hospitalizations,2007,34,13.72,7410,20.01
+55045,Green,Hospitalizations,2008,46,18.32,8732,23.35
+55045,Green,Hospitalizations,2009,43,16.99,8450,22.4
+55045,Green,Hospitalizations,2010,56,21.95,8233,21.64
+55045,Green,Hospitalizations,2011,83,32.5,8520,22.27
+55045,Green,Hospitalizations,2012,91,35.62,8376,21.78
+55045,Green,Hospitalizations,2013,72,28.06,8232,21.3
+55045,Green,Hospitalizations,2014,33,12.88,7762,19.98
+55045,Green,Hospitalizations,2015,52,20.17,8038,20.6
+55045,Green,Hospitalizations,2016,59,22.87,9257,23.59
+55045,Green,Hospitalizations,2017,73,28.05,10980,27.78
+55045,Green,Hospitalizations,2018,37,14.15,8443,21.2
+55045,Green,Hospitalizations,2019,36,13.71,7486,18.67
+55045,Green,Hospitalizations,2020,18,6.81,4476,11.04
+55045,Green,Hospitalizations,2021,19,7.17,4235,10.42
+55045,Green,Hospitalizations,2022,21,7.93,4210,10.32
+55047,Green Lake,Hospitalizations,2000,36,27.26,7874,22.62
+55047,Green Lake,Hospitalizations,2001,45,33.99,7766,22.16
+55047,Green Lake,Hospitalizations,2002,21,15.75,7425,21.01
+55047,Green Lake,Hospitalizations,2003,44,33.07,7385,20.72
+55047,Green Lake,Hospitalizations,2004,29,21.82,6857,19.07
+55047,Green Lake,Hospitalizations,2005,27,20.26,7885,21.72
+55047,Green Lake,Hospitalizations,2006,26,19.43,7077,19.31
+55047,Green Lake,Hospitalizations,2007,29,21.58,7410,20.01
+55047,Green Lake,Hospitalizations,2008,40,29.74,8732,23.35
+55047,Green Lake,Hospitalizations,2009,38,28.26,8450,22.4
+55047,Green Lake,Hospitalizations,2010,43,32.04,8233,21.64
+55047,Green Lake,Hospitalizations,2011,35,26.06,8520,22.27
+55047,Green Lake,Hospitalizations,2012,36,26.9,8376,21.78
+55047,Green Lake,Hospitalizations,2013,43,32.32,8232,21.3
+55047,Green Lake,Hospitalizations,2014,33,25.03,7762,19.98
+55047,Green Lake,Hospitalizations,2015,42,31.87,8038,20.6
+55047,Green Lake,Hospitalizations,2016,31,23.57,9257,23.59
+55047,Green Lake,Hospitalizations,2017,58,44.02,10980,27.78
+55047,Green Lake,Hospitalizations,2018,24,18.08,8443,21.2
+55047,Green Lake,Hospitalizations,2019,25,18.66,7486,18.67
+55047,Green Lake,Hospitalizations,2020,13,9.65,4476,11.04
+55047,Green Lake,Hospitalizations,2021,12,8.78,4235,10.42
+55047,Green Lake,Hospitalizations,2022,7,5.12,4210,10.32
+55049,Iowa,Hospitalizations,2000,35,23.12,7874,22.62
+55049,Iowa,Hospitalizations,2001,36,23.71,7766,22.16
+55049,Iowa,Hospitalizations,2002,33,21.55,7425,21.01
+55049,Iowa,Hospitalizations,2003,26,16.84,7385,20.72
+55049,Iowa,Hospitalizations,2004,21,13.55,6857,19.07
+55049,Iowa,Hospitalizations,2005,31,19.71,7885,21.72
+55049,Iowa,Hospitalizations,2006,28,17.6,7077,19.31
+55049,Iowa,Hospitalizations,2007,28,17.42,7410,20.01
+55049,Iowa,Hospitalizations,2008,31,19.11,8732,23.35
+55049,Iowa,Hospitalizations,2009,32,19.73,8450,22.4
+55049,Iowa,Hospitalizations,2010,14,8.58,8233,21.64
+55049,Iowa,Hospitalizations,2011,26,15.95,8520,22.27
+55049,Iowa,Hospitalizations,2012,23,14.09,8376,21.78
+55049,Iowa,Hospitalizations,2013,32,19.62,8232,21.3
+55049,Iowa,Hospitalizations,2014,36,21.99,7762,19.98
+55049,Iowa,Hospitalizations,2015,48,29.29,8038,20.6
+55049,Iowa,Hospitalizations,2016,41,25.05,9257,23.59
+55049,Iowa,Hospitalizations,2017,61,36.79,10980,27.78
+55049,Iowa,Hospitalizations,2018,47,28.17,8443,21.2
+55049,Iowa,Hospitalizations,2019,37,22.08,7486,18.67
+55049,Iowa,Hospitalizations,2020,33,19.63,4476,11.04
+55049,Iowa,Hospitalizations,2021,22,12.97,4235,10.42
+55049,Iowa,Hospitalizations,2022,33,19.33,4210,10.32
+55051,Iron,Hospitalizations,2000,11,21.54,7874,22.62
+55051,Iron,Hospitalizations,2001,11,21.63,7766,22.16
+55051,Iron,Hospitalizations,2002,7,13.9,7425,21.01
+55051,Iron,Hospitalizations,2003,6,12.09,7385,20.72
+55051,Iron,Hospitalizations,2004,2,4.08,6857,19.07
+55051,Iron,Hospitalizations,2005,4,8.22,7885,21.72
+55051,Iron,Hospitalizations,2006,2,4.22,7077,19.31
+55051,Iron,Hospitalizations,2007,8,16.86,7410,20.01
+55051,Iron,Hospitalizations,2008,7,14.89,8732,23.35
+55051,Iron,Hospitalizations,2009,8,17.23,8450,22.4
+55051,Iron,Hospitalizations,2010,4,8.6,8233,21.64
+55051,Iron,Hospitalizations,2011,5,10.71,8520,22.27
+55051,Iron,Hospitalizations,2012,3,6.5,8376,21.78
+55051,Iron,Hospitalizations,2013,7,15.29,8232,21.3
+55051,Iron,Hospitalizations,2014,1,2.17,7762,19.98
+55051,Iron,Hospitalizations,2015,3,6.63,8038,20.6
+55051,Iron,Hospitalizations,2016,3,6.69,9257,23.59
+55051,Iron,Hospitalizations,2017,5,11.05,10980,27.78
+55051,Iron,Hospitalizations,2018,5,11.08,8443,21.2
+55051,Iron,Hospitalizations,2019,6,13.21,7486,18.67
+55051,Iron,Hospitalizations,2020,1,2.05,4476,11.04
+55051,Iron,Hospitalizations,2021,9,18.29,4235,10.42
+55051,Iron,Hospitalizations,2022,1,2.01,4210,10.32
+55053,Jackson,Hospitalizations,2000,49,38.18,7874,22.62
+55053,Jackson,Hospitalizations,2001,46,35.35,7766,22.16
+55053,Jackson,Hospitalizations,2002,51,38.99,7425,21.01
+55053,Jackson,Hospitalizations,2003,47,35.42,7385,20.72
+55053,Jackson,Hospitalizations,2004,24,18.06,6857,19.07
+55053,Jackson,Hospitalizations,2005,48,35.53,7885,21.72
+55053,Jackson,Hospitalizations,2006,35,25.64,7077,19.31
+55053,Jackson,Hospitalizations,2007,23,16.53,7410,20.01
+55053,Jackson,Hospitalizations,2008,42,29.86,8732,23.35
+55053,Jackson,Hospitalizations,2009,25,17.65,8450,22.4
+55053,Jackson,Hospitalizations,2010,25,17.45,8233,21.64
+55053,Jackson,Hospitalizations,2011,24,16.76,8520,22.27
+55053,Jackson,Hospitalizations,2012,35,24.49,8376,21.78
+55053,Jackson,Hospitalizations,2013,43,29.97,8232,21.3
+55053,Jackson,Hospitalizations,2014,44,30.6,7762,19.98
+55053,Jackson,Hospitalizations,2015,58,40.33,8038,20.6
+55053,Jackson,Hospitalizations,2016,47,32.61,9257,23.59
+55053,Jackson,Hospitalizations,2017,52,36.06,10980,27.78
+55053,Jackson,Hospitalizations,2018,34,23.41,8443,21.2
+55053,Jackson,Hospitalizations,2019,58,39.56,7486,18.67
+55053,Jackson,Hospitalizations,2020,47,31.4,4476,11.04
+55053,Jackson,Hospitalizations,2021,20,13.43,4235,10.42
+55053,Jackson,Hospitalizations,2022,27,18.1,4210,10.32
+55055,Jefferson,Hospitalizations,2000,92,18.68,7874,22.62
+55055,Jefferson,Hospitalizations,2001,78,15.72,7766,22.16
+55055,Jefferson,Hospitalizations,2002,90,17.96,7425,21.01
+55055,Jefferson,Hospitalizations,2003,95,18.73,7385,20.72
+55055,Jefferson,Hospitalizations,2004,69,13.4,6857,19.07
+55055,Jefferson,Hospitalizations,2005,86,16.45,7885,21.72
+55055,Jefferson,Hospitalizations,2006,69,13,7077,19.31
+55055,Jefferson,Hospitalizations,2007,55,10.21,7410,20.01
+55055,Jefferson,Hospitalizations,2008,75,13.75,8732,23.35
+55055,Jefferson,Hospitalizations,2009,80,14.58,8450,22.4
+55055,Jefferson,Hospitalizations,2010,78,14.08,8233,21.64
+55055,Jefferson,Hospitalizations,2011,91,16.28,8520,22.27
+55055,Jefferson,Hospitalizations,2012,93,16.46,8376,21.78
+55055,Jefferson,Hospitalizations,2013,74,12.99,8232,21.3
+55055,Jefferson,Hospitalizations,2014,81,14.14,7762,19.98
+55055,Jefferson,Hospitalizations,2015,72,12.5,8038,20.6
+55055,Jefferson,Hospitalizations,2016,114,19.68,9257,23.59
+55055,Jefferson,Hospitalizations,2017,131,22.4,10980,27.78
+55055,Jefferson,Hospitalizations,2018,111,18.74,8443,21.2
+55055,Jefferson,Hospitalizations,2019,77,12.92,7486,18.67
+55055,Jefferson,Hospitalizations,2020,47,7.9,4476,11.04
+55055,Jefferson,Hospitalizations,2021,51,8.52,4235,10.42
+55055,Jefferson,Hospitalizations,2022,64,10.67,4210,10.32
+55057,Juneau,Hospitalizations,2000,57,34.56,7874,22.62
+55057,Juneau,Hospitalizations,2001,60,35.98,7766,22.16
+55057,Juneau,Hospitalizations,2002,69,40.4,7425,21.01
+55057,Juneau,Hospitalizations,2003,64,37.22,7385,20.72
+55057,Juneau,Hospitalizations,2004,63,36.04,6857,19.07
+55057,Juneau,Hospitalizations,2005,70,37.64,7885,21.72
+55057,Juneau,Hospitalizations,2006,89,47.36,7077,19.31
+55057,Juneau,Hospitalizations,2007,60,31.69,7410,20.01
+55057,Juneau,Hospitalizations,2008,88,46.16,8732,23.35
+55057,Juneau,Hospitalizations,2009,86,44.83,8450,22.4
+55057,Juneau,Hospitalizations,2010,78,40.61,8233,21.64
+55057,Juneau,Hospitalizations,2011,66,34.22,8520,22.27
+55057,Juneau,Hospitalizations,2012,62,31.95,8376,21.78
+55057,Juneau,Hospitalizations,2013,66,34.2,8232,21.3
+55057,Juneau,Hospitalizations,2014,70,36.48,7762,19.98
+55057,Juneau,Hospitalizations,2015,68,35.43,8038,20.6
+55057,Juneau,Hospitalizations,2016,94,48.77,9257,23.59
+55057,Juneau,Hospitalizations,2017,85,43.98,10980,27.78
+55057,Juneau,Hospitalizations,2018,54,27.74,8443,21.2
+55057,Juneau,Hospitalizations,2019,30,15.29,7486,18.67
+55057,Juneau,Hospitalizations,2020,33,16.84,4476,11.04
+55057,Juneau,Hospitalizations,2021,33,16.74,4235,10.42
+55057,Juneau,Hospitalizations,2022,18,9.03,4210,10.32
+55059,Kenosha,Hospitalizations,2000,226,23.7,7874,22.62
+55059,Kenosha,Hospitalizations,2001,231,23.9,7766,22.16
+55059,Kenosha,Hospitalizations,2002,260,26.55,7425,21.01
+55059,Kenosha,Hospitalizations,2003,320,32.28,7385,20.72
+55059,Kenosha,Hospitalizations,2004,273,27.14,6857,19.07
+55059,Kenosha,Hospitalizations,2005,310,30.32,7885,21.72
+55059,Kenosha,Hospitalizations,2006,301,29.14,7077,19.31
+55059,Kenosha,Hospitalizations,2007,300,28.73,7410,20.01
+55059,Kenosha,Hospitalizations,2008,326,30.88,8732,23.35
+55059,Kenosha,Hospitalizations,2009,285,26.8,8450,22.4
+55059,Kenosha,Hospitalizations,2010,304,28.36,8233,21.64
+55059,Kenosha,Hospitalizations,2011,282,26.12,8520,22.27
+55059,Kenosha,Hospitalizations,2012,298,27.39,8376,21.78
+55059,Kenosha,Hospitalizations,2013,326,29.76,8232,21.3
+55059,Kenosha,Hospitalizations,2014,280,25.35,7762,19.98
+55059,Kenosha,Hospitalizations,2015,313,28.15,8038,20.6
+55059,Kenosha,Hospitalizations,2016,435,38.86,9257,23.59
+55059,Kenosha,Hospitalizations,2017,462,40.9,10980,27.78
+55059,Kenosha,Hospitalizations,2018,349,30.58,8443,21.2
+55059,Kenosha,Hospitalizations,2019,331,28.71,7486,18.67
+55059,Kenosha,Hospitalizations,2020,171,14.89,4476,11.04
+55059,Kenosha,Hospitalizations,2021,151,13.13,4235,10.42
+55059,Kenosha,Hospitalizations,2022,167,14.52,4210,10.32
+55061,Kewaunee,Hospitalizations,2000,15,11.22,7874,22.62
+55061,Kewaunee,Hospitalizations,2001,21,15.56,7766,22.16
+55061,Kewaunee,Hospitalizations,2002,19,13.93,7425,21.01
+55061,Kewaunee,Hospitalizations,2003,14,10.23,7385,20.72
+55061,Kewaunee,Hospitalizations,2004,9,6.51,6857,19.07
+55061,Kewaunee,Hospitalizations,2005,20,14.36,7885,21.72
+55061,Kewaunee,Hospitalizations,2006,10,7.11,7077,19.31
+55061,Kewaunee,Hospitalizations,2007,19,13.4,7410,20.01
+55061,Kewaunee,Hospitalizations,2008,23,16.19,8732,23.35
+55061,Kewaunee,Hospitalizations,2009,10,7.01,8450,22.4
+55061,Kewaunee,Hospitalizations,2010,13,9.06,8233,21.64
+55061,Kewaunee,Hospitalizations,2011,15,10.38,8520,22.27
+55061,Kewaunee,Hospitalizations,2012,15,10.39,8376,21.78
+55061,Kewaunee,Hospitalizations,2013,20,13.9,8232,21.3
+55061,Kewaunee,Hospitalizations,2014,10,6.96,7762,19.98
+55061,Kewaunee,Hospitalizations,2015,21,14.63,8038,20.6
+55061,Kewaunee,Hospitalizations,2016,8,5.55,9257,23.59
+55061,Kewaunee,Hospitalizations,2017,22,15.21,10980,27.78
+55061,Kewaunee,Hospitalizations,2018,18,12.4,8443,21.2
+55061,Kewaunee,Hospitalizations,2019,22,15.03,7486,18.67
+55061,Kewaunee,Hospitalizations,2020,3,2.04,4476,11.04
+55061,Kewaunee,Hospitalizations,2021,12,8.09,4235,10.42
+55061,Kewaunee,Hospitalizations,2022,10,6.71,4210,10.32
+55063,La Crosse,Hospitalizations,2000,130,19.91,7874,22.62
+55063,La Crosse,Hospitalizations,2001,99,15.13,7766,22.16
+55063,La Crosse,Hospitalizations,2002,118,17.97,7425,21.01
+55063,La Crosse,Hospitalizations,2003,130,19.66,7385,20.72
+55063,La Crosse,Hospitalizations,2004,119,17.88,6857,19.07
+55063,La Crosse,Hospitalizations,2005,112,16.67,7885,21.72
+55063,La Crosse,Hospitalizations,2006,95,13.97,7077,19.31
+55063,La Crosse,Hospitalizations,2007,92,13.31,7410,20.01
+55063,La Crosse,Hospitalizations,2008,84,11.96,8732,23.35
+55063,La Crosse,Hospitalizations,2009,114,15.94,8450,22.4
+55063,La Crosse,Hospitalizations,2010,94,12.97,8233,21.64
+55063,La Crosse,Hospitalizations,2011,106,14.54,8520,22.27
+55063,La Crosse,Hospitalizations,2012,97,13.22,8376,21.78
+55063,La Crosse,Hospitalizations,2013,96,13.03,8232,21.3
+55063,La Crosse,Hospitalizations,2014,92,12.43,7762,19.98
+55063,La Crosse,Hospitalizations,2015,98,13.16,8038,20.6
+55063,La Crosse,Hospitalizations,2016,118,15.75,9257,23.59
+55063,La Crosse,Hospitalizations,2017,151,20.02,10980,27.78
+55063,La Crosse,Hospitalizations,2018,93,12.25,8443,21.2
+55063,La Crosse,Hospitalizations,2019,82,10.73,7486,18.67
+55063,La Crosse,Hospitalizations,2020,41,5.26,4476,11.04
+55063,La Crosse,Hospitalizations,2021,40,5.14,4235,10.42
+55063,La Crosse,Hospitalizations,2022,41,5.25,4210,10.32
+55065,Lafayette,Hospitalizations,2000,29,27.42,7874,22.62
+55065,Lafayette,Hospitalizations,2001,24,22.65,7766,22.16
+55065,Lafayette,Hospitalizations,2002,22,20.62,7425,21.01
+55065,Lafayette,Hospitalizations,2003,16,14.87,7385,20.72
+55065,Lafayette,Hospitalizations,2004,17,15.67,6857,19.07
+55065,Lafayette,Hospitalizations,2005,34,31.1,7885,21.72
+55065,Lafayette,Hospitalizations,2006,27,24.62,7077,19.31
+55065,Lafayette,Hospitalizations,2007,35,31.97,7410,20.01
+55065,Lafayette,Hospitalizations,2008,39,35.14,8732,23.35
+55065,Lafayette,Hospitalizations,2009,32,28.78,8450,22.4
+55065,Lafayette,Hospitalizations,2010,24,21.43,8233,21.64
+55065,Lafayette,Hospitalizations,2011,21,18.64,8520,22.27
+55065,Lafayette,Hospitalizations,2012,24,21.32,8376,21.78
+55065,Lafayette,Hospitalizations,2013,31,27.76,8232,21.3
+55065,Lafayette,Hospitalizations,2014,19,17,7762,19.98
+55065,Lafayette,Hospitalizations,2015,31,27.63,8038,20.6
+55065,Lafayette,Hospitalizations,2016,37,32.8,9257,23.59
+55065,Lafayette,Hospitalizations,2017,25,22.09,10980,27.78
+55065,Lafayette,Hospitalizations,2018,18,15.92,8443,21.2
+55065,Lafayette,Hospitalizations,2019,32,28.12,7486,18.67
+55065,Lafayette,Hospitalizations,2020,13,11.5,4476,11.04
+55065,Lafayette,Hospitalizations,2021,7,6.12,4235,10.42
+55065,Lafayette,Hospitalizations,2022,15,13.06,4210,10.32
+55067,Langlade,Hospitalizations,2000,44,30.71,7874,22.62
+55067,Langlade,Hospitalizations,2001,46,31.85,7766,22.16
+55067,Langlade,Hospitalizations,2002,35,24.24,7425,21.01
+55067,Langlade,Hospitalizations,2003,31,21.45,7385,20.72
+55067,Langlade,Hospitalizations,2004,40,27.68,6857,19.07
+55067,Langlade,Hospitalizations,2005,39,27.14,7885,21.72
+55067,Langlade,Hospitalizations,2006,34,23.59,7077,19.31
+55067,Langlade,Hospitalizations,2007,35,24.2,7410,20.01
+55067,Langlade,Hospitalizations,2008,55,38.03,8732,23.35
+55067,Langlade,Hospitalizations,2009,40,27.74,8450,22.4
+55067,Langlade,Hospitalizations,2010,45,31.21,8233,21.64
+55067,Langlade,Hospitalizations,2011,59,41.14,8520,22.27
+55067,Langlade,Hospitalizations,2012,32,22.43,8376,21.78
+55067,Langlade,Hospitalizations,2013,46,32.58,8232,21.3
+55067,Langlade,Hospitalizations,2014,42,29.92,7762,19.98
+55067,Langlade,Hospitalizations,2015,28,20.09,8038,20.6
+55067,Langlade,Hospitalizations,2016,19,13.59,9257,23.59
+55067,Langlade,Hospitalizations,2017,35,24.89,10980,27.78
+55067,Langlade,Hospitalizations,2018,36,25.35,8443,21.2
+55067,Langlade,Hospitalizations,2019,37,26.11,7486,18.67
+55067,Langlade,Hospitalizations,2020,21,14.64,4476,11.04
+55067,Langlade,Hospitalizations,2021,18,12.46,4235,10.42
+55067,Langlade,Hospitalizations,2022,14,9.66,4210,10.32
+55069,Lincoln,Hospitalizations,2000,64,31.87,7874,22.62
+55069,Lincoln,Hospitalizations,2001,63,31.35,7766,22.16
+55069,Lincoln,Hospitalizations,2002,64,31.68,7425,21.01
+55069,Lincoln,Hospitalizations,2003,58,28.57,7385,20.72
+55069,Lincoln,Hospitalizations,2004,59,28.8,6857,19.07
+55069,Lincoln,Hospitalizations,2005,98,47.67,7885,21.72
+55069,Lincoln,Hospitalizations,2006,79,38.34,7077,19.31
+55069,Lincoln,Hospitalizations,2007,80,38.76,7410,20.01
+55069,Lincoln,Hospitalizations,2008,89,43.01,8732,23.35
+55069,Lincoln,Hospitalizations,2009,89,43.19,8450,22.4
+55069,Lincoln,Hospitalizations,2010,82,39.65,8233,21.64
+55069,Lincoln,Hospitalizations,2011,85,41.29,8520,22.27
+55069,Lincoln,Hospitalizations,2012,66,31.99,8376,21.78
+55069,Lincoln,Hospitalizations,2013,61,29.68,8232,21.3
+55069,Lincoln,Hospitalizations,2014,69,33.65,7762,19.98
+55069,Lincoln,Hospitalizations,2015,66,32.33,8038,20.6
+55069,Lincoln,Hospitalizations,2016,57,27.78,9257,23.59
+55069,Lincoln,Hospitalizations,2017,70,34.06,10980,27.78
+55069,Lincoln,Hospitalizations,2018,65,31.48,8443,21.2
+55069,Lincoln,Hospitalizations,2019,65,31.38,7486,18.67
+55069,Lincoln,Hospitalizations,2020,39,18.15,4476,11.04
+55069,Lincoln,Hospitalizations,2021,34,15.78,4235,10.42
+55069,Lincoln,Hospitalizations,2022,22,10.17,4210,10.32
+55071,Manitowoc,Hospitalizations,2000,139,25.06,7874,22.62
+55071,Manitowoc,Hospitalizations,2001,141,25.39,7766,22.16
+55071,Manitowoc,Hospitalizations,2002,151,27.24,7425,21.01
+55071,Manitowoc,Hospitalizations,2003,148,26.66,7385,20.72
+55071,Manitowoc,Hospitalizations,2004,156,28.05,6857,19.07
+55071,Manitowoc,Hospitalizations,2005,175,31.3,7885,21.72
+55071,Manitowoc,Hospitalizations,2006,140,24.92,7077,19.31
+55071,Manitowoc,Hospitalizations,2007,150,26.54,7410,20.01
+55071,Manitowoc,Hospitalizations,2008,171,30.14,8732,23.35
+55071,Manitowoc,Hospitalizations,2009,163,28.61,8450,22.4
+55071,Manitowoc,Hospitalizations,2010,189,33.01,8233,21.64
+55071,Manitowoc,Hospitalizations,2011,130,22.67,8520,22.27
+55071,Manitowoc,Hospitalizations,2012,129,22.56,8376,21.78
+55071,Manitowoc,Hospitalizations,2013,115,20.15,8232,21.3
+55071,Manitowoc,Hospitalizations,2014,94,16.55,7762,19.98
+55071,Manitowoc,Hospitalizations,2015,112,19.78,8038,20.6
+55071,Manitowoc,Hospitalizations,2016,99,17.48,9257,23.59
+55071,Manitowoc,Hospitalizations,2017,154,27.17,10980,27.78
+55071,Manitowoc,Hospitalizations,2018,111,19.54,8443,21.2
+55071,Manitowoc,Hospitalizations,2019,97,17.04,7486,18.67
+55071,Manitowoc,Hospitalizations,2020,53,9.03,4476,11.04
+55071,Manitowoc,Hospitalizations,2021,60,10.19,4235,10.42
+55071,Manitowoc,Hospitalizations,2022,61,10.35,4210,10.32
+55073,Marathon,Hospitalizations,2000,173,21.13,7874,22.62
+55073,Marathon,Hospitalizations,2001,197,23.91,7766,22.16
+55073,Marathon,Hospitalizations,2002,191,23.01,7425,21.01
+55073,Marathon,Hospitalizations,2003,181,21.71,7385,20.72
+55073,Marathon,Hospitalizations,2004,180,21.43,6857,19.07
+55073,Marathon,Hospitalizations,2005,190,22.35,7885,21.72
+55073,Marathon,Hospitalizations,2006,172,19.9,7077,19.31
+55073,Marathon,Hospitalizations,2007,236,26.87,7410,20.01
+55073,Marathon,Hospitalizations,2008,268,30.12,8732,23.35
+55073,Marathon,Hospitalizations,2009,222,24.67,8450,22.4
+55073,Marathon,Hospitalizations,2010,212,23.35,8233,21.64
+55073,Marathon,Hospitalizations,2011,214,23.43,8520,22.27
+55073,Marathon,Hospitalizations,2012,193,21.08,8376,21.78
+55073,Marathon,Hospitalizations,2013,178,19.34,8232,21.3
+55073,Marathon,Hospitalizations,2014,168,18.17,7762,19.98
+55073,Marathon,Hospitalizations,2015,134,14.44,8038,20.6
+55073,Marathon,Hospitalizations,2016,155,16.64,9257,23.59
+55073,Marathon,Hospitalizations,2017,242,25.81,10980,27.78
+55073,Marathon,Hospitalizations,2018,269,28.56,8443,21.2
+55073,Marathon,Hospitalizations,2019,229,24.19,7486,18.67
+55073,Marathon,Hospitalizations,2020,97,10.09,4476,11.04
+55073,Marathon,Hospitalizations,2021,93,9.66,4235,10.42
+55073,Marathon,Hospitalizations,2022,60,6.2,4210,10.32
+55075,Marinette,Hospitalizations,2000,92,30.96,7874,22.62
+55075,Marinette,Hospitalizations,2001,86,29.07,7766,22.16
+55075,Marinette,Hospitalizations,2002,53,17.9,7425,21.01
+55075,Marinette,Hospitalizations,2003,54,18.21,7385,20.72
+55075,Marinette,Hospitalizations,2004,54,18.28,6857,19.07
+55075,Marinette,Hospitalizations,2005,70,23.52,7885,21.72
+55075,Marinette,Hospitalizations,2006,57,19.21,7077,19.31
+55075,Marinette,Hospitalizations,2007,83,27.88,7410,20.01
+55075,Marinette,Hospitalizations,2008,95,31.84,8732,23.35
+55075,Marinette,Hospitalizations,2009,119,39.81,8450,22.4
+55075,Marinette,Hospitalizations,2010,118,39.38,8233,21.64
+55075,Marinette,Hospitalizations,2011,128,42.77,8520,22.27
+55075,Marinette,Hospitalizations,2012,137,45.64,8376,21.78
+55075,Marinette,Hospitalizations,2013,118,39.31,8232,21.3
+55075,Marinette,Hospitalizations,2014,97,32.32,7762,19.98
+55075,Marinette,Hospitalizations,2015,107,35.73,8038,20.6
+55075,Marinette,Hospitalizations,2016,73,24.48,9257,23.59
+55075,Marinette,Hospitalizations,2017,91,30.41,10980,27.78
+55075,Marinette,Hospitalizations,2018,42,13.99,8443,21.2
+55075,Marinette,Hospitalizations,2019,44,14.62,7486,18.67
+55075,Marinette,Hospitalizations,2020,36,11.52,4476,11.04
+55075,Marinette,Hospitalizations,2021,39,12.48,4235,10.42
+55075,Marinette,Hospitalizations,2022,55,17.49,4210,10.32
+55077,Marquette,Hospitalizations,2000,38,36.84,7874,22.62
+55077,Marquette,Hospitalizations,2001,33,31.72,7766,22.16
+55077,Marquette,Hospitalizations,2002,25,23.57,7425,21.01
+55077,Marquette,Hospitalizations,2003,26,24.18,7385,20.72
+55077,Marquette,Hospitalizations,2004,39,35.6,6857,19.07
+55077,Marquette,Hospitalizations,2005,45,40.48,7885,21.72
+55077,Marquette,Hospitalizations,2006,25,22.25,7077,19.31
+55077,Marquette,Hospitalizations,2007,43,38.28,7410,20.01
+55077,Marquette,Hospitalizations,2008,39,34.32,8732,23.35
+55077,Marquette,Hospitalizations,2009,26,22.89,8450,22.4
+55077,Marquette,Hospitalizations,2010,40,35.34,8233,21.64
+55077,Marquette,Hospitalizations,2011,46,40.68,8520,22.27
+55077,Marquette,Hospitalizations,2012,43,38.04,8376,21.78
+55077,Marquette,Hospitalizations,2013,31,27.46,8232,21.3
+55077,Marquette,Hospitalizations,2014,39,34.73,7762,19.98
+55077,Marquette,Hospitalizations,2015,45,40.03,8038,20.6
+55077,Marquette,Hospitalizations,2016,36,31.95,9257,23.59
+55077,Marquette,Hospitalizations,2017,57,49.93,10980,27.78
+55077,Marquette,Hospitalizations,2018,53,45.99,8443,21.2
+55077,Marquette,Hospitalizations,2019,50,42.97,7486,18.67
+55077,Marquette,Hospitalizations,2020,22,18.83,4476,11.04
+55077,Marquette,Hospitalizations,2021,15,12.7,4235,10.42
+55077,Marquette,Hospitalizations,2022,6,5.04,4210,10.32
+55078,Menominee,Hospitalizations,2000,12,49.61,7874,22.62
+55078,Menominee,Hospitalizations,2001,10,42.02,7766,22.16
+55078,Menominee,Hospitalizations,2002,10,41.7,7425,21.01
+55078,Menominee,Hospitalizations,2003,13,54.85,7385,20.72
+55078,Menominee,Hospitalizations,2004,10,42.27,6857,19.07
+55078,Menominee,Hospitalizations,2005,15,63.24,7885,21.72
+55078,Menominee,Hospitalizations,2006,12,51.17,7077,19.31
+55078,Menominee,Hospitalizations,2007,12,50.53,7410,20.01
+55078,Menominee,Hospitalizations,2008,14,59.47,8732,23.35
+55078,Menominee,Hospitalizations,2009,12,50.1,8450,22.4
+55078,Menominee,Hospitalizations,2010,6,24.68,8233,21.64
+55078,Menominee,Hospitalizations,2011,8,32.34,8520,22.27
+55078,Menominee,Hospitalizations,2012,11,44.12,8376,21.78
+55078,Menominee,Hospitalizations,2013,9,36.33,8232,21.3
+55078,Menominee,Hospitalizations,2014,9,35.34,7762,19.98
+55078,Menominee,Hospitalizations,2015,17,66.48,8038,20.6
+55078,Menominee,Hospitalizations,2016,12,46.48,9257,23.59
+55078,Menominee,Hospitalizations,2017,9,34.07,10980,27.78
+55078,Menominee,Hospitalizations,2018,20,75.24,8443,21.2
+55078,Menominee,Hospitalizations,2019,15,57.19,7486,18.67
+55078,Menominee,Hospitalizations,2020,5,20.74,4476,11.04
+55078,Menominee,Hospitalizations,2021,4,16.48,4235,10.42
+55078,Menominee,Hospitalizations,2022,6,24.97,4210,10.32
+55079,Milwaukee,Hospitalizations,2000,1741,29.33,7874,22.62
+55079,Milwaukee,Hospitalizations,2001,1631,27.49,7766,22.16
+55079,Milwaukee,Hospitalizations,2002,1499,25.22,7425,21.01
+55079,Milwaukee,Hospitalizations,2003,1458,24.51,7385,20.72
+55079,Milwaukee,Hospitalizations,2004,1419,23.85,6857,19.07
+55079,Milwaukee,Hospitalizations,2005,1407,23.69,7885,21.72
+55079,Milwaukee,Hospitalizations,2006,1404,23.7,7077,19.31
+55079,Milwaukee,Hospitalizations,2007,1398,23.56,7410,20.01
+55079,Milwaukee,Hospitalizations,2008,1527,25.65,8732,23.35
+55079,Milwaukee,Hospitalizations,2009,1537,25.62,8450,22.4
+55079,Milwaukee,Hospitalizations,2010,1557,25.76,8233,21.64
+55079,Milwaukee,Hospitalizations,2011,1695,27.8,8520,22.27
+55079,Milwaukee,Hospitalizations,2012,1755,28.53,8376,21.78
+55079,Milwaukee,Hospitalizations,2013,1643,26.46,8232,21.3
+55079,Milwaukee,Hospitalizations,2014,1605,25.66,7762,19.98
+55079,Milwaukee,Hospitalizations,2015,1722,27.38,8038,20.6
+55079,Milwaukee,Hospitalizations,2016,2181,34.63,9257,23.59
+55079,Milwaukee,Hospitalizations,2017,2459,39.02,10980,27.78
+55079,Milwaukee,Hospitalizations,2018,1875,29.77,8443,21.2
+55079,Milwaukee,Hospitalizations,2019,1300,20.58,7486,18.67
+55079,Milwaukee,Hospitalizations,2020,799,12.8,4476,11.04
+55079,Milwaukee,Hospitalizations,2021,810,13.11,4235,10.42
+55079,Milwaukee,Hospitalizations,2022,712,11.61,4210,10.32
+55081,Monroe,Hospitalizations,2000,68,25.85,7874,22.62
+55081,Monroe,Hospitalizations,2001,53,19.95,7766,22.16
+55081,Monroe,Hospitalizations,2002,62,23.1,7425,21.01
+55081,Monroe,Hospitalizations,2003,51,18.88,7385,20.72
+55081,Monroe,Hospitalizations,2004,42,15.35,6857,19.07
+55081,Monroe,Hospitalizations,2005,66,23.81,7885,21.72
+55081,Monroe,Hospitalizations,2006,70,24.74,7077,19.31
+55081,Monroe,Hospitalizations,2007,45,15.64,7410,20.01
+55081,Monroe,Hospitalizations,2008,69,23.68,8732,23.35
+55081,Monroe,Hospitalizations,2009,49,16.64,8450,22.4
+55081,Monroe,Hospitalizations,2010,43,14.4,8233,21.64
+55081,Monroe,Hospitalizations,2011,41,13.63,8520,22.27
+55081,Monroe,Hospitalizations,2012,48,15.93,8376,21.78
+55081,Monroe,Hospitalizations,2013,50,16.53,8232,21.3
+55081,Monroe,Hospitalizations,2014,43,14.18,7762,19.98
+55081,Monroe,Hospitalizations,2015,53,17.4,8038,20.6
+55081,Monroe,Hospitalizations,2016,77,25.1,9257,23.59
+55081,Monroe,Hospitalizations,2017,77,24.9,10980,27.78
+55081,Monroe,Hospitalizations,2018,66,21.17,8443,21.2
+55081,Monroe,Hospitalizations,2019,62,19.55,7486,18.67
+55081,Monroe,Hospitalizations,2020,24,7.68,4476,11.04
+55081,Monroe,Hospitalizations,2021,34,10.89,4235,10.42
+55081,Monroe,Hospitalizations,2022,23,7.35,4210,10.32
+55083,Oconto,Hospitalizations,2000,50,20.57,7874,22.62
+55083,Oconto,Hospitalizations,2001,39,15.84,7766,22.16
+55083,Oconto,Hospitalizations,2002,47,18.94,7425,21.01
+55083,Oconto,Hospitalizations,2003,32,12.66,7385,20.72
+55083,Oconto,Hospitalizations,2004,46,17.92,6857,19.07
+55083,Oconto,Hospitalizations,2005,54,20.77,7885,21.72
+55083,Oconto,Hospitalizations,2006,25,9.5,7077,19.31
+55083,Oconto,Hospitalizations,2007,31,11.7,7410,20.01
+55083,Oconto,Hospitalizations,2008,74,27.81,8732,23.35
+55083,Oconto,Hospitalizations,2009,57,21.31,8450,22.4
+55083,Oconto,Hospitalizations,2010,47,17.5,8233,21.64
+55083,Oconto,Hospitalizations,2011,62,23.09,8520,22.27
+55083,Oconto,Hospitalizations,2012,56,20.85,8376,21.78
+55083,Oconto,Hospitalizations,2013,60,22.24,8232,21.3
+55083,Oconto,Hospitalizations,2014,46,16.98,7762,19.98
+55083,Oconto,Hospitalizations,2015,43,15.81,8038,20.6
+55083,Oconto,Hospitalizations,2016,38,13.92,9257,23.59
+55083,Oconto,Hospitalizations,2017,56,20.42,10980,27.78
+55083,Oconto,Hospitalizations,2018,39,14.03,8443,21.2
+55083,Oconto,Hospitalizations,2019,38,13.56,7486,18.67
+55083,Oconto,Hospitalizations,2020,30,10.44,4476,11.04
+55083,Oconto,Hospitalizations,2021,27,9.28,4235,10.42
+55083,Oconto,Hospitalizations,2022,37,12.59,4210,10.32
+55085,Oneida,Hospitalizations,2000,104,39.28,7874,22.62
+55085,Oneida,Hospitalizations,2001,95,35.67,7766,22.16
+55085,Oneida,Hospitalizations,2002,80,29.99,7425,21.01
+55085,Oneida,Hospitalizations,2003,72,26.69,7385,20.72
+55085,Oneida,Hospitalizations,2004,86,31.85,6857,19.07
+55085,Oneida,Hospitalizations,2005,104,38.53,7885,21.72
+55085,Oneida,Hospitalizations,2006,57,21.03,7077,19.31
+55085,Oneida,Hospitalizations,2007,78,28.75,7410,20.01
+55085,Oneida,Hospitalizations,2008,92,33.86,8732,23.35
+55085,Oneida,Hospitalizations,2009,95,35.07,8450,22.4
+55085,Oneida,Hospitalizations,2010,79,29.2,8233,21.64
+55085,Oneida,Hospitalizations,2011,84,31.1,8520,22.27
+55085,Oneida,Hospitalizations,2012,77,28.59,8376,21.78
+55085,Oneida,Hospitalizations,2013,64,23.8,8232,21.3
+55085,Oneida,Hospitalizations,2014,42,15.64,7762,19.98
+55085,Oneida,Hospitalizations,2015,32,11.91,8038,20.6
+55085,Oneida,Hospitalizations,2016,40,14.86,9257,23.59
+55085,Oneida,Hospitalizations,2017,63,23.33,10980,27.78
+55085,Oneida,Hospitalizations,2018,55,20.23,8443,21.2
+55085,Oneida,Hospitalizations,2019,66,24.03,7486,18.67
+55085,Oneida,Hospitalizations,2020,25,8.57,4476,11.04
+55085,Oneida,Hospitalizations,2021,22,7.44,4235,10.42
+55085,Oneida,Hospitalizations,2022,24,8.1,4210,10.32
+55087,Outagamie,Hospitalizations,2000,153,14.91,7874,22.62
+55087,Outagamie,Hospitalizations,2001,149,14.31,7766,22.16
+55087,Outagamie,Hospitalizations,2002,127,12.05,7425,21.01
+55087,Outagamie,Hospitalizations,2003,146,13.72,7385,20.72
+55087,Outagamie,Hospitalizations,2004,116,10.76,6857,19.07
+55087,Outagamie,Hospitalizations,2005,131,11.98,7885,21.72
+55087,Outagamie,Hospitalizations,2006,119,10.71,7077,19.31
+55087,Outagamie,Hospitalizations,2007,117,10.37,7410,20.01
+55087,Outagamie,Hospitalizations,2008,145,12.68,8732,23.35
+55087,Outagamie,Hospitalizations,2009,128,11.03,8450,22.4
+55087,Outagamie,Hospitalizations,2010,114,9.73,8233,21.64
+55087,Outagamie,Hospitalizations,2011,119,10.06,8520,22.27
+55087,Outagamie,Hospitalizations,2012,133,11.15,8376,21.78
+55087,Outagamie,Hospitalizations,2013,146,12.12,8232,21.3
+55087,Outagamie,Hospitalizations,2014,132,10.85,7762,19.98
+55087,Outagamie,Hospitalizations,2015,128,10.41,8038,20.6
+55087,Outagamie,Hospitalizations,2016,114,9.17,9257,23.59
+55087,Outagamie,Hospitalizations,2017,141,11.21,10980,27.78
+55087,Outagamie,Hospitalizations,2018,129,10.14,8443,21.2
+55087,Outagamie,Hospitalizations,2019,116,9.04,7486,18.67
+55087,Outagamie,Hospitalizations,2020,69,5.29,4476,11.04
+55087,Outagamie,Hospitalizations,2021,55,4.2,4235,10.42
+55087,Outagamie,Hospitalizations,2022,77,5.83,4210,10.32
+55089,Ozaukee,Hospitalizations,2000,64,11.65,7874,22.62
+55089,Ozaukee,Hospitalizations,2001,79,14.28,7766,22.16
+55089,Ozaukee,Hospitalizations,2002,62,11.12,7425,21.01
+55089,Ozaukee,Hospitalizations,2003,81,14.39,7385,20.72
+55089,Ozaukee,Hospitalizations,2004,90,15.83,6857,19.07
+55089,Ozaukee,Hospitalizations,2005,69,12.08,7885,21.72
+55089,Ozaukee,Hospitalizations,2006,61,10.6,7077,19.31
+55089,Ozaukee,Hospitalizations,2007,62,10.67,7410,20.01
+55089,Ozaukee,Hospitalizations,2008,79,13.45,8732,23.35
+55089,Ozaukee,Hospitalizations,2009,98,16.52,8450,22.4
+55089,Ozaukee,Hospitalizations,2010,80,13.41,8233,21.64
+55089,Ozaukee,Hospitalizations,2011,91,15.17,8520,22.27
+55089,Ozaukee,Hospitalizations,2012,103,17.08,8376,21.78
+55089,Ozaukee,Hospitalizations,2013,103,17.04,8232,21.3
+55089,Ozaukee,Hospitalizations,2014,85,14.01,7762,19.98
+55089,Ozaukee,Hospitalizations,2015,87,14.3,8038,20.6
+55089,Ozaukee,Hospitalizations,2016,92,15.04,9257,23.59
+55089,Ozaukee,Hospitalizations,2017,120,19.45,10980,27.78
+55089,Ozaukee,Hospitalizations,2018,106,16.96,8443,21.2
+55089,Ozaukee,Hospitalizations,2019,73,11.61,7486,18.67
+55089,Ozaukee,Hospitalizations,2020,56,8.72,4476,11.04
+55089,Ozaukee,Hospitalizations,2021,35,5.37,4235,10.42
+55089,Ozaukee,Hospitalizations,2022,38,5.78,4210,10.32
+55091,Pepin,Hospitalizations,2000,23,48.36,7874,22.62
+55091,Pepin,Hospitalizations,2001,12,24.91,7766,22.16
+55091,Pepin,Hospitalizations,2002,10,20.48,7425,21.01
+55091,Pepin,Hospitalizations,2003,8,16.18,7385,20.72
+55091,Pepin,Hospitalizations,2004,5,9.93,6857,19.07
+55091,Pepin,Hospitalizations,2005,19,37.45,7885,21.72
+55091,Pepin,Hospitalizations,2006,16,31.35,7077,19.31
+55091,Pepin,Hospitalizations,2007,7,13.55,7410,20.01
+55091,Pepin,Hospitalizations,2008,10,19.14,8732,23.35
+55091,Pepin,Hospitalizations,2009,12,22.9,8450,22.4
+55091,Pepin,Hospitalizations,2010,5,9.46,8233,21.64
+55091,Pepin,Hospitalizations,2011,12,22.91,8520,22.27
+55091,Pepin,Hospitalizations,2012,13,24.96,8376,21.78
+55091,Pepin,Hospitalizations,2013,9,17.44,8232,21.3
+55091,Pepin,Hospitalizations,2014,13,25.19,7762,19.98
+55091,Pepin,Hospitalizations,2015,10,19.47,8038,20.6
+55091,Pepin,Hospitalizations,2016,17,32.84,9257,23.59
+55091,Pepin,Hospitalizations,2017,21,40.17,10980,27.78
+55091,Pepin,Hospitalizations,2018,19,36.18,8443,21.2
+55091,Pepin,Hospitalizations,2019,11,20.92,7486,18.67
+55091,Pepin,Hospitalizations,2020,9,17.07,4476,11.04
+55091,Pepin,Hospitalizations,2021,8,15.18,4235,10.42
+55091,Pepin,Hospitalizations,2022,8,15.03,4210,10.32
+55093,Pierce,Hospitalizations,2000,27,12.5,7874,22.62
+55093,Pierce,Hospitalizations,2001,24,11.07,7766,22.16
+55093,Pierce,Hospitalizations,2002,37,16.92,7425,21.01
+55093,Pierce,Hospitalizations,2003,28,12.58,7385,20.72
+55093,Pierce,Hospitalizations,2004,35,15.45,6857,19.07
+55093,Pierce,Hospitalizations,2005,42,18.16,7885,21.72
+55093,Pierce,Hospitalizations,2006,42,17.78,7077,19.31
+55093,Pierce,Hospitalizations,2007,27,11.21,7410,20.01
+55093,Pierce,Hospitalizations,2008,43,17.53,8732,23.35
+55093,Pierce,Hospitalizations,2009,40,16.24,8450,22.4
+55093,Pierce,Hospitalizations,2010,49,19.55,8233,21.64
+55093,Pierce,Hospitalizations,2011,42,16.69,8520,22.27
+55093,Pierce,Hospitalizations,2012,56,22.16,8376,21.78
+55093,Pierce,Hospitalizations,2013,56,21.97,8232,21.3
+55093,Pierce,Hospitalizations,2014,59,22.95,7762,19.98
+55093,Pierce,Hospitalizations,2015,56,21.69,8038,20.6
+55093,Pierce,Hospitalizations,2016,70,26.75,9257,23.59
+55093,Pierce,Hospitalizations,2017,67,25.24,10980,27.78
+55093,Pierce,Hospitalizations,2018,46,17.08,8443,21.2
+55093,Pierce,Hospitalizations,2019,51,18.76,7486,18.67
+55093,Pierce,Hospitalizations,2020,25,9.29,4476,11.04
+55093,Pierce,Hospitalizations,2021,23,8.43,4235,10.42
+55093,Pierce,Hospitalizations,2022,28,10.14,4210,10.32
+55095,Polk,Hospitalizations,2000,57,20.52,7874,22.62
+55095,Polk,Hospitalizations,2001,63,22.24,7766,22.16
+55095,Polk,Hospitalizations,2002,72,25.06,7425,21.01
+55095,Polk,Hospitalizations,2003,82,28.17,7385,20.72
+55095,Polk,Hospitalizations,2004,56,18.99,6857,19.07
+55095,Polk,Hospitalizations,2005,81,27.07,7885,21.72
+55095,Polk,Hospitalizations,2006,84,27.75,7077,19.31
+55095,Polk,Hospitalizations,2007,67,22,7410,20.01
+55095,Polk,Hospitalizations,2008,109,35.44,8732,23.35
+55095,Polk,Hospitalizations,2009,110,35.67,8450,22.4
+55095,Polk,Hospitalizations,2010,119,38.57,8233,21.64
+55095,Polk,Hospitalizations,2011,71,23,8520,22.27
+55095,Polk,Hospitalizations,2012,98,31.88,8376,21.78
+55095,Polk,Hospitalizations,2013,65,21.17,8232,21.3
+55095,Polk,Hospitalizations,2014,69,22.48,7762,19.98
+55095,Polk,Hospitalizations,2015,69,22.46,8038,20.6
+55095,Polk,Hospitalizations,2016,86,27.87,9257,23.59
+55095,Polk,Hospitalizations,2017,118,37.85,10980,27.78
+55095,Polk,Hospitalizations,2018,81,25.74,8443,21.2
+55095,Polk,Hospitalizations,2019,73,22.96,7486,18.67
+55095,Polk,Hospitalizations,2020,44,13.4,4476,11.04
+55095,Polk,Hospitalizations,2021,64,19.25,4235,10.42
+55095,Polk,Hospitalizations,2022,69,20.51,4210,10.32
+55097,Portage,Hospitalizations,2000,91,22.67,7874,22.62
+55097,Portage,Hospitalizations,2001,74,18.39,7766,22.16
+55097,Portage,Hospitalizations,2002,72,17.82,7425,21.01
+55097,Portage,Hospitalizations,2003,76,18.75,7385,20.72
+55097,Portage,Hospitalizations,2004,51,12.48,6857,19.07
+55097,Portage,Hospitalizations,2005,65,15.8,7885,21.72
+55097,Portage,Hospitalizations,2006,70,16.81,7077,19.31
+55097,Portage,Hospitalizations,2007,86,20.27,7410,20.01
+55097,Portage,Hospitalizations,2008,99,22.96,8732,23.35
+55097,Portage,Hospitalizations,2009,91,20.82,8450,22.4
+55097,Portage,Hospitalizations,2010,125,28.42,8233,21.64
+55097,Portage,Hospitalizations,2011,119,26.99,8520,22.27
+55097,Portage,Hospitalizations,2012,132,29.84,8376,21.78
+55097,Portage,Hospitalizations,2013,109,24.52,8232,21.3
+55097,Portage,Hospitalizations,2014,97,21.69,7762,19.98
+55097,Portage,Hospitalizations,2015,59,13.17,8038,20.6
+55097,Portage,Hospitalizations,2016,58,12.91,9257,23.59
+55097,Portage,Hospitalizations,2017,57,12.59,10980,27.78
+55097,Portage,Hospitalizations,2018,58,12.69,8443,21.2
+55097,Portage,Hospitalizations,2019,57,12.37,7486,18.67
+55097,Portage,Hospitalizations,2020,36,7.86,4476,11.04
+55097,Portage,Hospitalizations,2021,26,5.66,4235,10.42
+55097,Portage,Hospitalizations,2022,29,6.27,4210,10.32
+55099,Price,Hospitalizations,2000,48,43.12,7874,22.62
+55099,Price,Hospitalizations,2001,43,38.94,7766,22.16
+55099,Price,Hospitalizations,2002,52,47.25,7425,21.01
+55099,Price,Hospitalizations,2003,45,40.82,7385,20.72
+55099,Price,Hospitalizations,2004,20,18.21,6857,19.07
+55099,Price,Hospitalizations,2005,41,37.64,7885,21.72
+55099,Price,Hospitalizations,2006,39,35.85,7077,19.31
+55099,Price,Hospitalizations,2007,45,41.91,7410,20.01
+55099,Price,Hospitalizations,2008,39,36.34,8732,23.35
+55099,Price,Hospitalizations,2009,36,33.52,8450,22.4
+55099,Price,Hospitalizations,2010,38,35.61,8233,21.64
+55099,Price,Hospitalizations,2011,45,42.4,8520,22.27
+55099,Price,Hospitalizations,2012,50,47.64,8376,21.78
+55099,Price,Hospitalizations,2013,63,60.51,8232,21.3
+55099,Price,Hospitalizations,2014,72,69.65,7762,19.98
+55099,Price,Hospitalizations,2015,63,61.36,8038,20.6
+55099,Price,Hospitalizations,2016,55,53.99,9257,23.59
+55099,Price,Hospitalizations,2017,60,59.24,10980,27.78
+55099,Price,Hospitalizations,2018,39,38.53,8443,21.2
+55099,Price,Hospitalizations,2019,38,37.4,7486,18.67
+55099,Price,Hospitalizations,2020,35,32.78,4476,11.04
+55099,Price,Hospitalizations,2021,31,28.77,4235,10.42
+55099,Price,Hospitalizations,2022,19,17.45,4210,10.32
+55101,Racine,Hospitalizations,2000,222,18.15,7874,22.62
+55101,Racine,Hospitalizations,2001,262,21.37,7766,22.16
+55101,Racine,Hospitalizations,2002,246,19.93,7425,21.01
+55101,Racine,Hospitalizations,2003,253,20.35,7385,20.72
+55101,Racine,Hospitalizations,2004,227,18.1,6857,19.07
+55101,Racine,Hospitalizations,2005,257,20.28,7885,21.72
+55101,Racine,Hospitalizations,2006,247,19.34,7077,19.31
+55101,Racine,Hospitalizations,2007,306,23.76,7410,20.01
+55101,Racine,Hospitalizations,2008,349,26.93,8732,23.35
+55101,Racine,Hospitalizations,2009,336,25.77,8450,22.4
+55101,Racine,Hospitalizations,2010,273,20.82,8233,21.64
+55101,Racine,Hospitalizations,2011,286,21.8,8520,22.27
+55101,Racine,Hospitalizations,2012,274,20.88,8376,21.78
+55101,Racine,Hospitalizations,2013,289,21.98,8232,21.3
+55101,Racine,Hospitalizations,2014,328,24.86,7762,19.98
+55101,Racine,Hospitalizations,2015,364,27.56,8038,20.6
+55101,Racine,Hospitalizations,2016,456,34.38,9257,23.59
+55101,Racine,Hospitalizations,2017,511,38.23,10980,27.78
+55101,Racine,Hospitalizations,2018,339,25.23,8443,21.2
+55101,Racine,Hospitalizations,2019,336,24.93,7486,18.67
+55101,Racine,Hospitalizations,2020,167,12.34,4476,11.04
+55101,Racine,Hospitalizations,2021,155,11.47,4235,10.42
+55101,Racine,Hospitalizations,2022,197,14.57,4210,10.32
+55103,Richland,Hospitalizations,2000,61,51.13,7874,22.62
+55103,Richland,Hospitalizations,2001,46,38.31,7766,22.16
+55103,Richland,Hospitalizations,2002,35,29.23,7425,21.01
+55103,Richland,Hospitalizations,2003,47,38.93,7385,20.72
+55103,Richland,Hospitalizations,2004,35,28.68,6857,19.07
+55103,Richland,Hospitalizations,2005,44,35.93,7885,21.72
+55103,Richland,Hospitalizations,2006,20,16.18,7077,19.31
+55103,Richland,Hospitalizations,2007,33,26.36,7410,20.01
+55103,Richland,Hospitalizations,2008,26,20.81,8732,23.35
+55103,Richland,Hospitalizations,2009,19,15.22,8450,22.4
+55103,Richland,Hospitalizations,2010,23,18.46,8233,21.64
+55103,Richland,Hospitalizations,2011,23,18.43,8520,22.27
+55103,Richland,Hospitalizations,2012,24,19.36,8376,21.78
+55103,Richland,Hospitalizations,2013,19,15.31,8232,21.3
+55103,Richland,Hospitalizations,2014,15,12.1,7762,19.98
+55103,Richland,Hospitalizations,2015,23,18.64,8038,20.6
+55103,Richland,Hospitalizations,2016,30,24.18,9257,23.59
+55103,Richland,Hospitalizations,2017,44,35.5,10980,27.78
+55103,Richland,Hospitalizations,2018,48,38.75,8443,21.2
+55103,Richland,Hospitalizations,2019,25,20.19,7486,18.67
+55103,Richland,Hospitalizations,2020,21,17.02,4476,11.04
+55103,Richland,Hospitalizations,2021,28,22.67,4235,10.42
+55103,Richland,Hospitalizations,2022,32,25.98,4210,10.32
+55105,Rock,Hospitalizations,2000,289,29.21,7874,22.62
+55105,Rock,Hospitalizations,2001,290,29.15,7766,22.16
+55105,Rock,Hospitalizations,2002,284,28.45,7425,21.01
+55105,Rock,Hospitalizations,2003,294,29.3,7385,20.72
+55105,Rock,Hospitalizations,2004,241,23.79,6857,19.07
+55105,Rock,Hospitalizations,2005,279,27.24,7885,21.72
+55105,Rock,Hospitalizations,2006,231,22.29,7077,19.31
+55105,Rock,Hospitalizations,2007,233,22.23,7410,20.01
+55105,Rock,Hospitalizations,2008,260,24.57,8732,23.35
+55105,Rock,Hospitalizations,2009,280,26.39,8450,22.4
+55105,Rock,Hospitalizations,2010,274,25.73,8233,21.64
+55105,Rock,Hospitalizations,2011,308,28.8,8520,22.27
+55105,Rock,Hospitalizations,2012,324,30.18,8376,21.78
+55105,Rock,Hospitalizations,2013,319,29.62,8232,21.3
+55105,Rock,Hospitalizations,2014,359,33.15,7762,19.98
+55105,Rock,Hospitalizations,2015,373,34.38,8038,20.6
+55105,Rock,Hospitalizations,2016,432,39.63,9257,23.59
+55105,Rock,Hospitalizations,2017,395,35.85,10980,27.78
+55105,Rock,Hospitalizations,2018,320,28.81,8443,21.2
+55105,Rock,Hospitalizations,2019,324,28.96,7486,18.67
+55105,Rock,Hospitalizations,2020,204,18.14,4476,11.04
+55105,Rock,Hospitalizations,2021,179,15.81,4235,10.42
+55105,Rock,Hospitalizations,2022,195,17.18,4210,10.32
+55107,Rusk,Hospitalizations,2000,34,32.89,7874,22.62
+55107,Rusk,Hospitalizations,2001,43,41.69,7766,22.16
+55107,Rusk,Hospitalizations,2002,36,34.89,7425,21.01
+55107,Rusk,Hospitalizations,2003,35,33.94,7385,20.72
+55107,Rusk,Hospitalizations,2004,27,26.03,6857,19.07
+55107,Rusk,Hospitalizations,2005,31,29.89,7885,21.72
+55107,Rusk,Hospitalizations,2006,23,22.22,7077,19.31
+55107,Rusk,Hospitalizations,2007,27,25.89,7410,20.01
+55107,Rusk,Hospitalizations,2008,25,23.82,8732,23.35
+55107,Rusk,Hospitalizations,2009,27,25.68,8450,22.4
+55107,Rusk,Hospitalizations,2010,49,46.52,8233,21.64
+55107,Rusk,Hospitalizations,2011,28,26.73,8520,22.27
+55107,Rusk,Hospitalizations,2012,25,24.33,8376,21.78
+55107,Rusk,Hospitalizations,2013,26,25.17,8232,21.3
+55107,Rusk,Hospitalizations,2014,30,29.1,7762,19.98
+55107,Rusk,Hospitalizations,2015,54,53.01,8038,20.6
+55107,Rusk,Hospitalizations,2016,61,59.89,9257,23.59
+55107,Rusk,Hospitalizations,2017,64,62.62,10980,27.78
+55107,Rusk,Hospitalizations,2018,29,28.21,8443,21.2
+55107,Rusk,Hospitalizations,2019,32,31.04,7486,18.67
+55107,Rusk,Hospitalizations,2020,15,14.46,4476,11.04
+55107,Rusk,Hospitalizations,2021,20,19.31,4235,10.42
+55107,Rusk,Hospitalizations,2022,17,16.26,4210,10.32
+55109,Saint Croix,Hospitalizations,2000,68,16.71,7874,22.62
+55109,Saint Croix,Hospitalizations,2001,61,14.43,7766,22.16
+55109,Saint Croix,Hospitalizations,2002,61,13.84,7425,21.01
+55109,Saint Croix,Hospitalizations,2003,53,11.54,7385,20.72
+55109,Saint Croix,Hospitalizations,2004,60,12.52,6857,19.07
+55109,Saint Croix,Hospitalizations,2005,57,11.41,7885,21.72
+55109,Saint Croix,Hospitalizations,2006,51,9.84,7077,19.31
+55109,Saint Croix,Hospitalizations,2007,61,11.45,7410,20.01
+55109,Saint Croix,Hospitalizations,2008,63,11.57,8732,23.35
+55109,Saint Croix,Hospitalizations,2009,62,11.21,8450,22.4
+55109,Saint Croix,Hospitalizations,2010,59,10.56,8233,21.64
+55109,Saint Croix,Hospitalizations,2011,77,13.7,8520,22.27
+55109,Saint Croix,Hospitalizations,2012,76,13.44,8376,21.78
+55109,Saint Croix,Hospitalizations,2013,74,12.98,8232,21.3
+55109,Saint Croix,Hospitalizations,2014,61,10.57,7762,19.98
+55109,Saint Croix,Hospitalizations,2015,51,8.76,8038,20.6
+55109,Saint Croix,Hospitalizations,2016,60,10.22,9257,23.59
+55109,Saint Croix,Hospitalizations,2017,99,16.6,10980,27.78
+55109,Saint Croix,Hospitalizations,2018,57,9.38,8443,21.2
+55109,Saint Croix,Hospitalizations,2019,73,11.83,7486,18.67
+55109,Saint Croix,Hospitalizations,2020,57,8.92,4476,11.04
+55109,Saint Croix,Hospitalizations,2021,56,8.6,4235,10.42
+55109,Saint Croix,Hospitalizations,2022,85,12.83,4210,10.32
+55111,Sauk,Hospitalizations,2000,81,22,7874,22.62
+55111,Sauk,Hospitalizations,2001,92,24.77,7766,22.16
+55111,Sauk,Hospitalizations,2002,92,24.49,7425,21.01
+55111,Sauk,Hospitalizations,2003,99,25.91,7385,20.72
+55111,Sauk,Hospitalizations,2004,70,18.01,6857,19.07
+55111,Sauk,Hospitalizations,2005,99,25.03,7885,21.72
+55111,Sauk,Hospitalizations,2006,99,24.64,7077,19.31
+55111,Sauk,Hospitalizations,2007,98,23.93,7410,20.01
+55111,Sauk,Hospitalizations,2008,86,20.63,8732,23.35
+55111,Sauk,Hospitalizations,2009,108,25.67,8450,22.4
+55111,Sauk,Hospitalizations,2010,126,29.56,8233,21.64
+55111,Sauk,Hospitalizations,2011,114,26.6,8520,22.27
+55111,Sauk,Hospitalizations,2012,88,20.41,8376,21.78
+55111,Sauk,Hospitalizations,2013,117,26.93,8232,21.3
+55111,Sauk,Hospitalizations,2014,97,22.25,7762,19.98
+55111,Sauk,Hospitalizations,2015,96,21.86,8038,20.6
+55111,Sauk,Hospitalizations,2016,131,29.69,9257,23.59
+55111,Sauk,Hospitalizations,2017,155,34.87,10980,27.78
+55111,Sauk,Hospitalizations,2018,126,28.12,8443,21.2
+55111,Sauk,Hospitalizations,2019,97,21.52,7486,18.67
+55111,Sauk,Hospitalizations,2020,66,14.34,4476,11.04
+55111,Sauk,Hospitalizations,2021,49,10.62,4235,10.42
+55111,Sauk,Hospitalizations,2022,50,10.77,4210,10.32
+55113,Sawyer,Hospitalizations,2000,44,38.7,7874,22.62
+55113,Sawyer,Hospitalizations,2001,47,41.2,7766,22.16
+55113,Sawyer,Hospitalizations,2002,34,29.46,7425,21.01
+55113,Sawyer,Hospitalizations,2003,30,25.78,7385,20.72
+55113,Sawyer,Hospitalizations,2004,45,38.39,6857,19.07
+55113,Sawyer,Hospitalizations,2005,32,26.92,7885,21.72
+55113,Sawyer,Hospitalizations,2006,30,25.17,7077,19.31
+55113,Sawyer,Hospitalizations,2007,32,26.71,7410,20.01
+55113,Sawyer,Hospitalizations,2008,38,31.6,8732,23.35
+55113,Sawyer,Hospitalizations,2009,46,38.23,8450,22.4
+55113,Sawyer,Hospitalizations,2010,50,41.54,8233,21.64
+55113,Sawyer,Hospitalizations,2011,43,35.59,8520,22.27
+55113,Sawyer,Hospitalizations,2012,28,23.16,8376,21.78
+55113,Sawyer,Hospitalizations,2013,41,34.01,8232,21.3
+55113,Sawyer,Hospitalizations,2014,35,29.16,7762,19.98
+55113,Sawyer,Hospitalizations,2015,32,26.7,8038,20.6
+55113,Sawyer,Hospitalizations,2016,43,35.82,9257,23.59
+55113,Sawyer,Hospitalizations,2017,56,46.32,10980,27.78
+55113,Sawyer,Hospitalizations,2018,33,27.07,8443,21.2
+55113,Sawyer,Hospitalizations,2019,32,25.89,7486,18.67
+55113,Sawyer,Hospitalizations,2020,27,19.94,4476,11.04
+55113,Sawyer,Hospitalizations,2021,20,14.56,4235,10.42
+55113,Sawyer,Hospitalizations,2022,27,19.27,4210,10.32
+55115,Shawano,Hospitalizations,2000,56,20.35,7874,22.62
+55115,Shawano,Hospitalizations,2001,57,20.56,7766,22.16
+55115,Shawano,Hospitalizations,2002,48,17.24,7425,21.01
+55115,Shawano,Hospitalizations,2003,53,18.93,7385,20.72
+55115,Shawano,Hospitalizations,2004,54,19.16,6857,19.07
+55115,Shawano,Hospitalizations,2005,68,23.98,7885,21.72
+55115,Shawano,Hospitalizations,2006,39,13.61,7077,19.31
+55115,Shawano,Hospitalizations,2007,76,26.35,7410,20.01
+55115,Shawano,Hospitalizations,2008,69,23.69,8732,23.35
+55115,Shawano,Hospitalizations,2009,56,19.17,8450,22.4
+55115,Shawano,Hospitalizations,2010,62,21.09,8233,21.64
+55115,Shawano,Hospitalizations,2011,46,15.65,8520,22.27
+55115,Shawano,Hospitalizations,2012,61,20.82,8376,21.78
+55115,Shawano,Hospitalizations,2013,41,13.98,8232,21.3
+55115,Shawano,Hospitalizations,2014,61,20.86,7762,19.98
+55115,Shawano,Hospitalizations,2015,65,22.3,8038,20.6
+55115,Shawano,Hospitalizations,2016,62,21.27,9257,23.59
+55115,Shawano,Hospitalizations,2017,64,21.94,10980,27.78
+55115,Shawano,Hospitalizations,2018,55,18.82,8443,21.2
+55115,Shawano,Hospitalizations,2019,70,23.85,7486,18.67
+55115,Shawano,Hospitalizations,2020,43,14.69,4476,11.04
+55115,Shawano,Hospitalizations,2021,31,10.6,4235,10.42
+55115,Shawano,Hospitalizations,2022,24,8.15,4210,10.32
+55117,Sheboygan,Hospitalizations,2000,120,16.12,7874,22.62
+55117,Sheboygan,Hospitalizations,2001,129,17.21,7766,22.16
+55117,Sheboygan,Hospitalizations,2002,140,18.62,7425,21.01
+55117,Sheboygan,Hospitalizations,2003,112,14.83,7385,20.72
+55117,Sheboygan,Hospitalizations,2004,103,13.55,6857,19.07
+55117,Sheboygan,Hospitalizations,2005,134,17.48,7885,21.72
+55117,Sheboygan,Hospitalizations,2006,112,14.53,7077,19.31
+55117,Sheboygan,Hospitalizations,2007,96,12.34,7410,20.01
+55117,Sheboygan,Hospitalizations,2008,115,14.66,8732,23.35
+55117,Sheboygan,Hospitalizations,2009,100,12.69,8450,22.4
+55117,Sheboygan,Hospitalizations,2010,71,8.98,8233,21.64
+55117,Sheboygan,Hospitalizations,2011,83,10.48,8520,22.27
+55117,Sheboygan,Hospitalizations,2012,65,8.22,8376,21.78
+55117,Sheboygan,Hospitalizations,2013,86,10.9,8232,21.3
+55117,Sheboygan,Hospitalizations,2014,86,10.88,7762,19.98
+55117,Sheboygan,Hospitalizations,2015,92,11.6,8038,20.6
+55117,Sheboygan,Hospitalizations,2016,159,20.02,9257,23.59
+55117,Sheboygan,Hospitalizations,2017,189,23.7,10980,27.78
+55117,Sheboygan,Hospitalizations,2018,109,13.6,8443,21.2
+55117,Sheboygan,Hospitalizations,2019,114,14.16,7486,18.67
+55117,Sheboygan,Hospitalizations,2020,79,9.61,4476,11.04
+55117,Sheboygan,Hospitalizations,2021,76,9.23,4235,10.42
+55117,Sheboygan,Hospitalizations,2022,86,10.4,4210,10.32
+55119,Taylor,Hospitalizations,2000,59,45.8,7874,22.62
+55119,Taylor,Hospitalizations,2001,50,38.51,7766,22.16
+55119,Taylor,Hospitalizations,2002,42,32.1,7425,21.01
+55119,Taylor,Hospitalizations,2003,42,31.79,7385,20.72
+55119,Taylor,Hospitalizations,2004,39,29.06,6857,19.07
+55119,Taylor,Hospitalizations,2005,36,26.53,7885,21.72
+55119,Taylor,Hospitalizations,2006,32,23.29,7077,19.31
+55119,Taylor,Hospitalizations,2007,46,33.13,7410,20.01
+55119,Taylor,Hospitalizations,2008,42,30.09,8732,23.35
+55119,Taylor,Hospitalizations,2009,26,18.44,8450,22.4
+55119,Taylor,Hospitalizations,2010,26,18.32,8233,21.64
+55119,Taylor,Hospitalizations,2011,39,27.44,8520,22.27
+55119,Taylor,Hospitalizations,2012,34,24.38,8376,21.78
+55119,Taylor,Hospitalizations,2013,29,20.56,8232,21.3
+55119,Taylor,Hospitalizations,2014,13,9.21,7762,19.98
+55119,Taylor,Hospitalizations,2015,20,14.22,8038,20.6
+55119,Taylor,Hospitalizations,2016,23,16.36,9257,23.59
+55119,Taylor,Hospitalizations,2017,18,12.77,10980,27.78
+55119,Taylor,Hospitalizations,2018,21,14.8,8443,21.2
+55119,Taylor,Hospitalizations,2019,29,20.43,7486,18.67
+55119,Taylor,Hospitalizations,2020,9,6.46,4476,11.04
+55119,Taylor,Hospitalizations,2021,11,7.87,4235,10.42
+55119,Taylor,Hospitalizations,2022,30,21.42,4210,10.32
+55121,Trempealeau,Hospitalizations,2000,42,22.91,7874,22.62
+55121,Trempealeau,Hospitalizations,2001,38,20.69,7766,22.16
+55121,Trempealeau,Hospitalizations,2002,32,17.29,7425,21.01
+55121,Trempealeau,Hospitalizations,2003,45,24.1,7385,20.72
+55121,Trempealeau,Hospitalizations,2004,27,14.34,6857,19.07
+55121,Trempealeau,Hospitalizations,2005,57,29.84,7885,21.72
+55121,Trempealeau,Hospitalizations,2006,50,25.92,7077,19.31
+55121,Trempealeau,Hospitalizations,2007,46,23.74,7410,20.01
+55121,Trempealeau,Hospitalizations,2008,40,20.45,8732,23.35
+55121,Trempealeau,Hospitalizations,2009,50,25.37,8450,22.4
+55121,Trempealeau,Hospitalizations,2010,21,10.56,8233,21.64
+55121,Trempealeau,Hospitalizations,2011,37,18.48,8520,22.27
+55121,Trempealeau,Hospitalizations,2012,42,20.85,8376,21.78
+55121,Trempealeau,Hospitalizations,2013,34,16.93,8232,21.3
+55121,Trempealeau,Hospitalizations,2014,28,13.97,7762,19.98
+55121,Trempealeau,Hospitalizations,2015,30,15.03,8038,20.6
+55121,Trempealeau,Hospitalizations,2016,33,16.52,9257,23.59
+55121,Trempealeau,Hospitalizations,2017,65,32.6,10980,27.78
+55121,Trempealeau,Hospitalizations,2018,41,20.45,8443,21.2
+55121,Trempealeau,Hospitalizations,2019,26,12.89,7486,18.67
+55121,Trempealeau,Hospitalizations,2020,20,9.61,4476,11.04
+55121,Trempealeau,Hospitalizations,2021,20,9.59,4235,10.42
+55121,Trempealeau,Hospitalizations,2022,16,7.65,4210,10.32
+55123,Vernon,Hospitalizations,2000,44,23.85,7874,22.62
+55123,Vernon,Hospitalizations,2001,29,15.62,7766,22.16
+55123,Vernon,Hospitalizations,2002,15,8.06,7425,21.01
+55123,Vernon,Hospitalizations,2003,33,17.66,7385,20.72
+55123,Vernon,Hospitalizations,2004,30,15.9,6857,19.07
+55123,Vernon,Hospitalizations,2005,33,17.3,7885,21.72
+55123,Vernon,Hospitalizations,2006,42,21.86,7077,19.31
+55123,Vernon,Hospitalizations,2007,42,21.58,7410,20.01
+55123,Vernon,Hospitalizations,2008,31,15.79,8732,23.35
+55123,Vernon,Hospitalizations,2009,50,25.34,8450,22.4
+55123,Vernon,Hospitalizations,2010,27,13.55,8233,21.64
+55123,Vernon,Hospitalizations,2011,30,15,8520,22.27
+55123,Vernon,Hospitalizations,2012,39,19.45,8376,21.78
+55123,Vernon,Hospitalizations,2013,42,20.88,8232,21.3
+55123,Vernon,Hospitalizations,2014,48,23.78,7762,19.98
+55123,Vernon,Hospitalizations,2015,54,26.69,8038,20.6
+55123,Vernon,Hospitalizations,2016,51,25,9257,23.59
+55123,Vernon,Hospitalizations,2017,53,25.76,10980,27.78
+55123,Vernon,Hospitalizations,2018,39,18.91,8443,21.2
+55123,Vernon,Hospitalizations,2019,44,21.24,7486,18.67
+55123,Vernon,Hospitalizations,2020,27,13.12,4476,11.04
+55123,Vernon,Hospitalizations,2021,15,7.24,4235,10.42
+55123,Vernon,Hospitalizations,2022,25,12.02,4210,10.32
+55125,Vilas,Hospitalizations,2000,43,27.3,7874,22.62
+55125,Vilas,Hospitalizations,2001,40,24.99,7766,22.16
+55125,Vilas,Hospitalizations,2002,45,27.68,7425,21.01
+55125,Vilas,Hospitalizations,2003,43,26.17,7385,20.72
+55125,Vilas,Hospitalizations,2004,46,27.74,6857,19.07
+55125,Vilas,Hospitalizations,2005,54,32.37,7885,21.72
+55125,Vilas,Hospitalizations,2006,41,24.52,7077,19.31
+55125,Vilas,Hospitalizations,2007,81,48.28,7410,20.01
+55125,Vilas,Hospitalizations,2008,73,43.9,8732,23.35
+55125,Vilas,Hospitalizations,2009,69,41.69,8450,22.4
+55125,Vilas,Hospitalizations,2010,58,35.21,8233,21.64
+55125,Vilas,Hospitalizations,2011,55,33.38,8520,22.27
+55125,Vilas,Hospitalizations,2012,62,37.83,8376,21.78
+55125,Vilas,Hospitalizations,2013,58,35.24,8232,21.3
+55125,Vilas,Hospitalizations,2014,49,29.67,7762,19.98
+55125,Vilas,Hospitalizations,2015,42,25.37,8038,20.6
+55125,Vilas,Hospitalizations,2016,45,26.98,9257,23.59
+55125,Vilas,Hospitalizations,2017,59,35.11,10980,27.78
+55125,Vilas,Hospitalizations,2018,58,33.99,8443,21.2
+55125,Vilas,Hospitalizations,2019,57,33.1,7486,18.67
+55125,Vilas,Hospitalizations,2020,23,12.81,4476,11.04
+55125,Vilas,Hospitalizations,2021,25,13.6,4235,10.42
+55125,Vilas,Hospitalizations,2022,23,12.29,4210,10.32
+55127,Walworth,Hospitalizations,2000,137,23.48,7874,22.62
+55127,Walworth,Hospitalizations,2001,121,20.53,7766,22.16
+55127,Walworth,Hospitalizations,2002,141,23.48,7425,21.01
+55127,Walworth,Hospitalizations,2003,125,20.44,7385,20.72
+55127,Walworth,Hospitalizations,2004,139,22.44,6857,19.07
+55127,Walworth,Hospitalizations,2005,130,20.58,7885,21.72
+55127,Walworth,Hospitalizations,2006,114,17.81,7077,19.31
+55127,Walworth,Hospitalizations,2007,120,18.54,7410,20.01
+55127,Walworth,Hospitalizations,2008,149,22.83,8732,23.35
+55127,Walworth,Hospitalizations,2009,166,25.23,8450,22.4
+55127,Walworth,Hospitalizations,2010,130,19.63,8233,21.64
+55127,Walworth,Hospitalizations,2011,144,21.64,8520,22.27
+55127,Walworth,Hospitalizations,2012,150,22.48,8376,21.78
+55127,Walworth,Hospitalizations,2013,121,18.13,8232,21.3
+55127,Walworth,Hospitalizations,2014,136,20.3,7762,19.98
+55127,Walworth,Hospitalizations,2015,138,20.59,8038,20.6
+55127,Walworth,Hospitalizations,2016,177,26.26,9257,23.59
+55127,Walworth,Hospitalizations,2017,192,28.24,10980,27.78
+55127,Walworth,Hospitalizations,2018,148,21.53,8443,21.2
+55127,Walworth,Hospitalizations,2019,147,21.18,7486,18.67
+55127,Walworth,Hospitalizations,2020,92,13.08,4476,11.04
+55127,Walworth,Hospitalizations,2021,69,9.72,4235,10.42
+55127,Walworth,Hospitalizations,2022,81,11.36,4210,10.32
+55129,Washburn,Hospitalizations,2000,38,33.6,7874,22.62
+55129,Washburn,Hospitalizations,2001,43,37.76,7766,22.16
+55129,Washburn,Hospitalizations,2002,62,53.84,7425,21.01
+55129,Washburn,Hospitalizations,2003,45,38.92,7385,20.72
+55129,Washburn,Hospitalizations,2004,40,34.42,6857,19.07
+55129,Washburn,Hospitalizations,2005,55,47.27,7885,21.72
+55129,Washburn,Hospitalizations,2006,45,38.54,7077,19.31
+55129,Washburn,Hospitalizations,2007,58,49.45,7410,20.01
+55129,Washburn,Hospitalizations,2008,72,61.3,8732,23.35
+55129,Washburn,Hospitalizations,2009,40,34.01,8450,22.4
+55129,Washburn,Hospitalizations,2010,59,49.88,8233,21.64
+55129,Washburn,Hospitalizations,2011,37,31.55,8520,22.27
+55129,Washburn,Hospitalizations,2012,29,24.74,8376,21.78
+55129,Washburn,Hospitalizations,2013,48,41.3,8232,21.3
+55129,Washburn,Hospitalizations,2014,39,33.54,7762,19.98
+55129,Washburn,Hospitalizations,2015,39,33.72,8038,20.6
+55129,Washburn,Hospitalizations,2016,41,35.14,9257,23.59
+55129,Washburn,Hospitalizations,2017,71,60.15,10980,27.78
+55129,Washburn,Hospitalizations,2018,37,31,8443,21.2
+55129,Washburn,Hospitalizations,2019,30,25.15,7486,18.67
+55129,Washburn,Hospitalizations,2020,26,20.64,4476,11.04
+55129,Washburn,Hospitalizations,2021,18,14.15,4235,10.42
+55129,Washburn,Hospitalizations,2022,36,27.84,4210,10.32
+55131,Washington,Hospitalizations,2000,96,12.3,7874,22.62
+55131,Washington,Hospitalizations,2001,81,10.23,7766,22.16
+55131,Washington,Hospitalizations,2002,89,11.1,7425,21.01
+55131,Washington,Hospitalizations,2003,89,10.96,7385,20.72
+55131,Washington,Hospitalizations,2004,123,14.88,6857,19.07
+55131,Washington,Hospitalizations,2005,142,16.85,7885,21.72
+55131,Washington,Hospitalizations,2006,136,15.83,7077,19.31
+55131,Washington,Hospitalizations,2007,102,11.65,7410,20.01
+55131,Washington,Hospitalizations,2008,145,16.26,8732,23.35
+55131,Washington,Hospitalizations,2009,173,19.17,8450,22.4
+55131,Washington,Hospitalizations,2010,161,17.71,8233,21.64
+55131,Washington,Hospitalizations,2011,159,17.36,8520,22.27
+55131,Washington,Hospitalizations,2012,156,16.94,8376,21.78
+55131,Washington,Hospitalizations,2013,196,21.2,8232,21.3
+55131,Washington,Hospitalizations,2014,112,12.03,7762,19.98
+55131,Washington,Hospitalizations,2015,151,16.13,8038,20.6
+55131,Washington,Hospitalizations,2016,169,17.92,9257,23.59
+55131,Washington,Hospitalizations,2017,252,26.51,10980,27.78
+55131,Washington,Hospitalizations,2018,193,20.1,8443,21.2
+55131,Washington,Hospitalizations,2019,176,18.16,7486,18.67
+55131,Washington,Hospitalizations,2020,114,11.7,4476,11.04
+55131,Washington,Hospitalizations,2021,116,11.81,4235,10.42
+55131,Washington,Hospitalizations,2022,82,8.28,4210,10.32
+55133,Waukesha,Hospitalizations,2000,433,17.87,7874,22.62
+55133,Waukesha,Hospitalizations,2001,441,18.02,7766,22.16
+55133,Waukesha,Hospitalizations,2002,411,16.58,7425,21.01
+55133,Waukesha,Hospitalizations,2003,431,17.2,7385,20.72
+55133,Waukesha,Hospitalizations,2004,399,15.8,6857,19.07
+55133,Waukesha,Hospitalizations,2005,444,17.41,7885,21.72
+55133,Waukesha,Hospitalizations,2006,408,15.85,7077,19.31
+55133,Waukesha,Hospitalizations,2007,421,16.12,7410,20.01
+55133,Waukesha,Hospitalizations,2008,500,18.9,8732,23.35
+55133,Waukesha,Hospitalizations,2009,535,20,8450,22.4
+55133,Waukesha,Hospitalizations,2010,462,17.14,8233,21.64
+55133,Waukesha,Hospitalizations,2011,419,15.45,8520,22.27
+55133,Waukesha,Hospitalizations,2012,416,15.22,8376,21.78
+55133,Waukesha,Hospitalizations,2013,390,14.19,8232,21.3
+55133,Waukesha,Hospitalizations,2014,352,12.75,7762,19.98
+55133,Waukesha,Hospitalizations,2015,385,13.89,8038,20.6
+55133,Waukesha,Hospitalizations,2016,429,15.33,9257,23.59
+55133,Waukesha,Hospitalizations,2017,577,20.43,10980,27.78
+55133,Waukesha,Hospitalizations,2018,444,15.59,8443,21.2
+55133,Waukesha,Hospitalizations,2019,428,14.89,7486,18.67
+55133,Waukesha,Hospitalizations,2020,245,8.45,4476,11.04
+55133,Waukesha,Hospitalizations,2021,294,10.06,4235,10.42
+55133,Waukesha,Hospitalizations,2022,274,9.31,4210,10.32
+55135,Waupaca,Hospitalizations,2000,69,19.73,7874,22.62
+55135,Waupaca,Hospitalizations,2001,67,19.03,7766,22.16
+55135,Waupaca,Hospitalizations,2002,50,14.12,7425,21.01
+55135,Waupaca,Hospitalizations,2003,49,13.75,7385,20.72
+55135,Waupaca,Hospitalizations,2004,57,15.91,6857,19.07
+55135,Waupaca,Hospitalizations,2005,79,21.94,7885,21.72
+55135,Waupaca,Hospitalizations,2006,82,22.52,7077,19.31
+55135,Waupaca,Hospitalizations,2007,84,22.97,7410,20.01
+55135,Waupaca,Hospitalizations,2008,79,21.52,8732,23.35
+55135,Waupaca,Hospitalizations,2009,84,22.83,8450,22.4
+55135,Waupaca,Hospitalizations,2010,80,21.56,8233,21.64
+55135,Waupaca,Hospitalizations,2011,73,19.67,8520,22.27
+55135,Waupaca,Hospitalizations,2012,52,14.07,8376,21.78
+55135,Waupaca,Hospitalizations,2013,74,19.96,8232,21.3
+55135,Waupaca,Hospitalizations,2014,73,19.69,7762,19.98
+55135,Waupaca,Hospitalizations,2015,58,15.7,8038,20.6
+55135,Waupaca,Hospitalizations,2016,81,21.94,9257,23.59
+55135,Waupaca,Hospitalizations,2017,66,17.86,10980,27.78
+55135,Waupaca,Hospitalizations,2018,58,15.65,8443,21.2
+55135,Waupaca,Hospitalizations,2019,56,15.14,7486,18.67
+55135,Waupaca,Hospitalizations,2020,42,11.21,4476,11.04
+55135,Waupaca,Hospitalizations,2021,46,12.12,4235,10.42
+55135,Waupaca,Hospitalizations,2022,29,7.71,4210,10.32
+55137,Waushara,Hospitalizations,2000,52,32.04,7874,22.62
+55137,Waushara,Hospitalizations,2001,68,41.36,7766,22.16
+55137,Waushara,Hospitalizations,2002,44,25.3,7425,21.01
+55137,Waushara,Hospitalizations,2003,52,29.64,7385,20.72
+55137,Waushara,Hospitalizations,2004,39,22.09,6857,19.07
+55137,Waushara,Hospitalizations,2005,71,40.07,7885,21.72
+55137,Waushara,Hospitalizations,2006,58,32.47,7077,19.31
+55137,Waushara,Hospitalizations,2007,69,38.41,7410,20.01
+55137,Waushara,Hospitalizations,2008,66,36.36,8732,23.35
+55137,Waushara,Hospitalizations,2009,46,25.43,8450,22.4
+55137,Waushara,Hospitalizations,2010,73,40.22,8233,21.64
+55137,Waushara,Hospitalizations,2011,66,36.28,8520,22.27
+55137,Waushara,Hospitalizations,2012,71,39.12,8376,21.78
+55137,Waushara,Hospitalizations,2013,82,45.37,8232,21.3
+55137,Waushara,Hospitalizations,2014,53,29.44,7762,19.98
+55137,Waushara,Hospitalizations,2015,49,27.33,8038,20.6
+55137,Waushara,Hospitalizations,2016,34,18.84,9257,23.59
+55137,Waushara,Hospitalizations,2017,56,30.82,10980,27.78
+55137,Waushara,Hospitalizations,2018,45,24.58,8443,21.2
+55137,Waushara,Hospitalizations,2019,38,20.59,7486,18.67
+55137,Waushara,Hospitalizations,2020,32,17.22,4476,11.04
+55137,Waushara,Hospitalizations,2021,18,9.6,4235,10.42
+55137,Waushara,Hospitalizations,2022,29,15.3,4210,10.32
+55139,Winnebago,Hospitalizations,2000,155,15.34,7874,22.62
+55139,Winnebago,Hospitalizations,2001,157,15.38,7766,22.16
+55139,Winnebago,Hospitalizations,2002,129,12.52,7425,21.01
+55139,Winnebago,Hospitalizations,2003,147,14.16,7385,20.72
+55139,Winnebago,Hospitalizations,2004,148,14.11,6857,19.07
+55139,Winnebago,Hospitalizations,2005,168,15.83,7885,21.72
+55139,Winnebago,Hospitalizations,2006,153,14.28,7077,19.31
+55139,Winnebago,Hospitalizations,2007,191,17.68,7410,20.01
+55139,Winnebago,Hospitalizations,2008,180,16.5,8732,23.35
+55139,Winnebago,Hospitalizations,2009,188,17.03,8450,22.4
+55139,Winnebago,Hospitalizations,2010,158,14.22,8233,21.64
+55139,Winnebago,Hospitalizations,2011,185,16.6,8520,22.27
+55139,Winnebago,Hospitalizations,2012,200,17.87,8376,21.78
+55139,Winnebago,Hospitalizations,2013,197,17.5,8232,21.3
+55139,Winnebago,Hospitalizations,2014,213,18.84,7762,19.98
+55139,Winnebago,Hospitalizations,2015,166,14.63,8038,20.6
+55139,Winnebago,Hospitalizations,2016,172,15.07,9257,23.59
+55139,Winnebago,Hospitalizations,2017,192,16.67,10980,27.78
+55139,Winnebago,Hospitalizations,2018,164,14.19,8443,21.2
+55139,Winnebago,Hospitalizations,2019,171,14.65,7486,18.67
+55139,Winnebago,Hospitalizations,2020,116,9.96,4476,11.04
+55139,Winnebago,Hospitalizations,2021,88,7.56,4235,10.42
+55139,Winnebago,Hospitalizations,2022,71,6.08,4210,10.32
+55141,Wood,Hospitalizations,2000,145,28.82,7874,22.62
+55141,Wood,Hospitalizations,2001,142,28.2,7766,22.16
+55141,Wood,Hospitalizations,2002,162,32.06,7425,21.01
+55141,Wood,Hospitalizations,2003,146,28.86,7385,20.72
+55141,Wood,Hospitalizations,2004,111,21.87,6857,19.07
+55141,Wood,Hospitalizations,2005,144,28.28,7885,21.72
+55141,Wood,Hospitalizations,2006,129,25.3,7077,19.31
+55141,Wood,Hospitalizations,2007,156,30.43,7410,20.01
+55141,Wood,Hospitalizations,2008,228,44.18,8732,23.35
+55141,Wood,Hospitalizations,2009,170,32.74,8450,22.4
+55141,Wood,Hospitalizations,2010,181,34.68,8233,21.64
+55141,Wood,Hospitalizations,2011,201,38.4,8520,22.27
+55141,Wood,Hospitalizations,2012,196,37.45,8376,21.78
+55141,Wood,Hospitalizations,2013,194,37.23,8232,21.3
+55141,Wood,Hospitalizations,2014,193,37.15,7762,19.98
+55141,Wood,Hospitalizations,2015,162,31.23,8038,20.6
+55141,Wood,Hospitalizations,2016,172,33.15,9257,23.59
+55141,Wood,Hospitalizations,2017,203,39.14,10980,27.78
+55141,Wood,Hospitalizations,2018,156,30.08,8443,21.2
+55141,Wood,Hospitalizations,2019,151,29.08,7486,18.67
+55141,Wood,Hospitalizations,2020,55,10.42,4476,11.04
+55141,Wood,Hospitalizations,2021,76,14.38,4235,10.42
+55141,Wood,Hospitalizations,2022,75,14.17,4210,10.32
