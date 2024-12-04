@@ -4,7 +4,14 @@
 
 Summers in the western U.S. are becoming more and more known for wildfires, with smoke spreading to many states. There are several reasons for this, including climate change, US forestry policies, and increased awareness of the problem. No matter what causes the fires, they have a wide impact because wildfire smoke lowers air quality in many cities. More studies are showing that smoke can have negative effects on health, especially respiratory health.
 
-The main goal of this project is to closely study the effects of wildfire smoke on community health in Madison, WI, to provide practical insights that can help city council prepare to stay prepared in the health sector. First, we will look at past wildfire data to estimate how much smoke has reached the city in recent years and compare with AQI values for Madison City. Using this information, we build a predictive model to predict smoke patterns that Madison might experience over the next 25 years. We will additionally use the historical smoke estimates to establish correlation with various respiratory health indicators to build a predictive model and use the forecasted smoke estimates to predict the impact of the health metrics for future years.
+From a scientific perspective, understanding the health consequences of wildfire-induced smoke provides crucial insights into the direct impact of climate-related events on respiratory health. Practically, these findings can guide public health interventions, informing policies that protect vulnerable populations, especially during peak wildfire seasons. By integrating localized air quality data and health records, this research aims to identify whether increased smoke exposure correlates with adverse health effects. The specific research questions include:
+ - Does wildfire smoke significantly affect respiratory health (COPD, asthma, and tuberculosis) outcomes in Madison?
+ - Is there a relationship between wildfire smoke exposure and increased death rates from respiratory illnesses, particularly those linked to COPD, asthma, and tuberculosis?
+ - What is the demand for hospitalization and emergency visits for asthma, COPD, TB in the upcoming years and how can healthcare providers prepare for this demand?
+
+The study  hypothesizes that the increasing levels of smoke exposure correlate with a rise in respiratory illnesses, hospitalizations, and potentially mortality rates. If confirmed, it is expected for these trends to continue upward if smoke levels persist or increase in coming years. Based on the insights uncovered and the severity of any effects observed, we can then advise the Madison city council, city manager/mayor, and city residents on potential solutions to mitigate these health impacts. Complete project can be found [here](https://github.com/ManasaSRonur/data-512-project/blob/main/Project%20Report.pdf)
+
+
 
 ### License
 
@@ -213,7 +220,19 @@ These files are generated as we progress through the project workflow to be used
     - `year`: Integer - Year.
     - `aqi`: Float - The average AQI estimate for the year. 
 
+- [**respiratory_illness_mortality_data.csv**](https://github.com/ManasaSRonur/data-512-project/blob/main/intermediary_files/respiratory_illness_mortality_data.csv)
  
+    This csv file contains health indicator data for asthma, copd and tuberculosis.
+   - **Fields**:
+      - `Year`: Integer - The year for which the data is recorded.  
+      - `Illness_crude_rate_asthma`: Float - The crude rate of asthma illness, calculated as the number of emergency visits or hospitalizations for asthma per population unit.  
+      - `Illness_crude_rate_copd`: Float - The crude rate of COPD illness, calculated as the number of emergency visits or hospitalizations for COPD per population unit.  
+      - `Cases_tb`: Integer - The total number of tuberculosis cases reported in the specified year.  
+      - `Death_percent_asthma`: Float - The percentage of deaths attributed to asthma in relation to the total population.  
+      - `Death_percent_copd`: Float - The percentage of deaths attributed to COPD in relation to the total population.  
+      - `Death_percent_tb`: Float - The percentage of deaths attributed to tuberculosis in relation to the total population.  
+
+
 #### Output Files
 All these files are located under [output_files]()
 
@@ -260,10 +279,16 @@ A time series graph of total acres burned per year for the fires occurring in th
 A time series graph comparing the calculated fire smoke estimates for Madison and the average AQI for Madison.
 
 - [smoke_estimate.png](https://github.com/ManasaSRonur/data-512-project/blob/main/output_files/smoke_estimate.png)
-A time series graph comparing the calculated fire smoke estimates for Madison and the average AQI for Madison.
+A time series graph showing the trends in estimates smoke for historical and the forecasted smoke for next 25 years,
 
-- [smoke_impact-on_health.png](https://github.com/ManasaSRonur/data-512-project/blob/main/output_files/smoke_impact-on_health.png)
-A time series graph comparing the calculated fire smoke estimates for Madison and the average AQI for Madison.
+- [compare_smoke_and_health.png](https://github.com/ManasaSRonur/data-512-project/blob/main/output_files/compare_smoke_and_health.png)
+A time series graph comparing the calculated fire smoke estimates for Madison and the respiratory health indicators (illness and motality) for asthma, copd and tuberculosis.
+
+- [smoke_health_correlation.png](https://github.com/ManasaSRonur/data-512-project/blob/main/output_files/smoke_health_correlation.png)
+A heatmap showing the correlation of each seleced health indicator with estimated smoke to determine the effects of smoke on respiratory health.
+
+- [smoke_impact_on_health.png](https://github.com/ManasaSRonur/data-512-project/blob/main/output_files/smoke_impact_on_health.png)
+A time series graph showing the impact of smoke on respiratory health, i.e showing the forecasted trends of the health for next 25 years.
 
 
 ### Project Workflow
@@ -279,9 +304,10 @@ A time series graph comparing the calculated fire smoke estimates for Madison an
 - [3_smoke_estimation.ipynb](https://github.com/ManasaSRonur/data-512-project/blob/main/3_smoke_estimation.ipynb)
 
   This notebook utilises the files generated by the above notebooks to calculate smoke estimates and compare with AQI data to validate the calculated smoke estimates.
+
 - [4_predictive_model.ipynb](https://github.com/ManasaSRonur/data-512-project/blob/main/4_predictive_model.ipynb)
 
-  This notebook is used to build a predictive model on smoke estimates to forecast smoke estimates for next 25 years.
+  This notebook is used to build a predictive model on smoke estimates to forecast smoke estimates for next 25 years and save these forecasted estimated to be used later for impact analysis.
 
 - [5_visualizations.ipynb](https://github.com/ManasaSRonur/data-512-project/blob/main/5_visualizations.ipynb)
 
@@ -289,13 +315,13 @@ A time series graph comparing the calculated fire smoke estimates for Madison an
 
 - [6_health_data_acquisition.ipynb](https://github.com/ManasaSRonur/data-512-project/blob/main/6_health_data_acquisition.ipynb)
 
-  This notebook is used to acquire, process and analyse the respiratory illness and mortality data. It generates a combined health data file to be used to analyse the smoke impact.
+  This notebook is used to acquire, process and analyse the respiratory illness and mortality data. It generates a combined health data file to be used to analyse the smoke correlation and impact.
 
 - [7_extended_model.ipynb](https://github.com/ManasaSRonur/data-512-project/blob/main/7_extended_model.ipynb)
 
   This notebook is used to compare smoke and health metrics, analyse the correlation between them amd to build predictive model that forecasts the smoke impact on health.
 
-### Limitations/Considerations.
+### Limitations and Considerations.
 
 - The Listed_fire_Dates includes all individual dates from merged datasets that overlap in the same area and year. This can provide more details but also adds variation and possible duplication, especially when multiple sources are involved making it unreliable.
 - The tool used to measure fire distances works only with ring-shaped fire boundaries, so 36 fires with curve ring shapes failed while calculating distance and not included in analysis.
@@ -303,10 +329,15 @@ A time series graph comparing the calculated fire smoke estimates for Madison an
 - AQI value was missing for many records fetched through APIs, which were recalculated using the available pollutants data. This adds some level of uncertainity to the calculated value.
 - AQI data is very sparse for years 2001 to 2009 leading poor qualirt average. This makes it difficult to compare and asses out calculation of smoke estimates for this period.
 - The predictive model has R^2 value of only 0.71 which means the model explains about 71% of the variation in the data, there is still a lot of room for improvement in the model. Additionally the predicted values could be off by atleast 2 units which is significantly high for our scale of smoke estimates. While this is a fairly good model considering the data availability limitaion, this is not the best model to forecast the smoke estimate.
-- The temporal range of data for each health indicator is different; mortality data is from 1980 - 2021, Asthma and copd data is available 2000 onwards where as Tb is from 2014. Hence, the prediction effectiveness is likely to be different for each metric.
-- The extended model although seems effective, there is room to further improvement in the Asthma and COPD models, particularly by reducing RMSE and complexity.
+- Despite having access to smoke data spanning the last 60 years, a significant limitation is the relatively shorter temporal range of healthcare data, particularly hospitalization records, which are available only from 2000 to 2023 for asthma and COPD, and from 2014 - 2023 for TB. The lack of overlapping historical data limits our ability to examine the health impacts of smoke exposure with the same depth as our smoke data. Ideally, aligning both datasets temporally would have enabled a more comprehensive analysis.
+- County-specific mortality rate data is unavailable, compelling us to use aggregate data for the entire state of Wisconsin. By relying on statewide data, we risk obscuring local trends and nuances in mortality that might otherwise reveal significant insights. This limitation could lead to correlation errors and impact the precision of our findings regarding the health effects of smoke specifically in Madison, Dane county.
+- The extended model although seems effective, there is room to further improvement in the Asthma and COPD models, particularly by reducing RMSE through addiiton of more features and increasing overall size of training data.
 - Other confounding variables, such as existing health conditions, dietary habits, exposure to toxic gases from other sources, etc., are not considered for forecasting the health indicators for future years. So this analysis alone might not provide an informed decision.
 - The entire analysis in this notebook is based on wildfires in the USA, but Madison is constantly impacted by wildfires in Canada every year due to its geographical location. So we might miss the dominant contributors to poor air quality, leading to weaker than expected correlations with respiratory health trends.
 
 
+### Conclusion
 
+This study examined the impact of wildfire smoke on respiratory health outcomes in Madison, Wisconsin, with the hypothesis that increasing levels of smoke exposure correlate with a rise in respiratory illnesses, hospitalizations, and potentially mortality rates, particularly for asthma, COPD, and tuberculosis. The findings strongly support this hypothesis, revealing a significant positive correlation between smoke exposure and the incidence of asthma and COPD. While the relationship between smoke and tuberculosis was less pronounced, COPD mortality showed a notable connection to smoke levels, whereas asthma and tuberculosis mortality were more influenced by systemic factors such as healthcare access and preexisting conditions. Projections suggest a steep rise in respiratory illnesses over the coming decades if current trends in wildfire smoke continue unabated.
+
+Beyond the statistical findings, this study exemplifies how data science can serve as a bridge between complex environmental data and real-world health outcomes. It underscores the importance of ethical considerations and a human-centered approach, ensuring that the research is not only robust but also aligned with the broader goal of improving quality of life. The conclusions offer valuable guidance for policymakers, healthcare providers, and urban planners in developing strategies such as enhancing air quality monitoring systems, preparing healthcare infrastructure for increased respiratory care demand, and raising public awareness about protective measures. This research reaffirms the potential of data-driven approaches to foster equitable, informed, and community-focused responses to pressing public health challenges.
