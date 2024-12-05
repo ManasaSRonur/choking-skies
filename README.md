@@ -32,6 +32,15 @@ Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2
 https://vizhub.healthdata.org/gbd-results/.
 ```
 
+#### Data Sources
+  - [USGS Wildfire Dataset](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81)
+  - [Air Quality System (AQS) API](https://aqs.epa.gov/aqsweb/documents/data_api.html)
+  - [Mortality Dataset - IHME](https://vizhub.healthdata.org/gbd-results/).
+  - [Asthma Data - Wisconsin DHS](https://www.dhs.wisconsin.gov/epht/asthma.htm)
+  - [COPD Data - Wisconsin DHS](https://www.dhs.wisconsin.gov/epht/copd.htm)
+  - [TB Data - Wisconsin DHS](https://www.dhs.wisconsin.gov/tb/data.htm)
+
+
 #### Code Attribution
 
 Snippets of the code were taken from a code example developed by **Dr. David W. McDonald** for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the **Creative Commons CC-BY license**.
