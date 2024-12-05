@@ -67,7 +67,7 @@ We only need to sign-up once, unless we want to invalidate the current key (by g
 
 #### Input Data File
 
-- The input wildfire data file is too large to be uploaded to the git repository. Follow the below instructions to obtain the inout file.
+- The input wildfire data file is too large to be uploaded to the git repository. Follow the below instructions to obtain the input file.
 
   1. Visit this [link](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81).
   2. Download `GeoJSON Files.zip`.
