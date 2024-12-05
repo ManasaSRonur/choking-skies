@@ -243,7 +243,7 @@ All these files are located under [output_files]()
     - `Fire_Year`: Integer - The year the fire occured.
     - `Smoke_Estimate`: Float - The Smoke estimate for the year.
 
-- [**forecasted_smoke_health_metrics.csv**](https://github.com/ManasaSRonur/data-512-project/blob/main/output_files/output_files/forecasted_smoke_health_metrics.csv)
+- [**forecasted_smoke_health_metrics.csv**](https://github.com/ManasaSRonur/data-512-project/blob/main/output_files/forecasted_smoke_health_metrics.csv)
  
     This csv file contains forecasted smoke values along with forecasted health indicators.
   - **Fields**:
