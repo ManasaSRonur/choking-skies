@@ -9,7 +9,7 @@ From a scientific perspective, understanding the health consequences of wildfire
  - Is there a relationship between wildfire smoke exposure and increased death rates from respiratory illnesses, particularly those linked to COPD, asthma, and tuberculosis?
  - What is the demand for hospitalization and emergency visits for asthma, COPD, TB in the upcoming years and how can healthcare providers prepare for this demand?
 
-The study  hypothesizes that the increasing levels of smoke exposure correlate with a rise in respiratory illnesses, hospitalizations, and potentially mortality rates. If confirmed, it is expected for these trends to continue upward if smoke levels persist or increase in coming years. Based on the insights uncovered and the severity of any effects observed, we can then advise the Madison city council, city manager/mayor, and city residents on potential solutions to mitigate these health impacts. Complete project can be found [here](https://github.com/ManasaSRonur/data-512-project/blob/main/Project%20Report.pdf)
+The study  hypothesizes that the increasing levels of smoke exposure correlate with a rise in respiratory illnesses, hospitalizations, and potentially mortality rates. If confirmed, it is expected for these trends to continue upward if smoke levels persist or increase in coming years. Based on the insights uncovered and the severity of any effects observed, we can then advise the Madison city council, city manager/mayor, and city residents on potential solutions to mitigate these health impacts. Complete project can be found [here](https://github.com/ManasaSRonur/wildfire-analysis/blob/main/docs/Project%20Report.pdf)
 
 
 
